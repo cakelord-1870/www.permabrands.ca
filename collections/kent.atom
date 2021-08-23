@@ -1,0 +1,1062 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.permabrands.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.permabrands.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.permabrands.ca/collections/kent.atom"/>
+  <title>Perma Brands Canada</title>
+  <updated>2021-08-11T23:44:50-04:00</updated>
+  <author>
+    <name>Perma Brands Canada</name>
+  </author>
+  <entry>
+    <id>https://www.permabrands.ca/products/6576527573065</id>
+    <published>2021-08-11T23:44:50-04:00</published>
+    <updated>2021-08-11T23:44:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.permabrands.ca/products/kent-black-small-synthetic-shaving-brush"/>
+    <title>Kent Black Small Synthetic shaving brush</title>
+    <s:type></s:type>
+    <s:vendor>Kent</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1196/2904/products/kent_brushes_blk4s_packaging3.jpg?v=1622733129"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kent<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            31.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our medium black BLK4S is the traditional shave for a modern era.</p>
+<p>Kentâ€™s new 2020 shave range is handcrafted in England and filled with innovative super-soft Silvertex synthetic bristles. Giving you the quality and craftsmanship that you would expect from Kent Brushes.</p>
+<p>Suitable for all beards and to use with soaps, creams and gels.</p>
+<p><strong>Dimensions</strong><br>Overall height 103mm<br>Handle/socket height 50mm<br>Diameter with synthetic bristle 46mm<br>Diameter of handle/socket 37mm</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.permabrands.ca/products/6576527573065</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">31.50</s:price>
+      <s:sku>K-BLK4S</s:sku>
+      <s:grams>160</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.permabrands.ca/products/6576527540297</id>
+    <published>2021-08-11T23:44:46-04:00</published>
+    <updated>2021-08-11T23:44:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.permabrands.ca/products/kent-black-medium-synthetic-shaving-brush"/>
+    <title>Kent Black Medium Synthetic shaving brush</title>
+    <s:type></s:type>
+    <s:vendor>Kent</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1196/2904/products/kent_brushes_blk8s_packaging3.jpg?v=1622733120"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kent<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            33.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our large black BLK8S is the traditional shave for the modern era.</p>
+<p>Kentâ€™s new 2020 shave range is handcrafted in England and filled with innovative super-soft Silvertex synthetic bristles. Giving you the quality and craftsmanship that you would expect from Kent Brushes.</p>
+<p>Suitable for all beards and to use with soaps, creams, and gels.</p>
+<p><strong>Dimensions</strong><br>Overall height 115mm<br>Handle/socket height 56mm<br>Diameter with synthetic bristle 53mm<br>Diameter of handle/socket 41mm</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.permabrands.ca/products/6576527540297</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">33.50</s:price>
+      <s:sku>K-BLK8S</s:sku>
+      <s:grams>160</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.permabrands.ca/products/6576528130121</id>
+    <published>2021-08-11T23:44:43-04:00</published>
+    <updated>2021-08-11T23:44:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.permabrands.ca/products/kent-ivory-small-synthetic-shaving-brush"/>
+    <title>Kent Ivory Small Synthetic shaving brush</title>
+    <s:type></s:type>
+    <s:vendor>Kent</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1196/2904/products/kent_brushes_bk4s_packaging3.jpg?v=1622733172"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kent<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            31.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our medium ivory whiteÂ BK4S is the traditional shave for the modern era.</p>
+<p>Kentâ€™s new 2020 shave range is handcrafted in England and filled with innovative super-soft Silvertex synthetic bristles. Giving you the quality and craftsmanship that you would expect from Kent Brushes.</p>
+<p>Suitable for all beards and to use with soaps, creams, and gels.</p>
+<p><strong>Dimensions</strong><br>Overall height 103mm<br>Handle/socket height 50mm<br>Diameter with synthetic bristle 46mm<br>Diameter of handle/socket 37mm</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Barber &amp; Retail</s:tag>
+    <s:tag>Barber Pro</s:tag>
+    <s:tag>Shaving Brushes</s:tag>
+    <s:tag>Shaving Brushes for Barbers</s:tag>
+    <s:tag>Shaving Brushes for Retail</s:tag>
+    <s:tag>Synthetic Brush</s:tag>
+    <s:variant>
+      <id>https://www.permabrands.ca/products/6576528130121</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">31.50</s:price>
+      <s:sku>K-BK4S</s:sku>
+      <s:grams>160</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.permabrands.ca/products/6576528097353</id>
+    <published>2021-08-11T23:44:39-04:00</published>
+    <updated>2021-08-11T23:44:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.permabrands.ca/products/kent-ivory-medium-synthetic-shaving-brush"/>
+    <title>Kent Ivory Medium Synthetic shaving brush</title>
+    <s:type></s:type>
+    <s:vendor>Kent</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1196/2904/products/kent_brushes_bk8s_packaging3.jpg?v=1622733165"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kent<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            33.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our large ivory white BK8S is the traditional shave for the modern era.</p>
+<p>Kentâ€™s new 2020 shave range is handcrafted in England and filled with innovative super-soft Silvertex synthetic bristles. Giving you the quality and craftsmanship that you would expect from Kent Brushes.</p>
+<p>Suitable for all beards and to use with soaps, creams, and gels.</p>
+<p><strong>ï»¿Dimensions<br data-mce-fragment="1"></strong>Overall height 115mm<br data-mce-fragment="1">Handle/socket height 56mm<br data-mce-fragment="1">Diameter with synthetic bristle 53mm<br data-mce-fragment="1">Diameter of handle/socket 41mm</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Barber &amp; Retail</s:tag>
+    <s:tag>Barber Pro</s:tag>
+    <s:tag>Shaving Brushes</s:tag>
+    <s:tag>Shaving Brushes for Barbers</s:tag>
+    <s:tag>Shaving Brushes for Retail</s:tag>
+    <s:tag>Synthetic Brush</s:tag>
+    <s:variant>
+      <id>https://www.permabrands.ca/products/6576528097353</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">33.50</s:price>
+      <s:sku>K-BK8S</s:sku>
+      <s:grams>160</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.permabrands.ca/products/6576528064585</id>
+    <published>2021-08-11T23:44:36-04:00</published>
+    <updated>2021-08-11T23:44:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.permabrands.ca/products/kent-ivory-large-synthetic-shaving-brush"/>
+    <title>Kent Ivory Large Synthetic shaving brush</title>
+    <s:type></s:type>
+    <s:vendor>Kent</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1196/2904/products/kent_brushes_bk12s_packaging3.jpg?v=1622733156"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kent<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            35.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our extra-largeÂ ivory white BK12S is the traditional shave for a modern era.</p>
+<p>Kentâ€™s new 2020 shave range is handcrafted in England and filled with innovative super-soft Silvertex synthetic bristles. Giving you the quality and craftsmanship that you would expect from Kent Brushes.</p>
+<p>Suitable for all beards and to use with soaps, creams and gels.</p>
+<p><strong>Dimensions</strong><br>Overall height 122mm<br>Handle/socket height 58mm<br>Diameter with synthetic bristle 65mm<br>Diameter of handle/socket 48mm</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Barber &amp; Retail</s:tag>
+    <s:tag>Barber Pro</s:tag>
+    <s:tag>Shaving Brushes</s:tag>
+    <s:tag>Shaving Brushes for Barbers</s:tag>
+    <s:tag>Shaving Brushes for Retail</s:tag>
+    <s:tag>Synthetic Brush</s:tag>
+    <s:variant>
+      <id>https://www.permabrands.ca/products/6576528064585</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">35.50</s:price>
+      <s:sku>K-BK12S</s:sku>
+      <s:grams>160</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.permabrands.ca/products/6576527999049</id>
+    <published>2021-08-11T23:43:59-04:00</published>
+    <updated>2021-08-11T23:43:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.permabrands.ca/products/kent-hedgehog-pebble-detangling-brush"/>
+    <title>Kent Hedgehog Pebble Detangling Brush</title>
+    <s:type></s:type>
+    <s:vendor>Kent</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1196/2904/products/IMG_20210302_163846__01.jpg?v=1622733145"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kent<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Our Pebble Brush withÂ Hedgehog print is our BRAND-NEW Travel Brush â€“ perfect for all hair types and can be used to tame both wet and dry locks. If you are seeking smooth, submissive, gorgeously groomed hair, then the Pebble is for you. Itâ€™s easy to use, fuss-free, and will gently yet effectively glide through nest-hair helping to banish those knots in no time!</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.permabrands.ca/products/6576527999049</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.00</s:price>
+      <s:sku>K-PHOG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.permabrands.ca/products/6576527736905</id>
+    <published>2021-08-11T23:43:56-04:00</published>
+    <updated>2021-08-11T23:43:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.permabrands.ca/products/kent-bumble-bee-pebble-detangling-brush"/>
+    <title>Kent Bumble Bee Pebble Detangling Brush</title>
+    <s:type></s:type>
+    <s:vendor>Kent</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1196/2904/products/IMG_20210302_163518__01.jpg?v=1622733134"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kent<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Our Pebble Brush withÂ Bumble BeeÂ print is our BRAND-NEW Travel Brush â€“ perfect for all hair types and can be used to tame both wet and dry locks. If you are seeking smooth, submissive, gorgeously groomed hair, then the Pebble is for you. Itâ€™s easy to use, fuss-free, and will gently yet effectively glide through nest-hair helping to banish those knots in no time!</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.permabrands.ca/products/6576527736905</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.00</s:price>
+      <s:sku>K-PBEE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.permabrands.ca/products/6576528031817</id>
+    <published>2021-08-11T23:38:47-04:00</published>
+    <updated>2021-08-11T23:38:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.permabrands.ca/products/kent-infinity-super-soft-silvertex-synthetic-brush"/>
+    <title>Kent &quot;Infinity&quot; Super Soft Silvertex, synthetic brush</title>
+    <s:type></s:type>
+    <s:vendor>Kent</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1196/2904/products/INF4SHAVEBRUSHBLACK.jpg?v=1622733149"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kent<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            21.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Barber &amp; Retail</s:tag>
+    <s:tag>Barber Pro</s:tag>
+    <s:tag>Shaving Brushes</s:tag>
+    <s:tag>Shaving Brushes for Barbers</s:tag>
+    <s:tag>Shaving Brushes for Retail</s:tag>
+    <s:tag>Synthetic Brush</s:tag>
+    <s:variant>
+      <id>https://www.permabrands.ca/products/6576528031817</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">21.50</s:price>
+      <s:sku>K-INF4</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.permabrands.ca/products/6576528195657</id>
+    <published>2021-08-11T23:38:43-04:00</published>
+    <updated>2021-08-11T23:38:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.permabrands.ca/products/k-inf3-kent-infinity-super-soft-silvertex-synthetic-brush"/>
+    <title>Kent &quot;Infinity&quot; Super Soft Silvertex, synthetic brush</title>
+    <s:type></s:type>
+    <s:vendor>Kent</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1196/2904/products/INF3SHAVEBRUSHWHITE.jpg?v=1622733180"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kent<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.permabrands.ca/products/6576528195657</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>K-INF3</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.permabrands.ca/products/1322905829449</id>
+    <published>2021-08-11T23:22:21-04:00</published>
+    <updated>2021-08-11T23:22:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.permabrands.ca/products/brd5-monster-beard-brush"/>
+    <title>Kent Monster Beard Brush</title>
+    <s:type>Beard Brushes</s:type>
+    <s:vendor>Kent</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1196/2904/products/brd5a_1.jpg?v=1532106477"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kent<br>
+        <strong>Type: </strong>Beard Brushes<br>
+        <strong>Price: </strong>
+            22.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>The monster – a moniker not to taken lightly. This isn’t just some tarted up, rebranded, off-the-shelf hairbrush put to the market under the guise of being a legitimate beard brush. </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Kent</s:tag>
+    <s:variant>
+      <id>https://www.permabrands.ca/products/1322905829449</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">22.50</s:price>
+      <s:sku>K-BRD5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.permabrands.ca/products/6576528162889</id>
+    <published>2021-08-11T23:20:41-04:00</published>
+    <updated>2021-08-11T23:20:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.permabrands.ca/products/kent-styling-and-grooming-brush"/>
+    <title>Kent Styling and Grooming Brush</title>
+    <s:type></s:type>
+    <s:vendor>Kent</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1196/2904/products/IMG_20210210_164249__01.jpg?v=1622733177"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kent<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><span class="a-list-item">EASY STYLING: Excellent Hair Pickup Facilitate's The Winding of Curls and Short Bobs, Creating Root Lift and Great for Maintaining Fringes</span></li>
+<li><span class="a-list-item">REMOVABLE SILICON PAD: Removable Silicon Pad for Easy Cleaning and Maintenance, Soft Padding for Comfortable Use, and Attractive Red Silicon</span></li>
+<li><span class="a-list-item">ROUNDED NYLON QUILLS: Firm Touch Nylon Quills Ensure Solid Grabbing of The Hair and Provide Extra Comfort To The Scalp</span></li>
+<li><span class="a-list-item">DAILY GROOMING: Perfect for Daily Grooming, Stimulates the Scalp Without Damaging Hair Follicles and Prevents Split Ends At The Same Time</span></li>
+<li><span class="a-list-item">KENT LEGACY: Made in England Since 1777 By KENT The World's Oldest Hairbrush Manufacturer and Holders of The Royal Warrant Through The Last Nine Consecutive Reigns of British Monarchy</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Barber &amp; Retail</s:tag>
+    <s:tag>Barber Pro</s:tag>
+    <s:tag>Shaving Brushes</s:tag>
+    <s:tag>Shaving Brushes for Barbers</s:tag>
+    <s:tag>Shaving Brushes for Retail</s:tag>
+    <s:tag>Synthetic Brush</s:tag>
+    <s:variant>
+      <id>https://www.permabrands.ca/products/6576528162889</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>K-KS09</s:sku>
+      <s:grams>90</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.permabrands.ca/products/9077219459</id>
+    <published>2021-08-11T23:16:20-04:00</published>
+    <updated>2021-08-11T23:16:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.permabrands.ca/products/kent-shaving-cream-tube-75ml-2-5oz"/>
+    <title>Kent Shaving Cream, Tube (75ml/2.5oz)</title>
+    <s:type>Shave Creams</s:type>
+    <s:vendor>Kent</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1196/2904/products/K-SCT1_1.jpg?v=1527137009"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kent<br>
+        <strong>Type: </strong>Shave Creams<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Kent Shaving Shaving Cream is a specially formulated shaving cream made with a skin enriching and hydrating formulation. Creates a protective layer on your skin for shaving, a smooth shave will be achieved. Contains a masculine fragrance with the combination of patchouli, calming lavender, refreshing pine and clove with nutmeg, cedar wood, sandalwood, vanilla, and musk. Comes in a convenient tube. (7.5ml/2.5 oz). Product of the UK.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Kent</s:tag>
+    <s:tag>p2c-8.82</s:tag>
+    <s:tag>p6c-8.46</s:tag>
+    <s:tag>Shave Creams Soaps &amp; Gels</s:tag>
+    <s:tag>Shaving Soaps &amp; Aftershave</s:tag>
+    <s:tag>Shaving Soaps &amp; Creams</s:tag>
+    <s:variant>
+      <id>https://www.permabrands.ca/products/9077219459</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku>K-SCT1</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.permabrands.ca/products/9077220099</id>
+    <published>2021-08-11T23:16:17-04:00</published>
+    <updated>2021-08-11T23:16:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.permabrands.ca/products/kent-mens-brush-rectangular-head-soft-white-bristles-satinwood"/>
+    <title>Kent Men&apos;s Brush, Rectangular Head,Soft White Bristles, Satinwood</title>
+    <s:type>Men&apos;s Premium Brushes</s:type>
+    <s:vendor>Kent</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1196/2904/products/K-OS11_1024x1024_3c0f05eb-1b21-481a-b583-5922c01f8039.jpg?v=1527136980"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kent<br>
+        <strong>Type: </strong>Men&#39;s Premium Brushes<br>
+        <strong>Price: </strong>
+            62.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Kent Brushes' passion for bristles is evident in their brushes. Handmade to perfection with the finest bristles from merchants in India and China, quality is assured. Designed with a rectangular head and soft white bristles, it is ideal for those with thick hair and a sensitive scalp. The Kent Fine Bristle Brush is built with a sandalwood handle, which is sourced from the finest timbers in the world.</p>
+<p>Product of the UK.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hair Combs &amp; Brushes</s:tag>
+    <s:tag>Kent</s:tag>
+    <s:tag>Men&apos;s Hair Care</s:tag>
+    <s:tag>p2c-61.25</s:tag>
+    <s:tag>p6c-58.75</s:tag>
+    <s:variant>
+      <id>https://www.permabrands.ca/products/9077220099</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">62.50</s:price>
+      <s:sku>K-OS11</s:sku>
+      <s:grams>246</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.permabrands.ca/products/9077220547</id>
+    <published>2021-08-11T23:16:14-04:00</published>
+    <updated>2021-08-11T23:16:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.permabrands.ca/products/kent-k-nu22-comb-fine-tooth-with-leather-tab-case-120mm-4-7in"/>
+    <title>Kent K-NU22 Comb, Fine Tooth With Leather Tab &amp; Case (120mm/4.7in)</title>
+    <s:type>Pocket Combs</s:type>
+    <s:vendor>Kent</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1196/2904/products/K-NU22.jpg?v=1527136970"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kent<br>
+        <strong>Type: </strong>Pocket Combs<br>
+        <strong>Price: </strong>
+            17.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p></p><p><span style="font-weight: 400;">Use: Hair</span></p><p><span style="font-weight: 400;">Size: Pocket (120mm/4.7in)</span></p><p><span style="font-weight: 400;">Hair Type: Fine </span></p><p><span style="font-weight: 400;">Portable luxury always provides a sense of satisfaction. This Kent Comb is handmade with the finest cellulose acetate to remove static from hair. Crafted with a fine-tooth design, it is gentle on the finest hair. Ideal for combing through hair in swift movements so that natural oils can be distributed throughout the hair to create a sleek look. </span>(120mm/4.7in). Product of the UK.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hair Combs &amp; Brushes</s:tag>
+    <s:tag>Kent</s:tag>
+    <s:tag>Men&apos;s Combs &amp; Hairbrushes</s:tag>
+    <s:tag>Men&apos;s Hair Care</s:tag>
+    <s:tag>p2c-17.15</s:tag>
+    <s:tag>p6c-16.45</s:tag>
+    <s:variant>
+      <id>https://www.permabrands.ca/products/9077220547</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.50</s:price>
+      <s:sku>K-NU22</s:sku>
+      <s:grams>46</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.permabrands.ca/products/9077222083</id>
+    <published>2021-08-11T23:16:08-04:00</published>
+    <updated>2021-08-11T23:16:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.permabrands.ca/products/kent-k-lpc2-hairbrush-cleaner-removes-hair-from-brushes"/>
+    <title>Kent K-LPC2 Hairbrush Cleaner, Removes Hair From Brushes</title>
+    <s:type>Hair Brushes</s:type>
+    <s:vendor>Kent</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1196/2904/products/K-LPC2_1.jpg?v=1527136967"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kent<br>
+        <strong>Type: </strong>Hair Brushes<br>
+        <strong>Price: </strong>
+            7.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Grooming products ensure that you can look your best everyday. Therefore, you must take care of your tools so that they can take care of you. This Kent Hairbrush Cleaner contains small flexible bristles so that it can move into the thinnest crevices for maximum cleaning. Designed to remove even the finest debris and hair from brushes, so that you can focus on grooming. Product of the UK. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Kent</s:tag>
+    <s:tag>Men&apos;s Combs &amp; Hairbrushes</s:tag>
+    <s:tag>Men&apos;s Hair Care</s:tag>
+    <s:tag>p2c-7.35</s:tag>
+    <s:tag>p6c-7.05</s:tag>
+    <s:tag>Top Seller</s:tag>
+    <s:variant>
+      <id>https://www.permabrands.ca/products/9077222083</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.50</s:price>
+      <s:sku>K-LPC2</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.permabrands.ca/products/9077222211</id>
+    <published>2021-08-11T23:16:05-04:00</published>
+    <updated>2021-08-11T23:16:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.permabrands.ca/products/kent-k-kfm3-for-men-brush-gel-styler-flat-narrow-for-short-hair"/>
+    <title>Kent K-KFM3 For Men Brush, Gel Styler, Flat &amp; Narrow, For Short Hair</title>
+    <s:type>Men&apos;s Premium Brushes</s:type>
+    <s:vendor>Kent</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1196/2904/products/K-KFM3_1024x1024_37bf9139-3645-4090-9e24-f915aafbe826.jpg?v=1527136965"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kent<br>
+        <strong>Type: </strong>Men&#39;s Premium Brushes<br>
+        <strong>Price: </strong>
+            14.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p></p><p><span style="font-weight: 400;">Bristle Type: Gel</span></p><p><span style="font-weight: 400;">Handle: Standard</span></p><p><span style="font-weight: 400;">Hair Type: Short</span></p><p><span style="font-weight: 400;">The Kent Gel Styler Brush is designed to be flat and narrow so that it can be used on shorter hair. Made with gel bristles, it will be gentle on the scalp while combing through short hair. Kent has a rich British manufacturing heritage that dates back to 1777. Known for their hand craftsmanship, their brushes are the premiere luxury brushes of the world. Made with only the finest materials, Kent assures quality is guaranteed. Product of the UK.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hair Combs &amp; Brushes</s:tag>
+    <s:tag>Kent</s:tag>
+    <s:tag>Men&apos;s Hair Care</s:tag>
+    <s:tag>p2c-13.72</s:tag>
+    <s:tag>p6c-13.16</s:tag>
+    <s:tag>tgbundle-product-bundle-option-1</s:tag>
+    <s:tag>Top Seller</s:tag>
+    <s:variant>
+      <id>https://www.permabrands.ca/products/9077222211</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku>K-KFM3</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.permabrands.ca/products/9077222659</id>
+    <published>2021-08-11T23:16:02-04:00</published>
+    <updated>2021-08-11T23:16:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.permabrands.ca/products/kent-k-fot-comb-pocket-comb-fine-110mm-4-3in"/>
+    <title>Kent K-FOT Comb, Pocket Comb, Fine (110mm/4.3in)</title>
+    <s:type>Table Combs</s:type>
+    <s:vendor>Kent</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1196/2904/products/K-FOT.jpg?v=1527136964"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kent<br>
+        <strong>Type: </strong>Table Combs<br>
+        <strong>Price: </strong>
+            7.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p></p><p><span style="font-weight: 400;">Use: Hair</span></p><p><span style="font-weight: 400;">Size: Pocket<span>(110mm/4.3in)</span></span></p><p><span style="font-weight: 400;">Hair Type: Fine</span></p><p>Fine hair requires exclusive attention and Kent Brushes understands. The Kent Handmade Comb is a fine-toothed pocket comb that can be brought anywhere for a quick grooming session. Made with cellulose acetate, static is removed from hair instantly and the saw-cut teeth ensure that natural hair oils are distributed evenly across the scalp for a healthy look. Ideal as a gift for men on the go. (110mm/4.3in). Product of the UK.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hair Combs &amp; Brushes</s:tag>
+    <s:tag>Kent</s:tag>
+    <s:tag>Men&apos;s Combs &amp; Hairbrushes</s:tag>
+    <s:tag>Men&apos;s Hair Care</s:tag>
+    <s:tag>p2c-7.35</s:tag>
+    <s:tag>p6c-7.05</s:tag>
+    <s:tag>tgbundle-product-bundle-option-1</s:tag>
+    <s:tag>Top Seller</s:tag>
+    <s:variant>
+      <id>https://www.permabrands.ca/products/9077222659</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.50</s:price>
+      <s:sku>K-FOT</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.permabrands.ca/products/9077223235</id>
+    <published>2021-08-11T23:15:59-04:00</published>
+    <updated>2021-08-11T23:15:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.permabrands.ca/products/kent-k-cc2-clothes-brush-travel-size-pure-black-bristle-cherrywood"/>
+    <title>Kent K-CC2 Clothes Brush, Travel Size, Pure Black Bristle, Cherrywood</title>
+    <s:type>Clothes Brushes</s:type>
+    <s:vendor>Kent</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1196/2904/products/K-CC2_1024x1024_c1883cf6-9414-4be5-8307-bc9fa61067e1.jpg?v=1527136959"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kent<br>
+        <strong>Type: </strong>Clothes Brushes<br>
+        <strong>Price: </strong>
+            19.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p></p><p><span style="font-weight: 400;">Bristle Type: Black</span></p><p><span style="font-weight: 400;">Handle: Military (Travel)</span></p><p><span style="font-weight: 400;">Type: Clothes</span></p><p>The Kent Clothes Brush is made with expert hands and designed to supremacy. Crafted in an ideal military form, it can be brought on travels abroad or placed in a briefcase for touch ups between meetings.</p><p>This item can be sold with other essential travel items such as shaving creams, razors, brushes, or soaps. Made with a cherrywood handle for a durable touch. Product of the UK. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Clothes Brush</s:tag>
+    <s:tag>Clothes Brushes</s:tag>
+    <s:tag>Kent</s:tag>
+    <s:tag>Men&apos;s Body &amp; Clothing</s:tag>
+    <s:tag>Men&apos;s Body &amp; Clothing Brushes</s:tag>
+    <s:tag>Men&apos;s Manicure</s:tag>
+    <s:tag>p2c-19.11</s:tag>
+    <s:tag>p6c-18.33</s:tag>
+    <s:tag>tgbundle-product-bundle-option-1</s:tag>
+    <s:tag>Top Seller</s:tag>
+    <s:variant>
+      <id>https://www.permabrands.ca/products/9077223235</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.50</s:price>
+      <s:sku>K-CC2</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.permabrands.ca/products/9077223811</id>
+    <published>2021-08-11T23:15:56-04:00</published>
+    <updated>2021-08-11T23:15:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.permabrands.ca/products/kent-k-9t-comb-large-dressing-table-comb-coarse-fine-190mm-7-5in"/>
+    <title>Kent K-9T Comb, Large Dressing Table Comb, Coarse/Fine (190mm/7.5in)</title>
+    <s:type>Table Combs</s:type>
+    <s:vendor>Kent</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1196/2904/products/K-9T_1024x1024_ebda08d7-affb-4aff-be77-96aeaac3394c.jpg?v=1527136958"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kent<br>
+        <strong>Type: </strong>Table Combs<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p></p><p><span style="font-weight: 400;">Use: Hair </span></p><p><span style="font-weight: 400;">Size: Table (190mm/7.5in)</span></p><p><span style="font-weight: 400;">Hair Type: Coarse/Fine</span></p><p>Kent Brushes understands that combing is an important part of every grooming ritual. Since 1777, they have sourced the highest quality materials to create luxury combs that nourish the hair in every way. Crafted with cellulose acetate, it removes static and dust from the hair, while stimulating the strands for a glowing finish. Saw-cut with close spaces, it will be gentle on even the finest or coarsest hair. (190mm/7.5in). Product of the UK. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hair Combs &amp; Brushes</s:tag>
+    <s:tag>Kent</s:tag>
+    <s:tag>Men&apos;s Combs &amp; Hairbrushes</s:tag>
+    <s:tag>Men&apos;s Hair Care</s:tag>
+    <s:tag>p2c-8.82</s:tag>
+    <s:tag>p6c-8.46</s:tag>
+    <s:variant>
+      <id>https://www.permabrands.ca/products/9077223811</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku>K-9T</s:sku>
+      <s:grams>40</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.permabrands.ca/products/9077223939</id>
+    <published>2021-08-11T23:15:52-04:00</published>
+    <updated>2021-08-11T23:15:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.permabrands.ca/products/kent-87t-folding-pocket-mustache-comb-117mm-4-6in"/>
+    <title>Kent 87T Folding Pocket Mustache Comb (117mm/4.6in)</title>
+    <s:type>Mustache Combs</s:type>
+    <s:vendor>Kent</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1196/2904/products/K-87T.jpg?v=1527136943"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kent<br>
+        <strong>Type: </strong>Mustache Combs<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p></p><p><span style="font-weight: 400;">Use: Beard</span></p><p><span style="font-weight: 400;">Size: Pocket (117mm/4.6in)</span></p><p><span style="font-weight: 400;">Hair Type: Fine</span></p><p><span style="font-weight: 400;">The Kent 87T Folding Pocket Mustache Comb is a trusted companion that will ensure your beard or mustache looks dapper wherever you go. Crafted with faux tortoiseshell for an elegant effect, it has also been saw-cut and handmade to stimulate the natural oils inside your cuticles. Excellent for when you are on the go, it folds inwards so that you can slip it into your pocket or briefcase. Looking dapper always. 117mm/4.6in). Product of the UK. </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beard &amp; Mustache Care</s:tag>
+    <s:tag>Kent</s:tag>
+    <s:tag>Men&apos;s Combs &amp; Hairbrushes</s:tag>
+    <s:tag>Men&apos;s Hair Care</s:tag>
+    <s:tag>p2c-5.88</s:tag>
+    <s:tag>p6c-5.64</s:tag>
+    <s:tag>Top Seller</s:tag>
+    <s:variant>
+      <id>https://www.permabrands.ca/products/9077223939</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku>K-87T</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.permabrands.ca/products/9077224067</id>
+    <published>2021-08-11T23:15:49-04:00</published>
+    <updated>2021-08-11T23:15:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.permabrands.ca/products/kent-85t-limited-edition-beard-and-mustache-comb-90mm-3-5in"/>
+    <title>Kent 85T Limited Edition Beard and Mustache Comb (90mm/3.5in)</title>
+    <s:type>Beard Combs</s:type>
+    <s:vendor>Kent</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1196/2904/products/K-85T_1_1024x1024_3a048164-9935-473a-a1d5-65dc01643843.jpg?v=1527136941"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kent<br>
+        <strong>Type: </strong>Beard Combs<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p></p><p><span style="font-weight: 400;">Use: Beard</span></p><p><span style="font-weight: 400;">Size: Pocket (99mm/3.5in.)</span></p><p><span style="font-weight: 400;">Hair Type: Fine</span></p><p>The Kent 85T Limited Edition Beard and Mustache Comb is an exclusive tribute to Kent's regal heritage. The leading experts in brush and comb craftsmanship, Kent has been a purveyor of British pedigree since 1777. This comb provides optimal results in a compact size. Made with a sweeping tail handle, it combs through facial hair smoothly while distributing natural oils to keep the hair healthy and shiny. Can be placed in a bag, in the car, or a drawer so that facial hair can look sleek anywhere. (90mm/3.5in). Product of the UK. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beard &amp; Moustache Care</s:tag>
+    <s:tag>Beard &amp; Mustache Care</s:tag>
+    <s:tag>bundle-beard-care-product-bundle-option</s:tag>
+    <s:tag>Kent</s:tag>
+    <s:tag>Men&apos;s Hair Care</s:tag>
+    <s:tag>p2c-5.88</s:tag>
+    <s:tag>p6c-5.64</s:tag>
+    <s:variant>
+      <id>https://www.permabrands.ca/products/9077224067</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku>K-85T</s:sku>
+      <s:grams>46</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.permabrands.ca/products/9077224835</id>
+    <published>2021-08-11T23:15:43-04:00</published>
+    <updated>2021-08-11T23:15:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.permabrands.ca/products/kent-k-2t-comb-pocket-comb-fine-154mm-6-1in"/>
+    <title>Kent K-2T Comb, Pocket Comb, Fine (154mm/6.1in)</title>
+    <s:type>Pocket Combs</s:type>
+    <s:vendor>Kent</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1196/2904/products/K-2T_1024x1024_1d208ff4-4edc-4805-8c1f-e610b94bce7a.jpg?v=1527136953"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kent<br>
+        <strong>Type: </strong>Pocket Combs<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p></p><p><span style="font-weight: 400;">Use: Hair </span></p><p><span style="font-weight: 400;">Size: Pocket (154mm/6.1in)</span></p><p><span style="font-weight: 400;">Hair Type: Fine</span></p><p>Kent Brushes' versatile products are crafted with an accumulated knowledge of craftsmanship that dates back to 1777. Made with the finest materials from around the world, this Kent Pocket Comb is designed to be portable for quick grooming on the go. Crafted with a faux tortoiseshell effect, the long edge and fine-tooth edges are gentle on the finest of hair. Arranged with an elegant touch. (154mm/6.1in). Product of the UK. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hair Combs &amp; Brushes</s:tag>
+    <s:tag>Kent</s:tag>
+    <s:tag>Men&apos;s Combs &amp; Hairbrushes</s:tag>
+    <s:tag>Men&apos;s Hair Care</s:tag>
+    <s:tag>p2c-8.82</s:tag>
+    <s:tag>p6c-8.46</s:tag>
+    <s:tag>Top Seller</s:tag>
+    <s:variant>
+      <id>https://www.permabrands.ca/products/9077224835</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku>K-2T</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.permabrands.ca/products/9077224323</id>
+    <published>2021-08-11T23:11:02-04:00</published>
+    <updated>2021-08-11T23:11:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.permabrands.ca/products/kent-k-81t-comb-beard-and-moustache-comb-fine-70mm-2-8in"/>
+    <title>Kent K-81T Comb, Beard And Moustache Comb, Fine (70mm/2.8in)</title>
+    <s:type>Beard Combs</s:type>
+    <s:vendor>Kent</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1196/2904/products/K-81T_1024x1024_8c906004-8712-418d-8352-8de5c7dae61e.jpg?v=1527136956"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kent<br>
+        <strong>Type: </strong>Beard Combs<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p></p><p><span style="font-weight: 400;">Use: Beard</span></p><p><span style="font-weight: 400;">Size: Pocket<span>(70mm/2.8in)</span></span></p><p><span style="font-weight: 400;">Hair Type: Fine</span></p><p><span style="font-weight: 400;">Kent Brushes has a refined British manufacturing history that dates back to 1777. Handmade with a faux tortoiseshell effect, the comb is made with cellulose acetate to prevent static and is gentle on the scalp so that it</span><span style="font-weight: 400;">glides effortlessly through your beard or moustache to help maintain its natural oils. Crafted with saw-cut teeth and wide spaces, the Kent Comb is smooth to the touch. (70mm/2.8in). Product of the UK.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beard &amp; Mustache Care</s:tag>
+    <s:tag>Kent</s:tag>
+    <s:tag>Men&apos;s Combs &amp; Hairbrushes</s:tag>
+    <s:tag>Men&apos;s Hair Care</s:tag>
+    <s:tag>p2c-5.88</s:tag>
+    <s:tag>p6c-5.64</s:tag>
+    <s:tag>tgbundle-product-bundle-option-1</s:tag>
+    <s:variant>
+      <id>https://www.permabrands.ca/products/9077224323</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku>K-81T</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.permabrands.ca/products/9077224963</id>
+    <published>2021-08-11T23:10:58-04:00</published>
+    <updated>2021-08-11T23:10:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.permabrands.ca/products/kent-k-20t-comb-folding-pocket-comb-with-clip-fine-85mm-3-3in"/>
+    <title>Kent K-20T Comb, Folding Pocket Comb With Clip, Fine (85mm/3.3in)</title>
+    <s:type>Pocket Combs</s:type>
+    <s:vendor>Kent</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1196/2904/products/K-20T_1024x1024_6a17d5d4-eae1-4ea6-b04c-c7d2fd2d96a2.jpg?v=1527136951"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kent<br>
+        <strong>Type: </strong>Pocket Combs<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p></p><p><span style="font-weight: 400;">Use: Hair</span></p><p><span style="font-weight: 400;">Size: Pocket (85mm/3.3in)</span></p><p><span style="font-weight: 400;">Hair Type: Fine</span></p><p>Practical accessories are ideal for gentlemen on the go. The Kent Folding Pocket Comb is designed to be taken everywhere whether it is in a suitcase, a briefcase, or placed conveniently into your pocket. It can also be transformed into a stylish accessory that can be clipped onto the front of suit pockets for easy access. Grooming has never been made easier with Kent Brushes. (85mm/3.3in). Product of the UK.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hair Combs &amp; Brushes</s:tag>
+    <s:tag>Kent</s:tag>
+    <s:tag>Men&apos;s Combs &amp; Hairbrushes</s:tag>
+    <s:tag>Men&apos;s Hair Care</s:tag>
+    <s:tag>p2c-9.80</s:tag>
+    <s:tag>p6c-9.40</s:tag>
+    <s:tag>tgbundle-product-bundle-option-1</s:tag>
+    <s:tag>Top Seller</s:tag>
+    <s:variant>
+      <id>https://www.permabrands.ca/products/9077224963</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku>K-20T</s:sku>
+      <s:grams>30</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.permabrands.ca/products/9077224195</id>
+    <published>2021-08-11T23:10:21-04:00</published>
+    <updated>2021-08-11T23:10:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.permabrands.ca/products/kent-k-82t-comb-folding-comb-fine-90mm-3-5in"/>
+    <title>Kent K-82T Comb, Folding Comb,Fine (90mm/3.5in)</title>
+    <s:type>Pocket Combs</s:type>
+    <s:vendor>Kent</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1196/2904/products/K-82T_1024x1024_9a486f24-ab6d-4009-a683-4a386fdaa432.jpg?v=1527136956"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kent<br>
+        <strong>Type: </strong>Pocket Combs<br>
+        <strong>Price: </strong>
+            11.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p></p><p><span style="font-weight: 400;">Use: Hair</span></p><p><span style="font-weight: 400;">Size: Pocket (90mm/3.5in)</span></p><p><span style="font-weight: 400;">Hair Type: Fine</span></p><p>Kent Brushes produces some of the most luxurious combs in the entire world. With a heritage that dates back to 1777, Kent is the British purveyor of handcrafted combs and brushes. This Folding Comb is saw-cut for the finest hair so that tangles can be removed without any damage. Manufactured with cellulose acetate to prevent static, gleaming hair is only a few strokes away. Can also be folded to be placed in a jacket or pants pocket for effective grooming. (90mm/3.5in). Product of the UK. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hair Combs &amp; Brushes</s:tag>
+    <s:tag>Kent</s:tag>
+    <s:tag>Men&apos;s Combs &amp; Hairbrushes</s:tag>
+    <s:tag>Men&apos;s Hair Care</s:tag>
+    <s:tag>p2c-11.27</s:tag>
+    <s:tag>p6c-10.81</s:tag>
+    <s:tag>tgbundle-product-bundle-option-1</s:tag>
+    <s:tag>Top Seller</s:tag>
+    <s:variant>
+      <id>https://www.permabrands.ca/products/9077224195</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.50</s:price>
+      <s:sku>K-82T</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+</feed>

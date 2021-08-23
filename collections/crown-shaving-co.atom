@@ -1,0 +1,672 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.permabrands.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.permabrands.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.permabrands.ca/collections/crown-shaving-co.atom"/>
+  <title>Perma Brands Canada</title>
+  <updated>2021-08-11T23:39:24-04:00</updated>
+  <author>
+    <name>Perma Brands Canada</name>
+  </author>
+  <entry>
+    <id>https://www.permabrands.ca/products/4601280200777</id>
+    <published>2021-08-11T23:39:24-04:00</published>
+    <updated>2021-08-11T23:39:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.permabrands.ca/products/crown-shaving-lip-repair"/>
+    <title>Crown Shaving Lip Repair</title>
+    <s:type>Men&apos;s Skincare</s:type>
+    <s:vendor>Crown Shaving</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1196/2904/products/Lip_Repair.jpg?v=1610521898"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Crown Shaving<br>
+        <strong>Type: </strong>Men&#39;s Skincare<br>
+        <strong>Price: </strong>
+            11.37
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="ProductItem-details-excerpt" data-content-field="excerpt" data-mce-fragment="1">
+<p class="" data-mce-fragment="1">We formulated this natural lip balm with a hydrating blend of beeswax, jojoba oil and Shea butter to restore, repair and moisturize dry, chapped lips. It’s easy to carry for those ski trips, too.</p>
+<p class=""><strong>Ingredients:</strong> Cera alba (beeswax), butyrospermum parkii (shea) butter, ricinus communis (castor) seed oil, theobroma cacao (cocoa) seed butter, simmondsia chinensis (jojoba) seed oil, menthe piperita tocopherol.</p>
+<p class=""><strong>Description: </strong>Natural Lip Balm formulated with a hydrating blend of ingredients to restore, repair and provide daily moisture to dry/chapped lips.</p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.permabrands.ca/products/4601280200777</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.37</s:price>
+      <s:sku>CSC-099552</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.permabrands.ca/products/4601280233545</id>
+    <published>2021-08-11T23:39:21-04:00</published>
+    <updated>2021-08-11T23:39:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.permabrands.ca/products/crown-shaving-structure-styling-paste-120-ml-4-fl-oz"/>
+    <title>Crown Shaving Structure Styling Paste 120 ml/ 4 fl oz.</title>
+    <s:type>Pomade &amp; Hair Products</s:type>
+    <s:vendor>Crown Shaving</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1196/2904/products/Structure_Styling_Paste.jpg?v=1610521835"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Crown Shaving<br>
+        <strong>Type: </strong>Pomade &amp; Hair Products<br>
+        <strong>Price: </strong>
+            14.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">A pliable styling paste that delivers a strong hold with a matte natural finish. Great for definition and structure. Sulfate and paraben free.</span></p>
+<p><strong>Ingredients: </strong>Aqua/Water/Eau, Lanolin Wax, Beeswax, PVP, PEG-8 Beeswax, Lanolin Alcohol, Sodium Polyacryloyldimethyl Taurate, Cetearyl Alcohol, Behenyl Alcohol, Propylene Glycol, PEG-40 Hydrogenated Castor Oil, Parfum/Fragrance, Hydrogenated Polydecene, Trideceth-10, Tridecyl Stearate, Neopentyl Glycol Dicaprylate/Dicaprate, Tridecyl Trimellitate, Phenoxyethanol, Triethylene Glycol.</p>
+<p><strong>Directions: </strong>Apply and work through damp or dry hair and style as desired.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.permabrands.ca/products/4601280233545</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku>CSC-099514</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.permabrands.ca/products/4601280266313</id>
+    <published>2021-08-11T23:39:17-04:00</published>
+    <updated>2021-08-11T23:39:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.permabrands.ca/products/crown-shaving-hair-grooming-spray-225-ml-8-fl-oz"/>
+    <title>Crown Shaving Hair Grooming Spray 225 mL/ 8 fl oz</title>
+    <s:type>Pomade &amp; Hair Products</s:type>
+    <s:vendor>Crown Shaving</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1196/2904/products/IMG_1542.jpg?v=1611122476"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Crown Shaving<br>
+        <strong>Type: </strong>Pomade &amp; Hair Products<br>
+        <strong>Price: </strong>
+            14.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">This lightweight spray is as versatile as it gets; Use it as a pre-styling agent—just before blow drying—for added volume. It also adds pliable texture when worked through dry hair. </span></p>
+<p><strong>Ingredients:</strong> Water/Aqua/Eau, Ethanol, VP/VA Copolymer, Hydrolyzed Wheat Protein, Hydrolyzed Wheat Starch, Glycerin, Tasmannia Lanceolata Fruit/Leaf Extract, Propanediol, PVP, Panthenol, Butylene Glycol, Helianthus Annuus (Sunflower) Seed Extract, Melia Azadirachta (Leaf) Extract, Fragrance/Parfum, Polysorbate 20.</p>
+<p><strong>Directions:</strong> For added volume and texture, spritz evenly onto damp hair directly to the root area and proceed to blow dry and style into place. As a finishing spray, spritz evenly onto dry hair and style into place with hair comb or fingers. Provides a firm pliable low shine hold that wont flake, and cab be reactivated and restyled as needed throughout the day by adding water.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.permabrands.ca/products/4601280266313</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku>CSC-949758</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.permabrands.ca/products/4601280299081</id>
+    <published>2021-08-11T23:39:14-04:00</published>
+    <updated>2021-08-11T23:39:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.permabrands.ca/products/crown-shaving-aluminum-free-deodorant-2-65-oz"/>
+    <title>Crown Shaving Aluminum-Free Deodorant 2.65 oz</title>
+    <s:type>Solid Cologne</s:type>
+    <s:vendor>Crown Shaving</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1196/2904/products/lifestyledeodorant_1.jpg?v=1611122639"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Crown Shaving<br>
+        <strong>Type: </strong>Solid Cologne<br>
+        <strong>Price: </strong>
+            14.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Give bad odours a round house kick with our all-day deodorant. We can't promise you won't break a sweat doing it, but rest assured your pits won't itch seeing as it's aluminum and alcohol-free. It's also fragranced with our famous signature scent and small enough to get through customs. </span></p>
+<p><span data-mce-fragment="1"><strong>Ingredients:</strong> Tapioca Starch, Cocos Nucifera (Coconut) Oil, Ozokerite wax, Sodium bicarbonate, Glycine Soja (Soybean) Oil, Butyrospermum Parkii (Shea) Butter, Caprylic/Capric Triglyceride, Fragrance, Tocopheryl acetate.</span></p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.permabrands.ca/products/4601280299081</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku>CSC-099520</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.permabrands.ca/products/4601280364617</id>
+    <published>2021-08-11T23:39:11-04:00</published>
+    <updated>2021-08-11T23:39:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.permabrands.ca/products/crown-shaving-beard-comb"/>
+    <title>Crown Shaving Beard Comb</title>
+    <s:type>Beard Combs</s:type>
+    <s:vendor>Crown Shaving</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1196/2904/products/Beard_Comb.jpg?v=1610521629"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Crown Shaving<br>
+        <strong>Type: </strong>Beard Combs<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Our custom-made, double-sided beard comb comes with a pocket sleeve for easy storage. Remember—the wide teeth help with combing longer hair, while the fine teeth suit shorter hair.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beard &amp; Moustache Care</s:tag>
+    <s:tag>Beard Care for Retail</s:tag>
+    <s:variant>
+      <id>https://www.permabrands.ca/products/4601280364617</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku>CSC-099521</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.permabrands.ca/products/10551884547</id>
+    <published>2021-08-11T23:00:08-04:00</published>
+    <updated>2021-08-11T23:00:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.permabrands.ca/products/crown-shaving-matte-styling-clay-4-ounce-jar"/>
+    <title>Crown Shaving Matte Styling Clay - 4 Ounce Jar</title>
+    <s:type>Pomade &amp; Hair Products</s:type>
+    <s:vendor>Crown Shaving</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1196/2904/products/035127949529.jpg?v=1527141202"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Crown Shaving<br>
+        <strong>Type: </strong>Pomade &amp; Hair Products<br>
+        <strong>Price: </strong>
+            14.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Ingredients: </strong>Petrolatum, Bentonite, Beeswax, Dicaprylyl, Maleate, Isopropyl Myristate, Propylene Glycol, Oleth-20, Glycerin, PVP/VA Copolymer, Butylene Glycol, Parfum/Frangrance, Phenoxyethanol, Ethylhexylglycerin</p><p><strong>Description: </strong></p><p>Want a hold as tough as what is offered with the Hippie Killer pomade, but would rather have a more understated finish? Crown Shaving's got you covered with this matte styling clay. Rich in minerals, this bentonite clay nourishes the hair while keeping it looking dapper.</p><p><strong>Directions:</strong></p><p>A small dime-sized amount of the clay on your palm is all you need. Wet the clay in your palm with a small amount of water, then spread through your hair with a comb.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Barber &amp; Retail</s:tag>
+    <s:tag>p2c-14.00</s:tag>
+    <s:tag>p6c-14.00</s:tag>
+    <s:tag>Pomade &amp; Hair Products</s:tag>
+    <s:tag>Pomade &amp; Hair Products for Barbers</s:tag>
+    <s:tag>Pomade &amp; Hair Products for Retail</s:tag>
+    <s:variant>
+      <id>https://www.permabrands.ca/products/10551884547</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku>CSC-949529</s:sku>
+      <s:grams>240</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.permabrands.ca/products/10551883203</id>
+    <published>2021-08-11T22:57:40-04:00</published>
+    <updated>2021-08-11T22:57:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.permabrands.ca/products/crown-shaving-soothing-after-shave-lotion"/>
+    <title>Crown Shaving Soothing After Shave Lotion</title>
+    <s:type>Aftershaves</s:type>
+    <s:vendor>Crown Shaving</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1196/2904/products/654367094815.jpg?v=1527141204"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Crown Shaving<br>
+        <strong>Type: </strong>Aftershaves<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Ingredients: </strong>Aqua, Aloe barbadensis gel, Cocos nucifera (coconut) oil, Simmondsia chinensis (Jojoba) seed oil, Hamamelis virginiana (witch hazel) extract, Glycerin, Phenoxyethanol &amp; Ethylhexylglycerin, Allantoin, Tocopherol, Polysorbate 80, Triethanolamine, Melia azadirichata leaf extract, Hydroxyethylcellulose, Acrylates/C10-C30 alkyl acryl ate cross polymer, Carbomer, Disodium EDTA, Titanium dioxide, Citrus bergamia (bergamot) essential oil</p><p><strong>Description:</strong></p><p>Do you like an aftershave you can feel deep in your pores and can actually feel the freshness emanating from your cheeks and neck? Crown Shaving's aftershave lotion will give you that as well as treat your skin to a healthy array of nourishing ingredients.</p><p><strong>Directions:</strong> </p><p>Utilize a fractionally small amount between your palms and slowly apply it to the area you have just shaved. Stop usage if it hurts</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Aftershaves &amp; Styptics</s:tag>
+    <s:tag>Aftershaves for Barbers</s:tag>
+    <s:tag>Aftershaves for Retail</s:tag>
+    <s:tag>Barber &amp; Retail</s:tag>
+    <s:tag>p2c-12.00</s:tag>
+    <s:tag>p6c-12.00</s:tag>
+    <s:variant>
+      <id>https://www.permabrands.ca/products/10551883203</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku>CSC-094815</s:sku>
+      <s:grams>140</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.permabrands.ca/products/10551883459</id>
+    <published>2021-08-11T22:55:08-04:00</published>
+    <updated>2021-08-11T22:55:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.permabrands.ca/products/crown-shaving-beard-balm-4-ounce-bottle"/>
+    <title>Crown Shaving Beard Balm - 4 Ounce Bottle</title>
+    <s:type>Beard Care</s:type>
+    <s:vendor>Crown Shaving</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1196/2904/products/654367094839.jpg?v=1527141198"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Crown Shaving<br>
+        <strong>Type: </strong>Beard Care<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Ingredients: </strong>Purified water (aqua), aloe barbadensis gel, olea europaea (olive) oil, citrus bergamia (bergamot) oil, lavendula angustifiola (organic lavender) distillate, citris uranium (orange blossom) neroli distillate, Shea butter (naturally refined) vegetable glycerin, Isopropyl myristate, phenoxyethanol, ethylhexylglycerin, tochopheryl acetate, tochopherol (vitamin E), polysorbate 80, carbomer, disodium EDTA</p><p><strong>Description:</strong> For the bearded gent looking to give his beard a smooth silky feel and a lustrous sheen, the Crown Shaving beard balm was crafted to deliver both style and comfort.</p><p><strong>Directions:</strong> Just dab a small amount of the beard balm into your palms and thoroughly run through with your fingers. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Barber &amp; Retail</s:tag>
+    <s:tag>Beard &amp; Mustache Care</s:tag>
+    <s:tag>Beard Balms &amp; Wax</s:tag>
+    <s:tag>Beard Care for Barbers</s:tag>
+    <s:tag>Beard Care for Retail</s:tag>
+    <s:tag>Mustache Wax</s:tag>
+    <s:tag>p2c-12.00</s:tag>
+    <s:tag>p6c-12.00</s:tag>
+    <s:variant>
+      <id>https://www.permabrands.ca/products/10551883459</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku>CSC-094839</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.permabrands.ca/products/10551883779</id>
+    <published>2021-08-11T22:54:38-04:00</published>
+    <updated>2021-08-11T22:54:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.permabrands.ca/products/crown-shaving-after-shave-tonic-4-ounce-bottle"/>
+    <title>Crown Shaving After Shave Tonic - 4 Ounce Bottle</title>
+    <s:type>Aftershaves</s:type>
+    <s:vendor>Crown Shaving</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1196/2904/products/654367094853.jpg?v=1527141197"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Crown Shaving<br>
+        <strong>Type: </strong>Aftershaves<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Ingredients: </strong>Denatured alcohol, purified water (aqua), parfum, polysorbate 20, Hamamelis virginiana (witch hazel) distillate, Glycerin, Azadirachta (Neem) oil, pimento racemosa (bay rum) essential oil, bergamia (bergamot) essential oil, pimpinella anisum (anise seed) essential oil</p><p><strong>Description:</strong></p><p>One of the best tonics to emerge on the scene, Crown Shaving's post shave formulation soothes the skin while adding subtle hints of of tobacco, leather essence, rum and barber's talc powder to your scent.</p><p><strong>Direction:</strong></p><p>Apply the tonic to your palms and massage into your skin - be sure to keep the tonic away from your eyes at all times.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Aftershaves &amp; Styptics</s:tag>
+    <s:tag>Aftershaves for Barbers</s:tag>
+    <s:tag>Aftershaves for Retail</s:tag>
+    <s:tag>Barber &amp; Retail</s:tag>
+    <s:tag>men&apos;s gifts</s:tag>
+    <s:tag>p2c-15.00</s:tag>
+    <s:tag>p6c-15.00</s:tag>
+    <s:variant>
+      <id>https://www.permabrands.ca/products/10551883779</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku>CSC-094853</s:sku>
+      <s:grams>210</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.permabrands.ca/products/10551884163</id>
+    <published>2021-08-11T22:51:28-04:00</published>
+    <updated>2021-08-11T22:51:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.permabrands.ca/products/crown-shaving-peppermint-tea-tree-hair-body-wash-16oz"/>
+    <title>Crown Shaving Peppermint Tea Tree Hair &amp; Body Wash 16oz</title>
+    <s:type>Men&apos;s Bodycare</s:type>
+    <s:vendor>Crown Shaving</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1196/2904/products/lifestylebodywash.jpg?v=1611122888"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Crown Shaving<br>
+        <strong>Type: </strong>Men&#39;s Bodycare<br>
+        <strong>Price: </strong>
+            17.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Ingredients: </strong>Aqua, Aloe barbadensis gel, Sodium laureth sulfoacetate &amp; Soidum laureth sulfosuccinate, Cocoamidopropyl betaine, Cocamide DIPA, Glycerin, Phenoxyethanol &amp; Ethylhexylglycerin, Panthenol, Polyquaternium-10, Camellia sinsensis (White tea) leaf extract, Glycyrrhiza glabra (Licorice) root extract, Hedychium coronarium (White ginger) root extract, Olea europaea (Olive) leaf extract, Pinus pinaster (Maritime pine) bark extract, Punica granatum (Pomegranate) extract, Rosmarinus officinalis (Rosemary) leaf extract, Theobroma cacao (Cocoa) extract, Vitis vinifera (Grape) seed extract, Bis-PEG-8 dimethicone, Mentha piperita (Peppermint) oil, Melaleuca alternifolia (Tea tree) leaf oil, Cyamopsis tetragonoloba (Guar) gum, Tetrasodium EDTA, Citric acid, Sodium Chloride</p><p><strong>Description:</strong></p><p>Wash your hair then soap up your body? Who's got the time? This combination shampoo and body wash was developed to give both your hair and skin a deep, nourishing clean that well start your day (or end it) with an invigorating sense of refreshment.</p><p><strong>Directions: </strong></p><p>Simply lather up in the shower and apply to body and hair. Be sure to rinse thoroughly.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Barber &amp; Retail</s:tag>
+    <s:tag>Men&apos;s Bodycare for Barbers</s:tag>
+    <s:tag>Men&apos;s Bodycare for Retail</s:tag>
+    <s:tag>men&apos;s gifts</s:tag>
+    <s:tag>p2c-17.00</s:tag>
+    <s:tag>p6c-17.00</s:tag>
+    <s:variant>
+      <id>https://www.permabrands.ca/products/10551884163</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.00</s:price>
+      <s:sku>CSC-094884</s:sku>
+      <s:grams>530</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.permabrands.ca/products/10551884035</id>
+    <published>2021-08-11T22:51:06-04:00</published>
+    <updated>2021-08-11T22:51:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.permabrands.ca/products/crown-shaving-co-shave-cream-4-ounce-jar"/>
+    <title>Crown Shaving Co. Shave Cream - 4 Ounce Jar</title>
+    <s:type>Shave Creams</s:type>
+    <s:vendor>Crown Shaving</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1196/2904/products/654367094860.jpg?v=1527141200"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Crown Shaving<br>
+        <strong>Type: </strong>Shave Creams<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Ingredients: </strong>Aqua, Myristic acid, Stearic acid, Glycerin, Potassium hydroxide, Camellia sinensis (White tea) leaf extract, Glycyrrhiza glabra (Licorice) root extract, Hedychium coronarium (White ginger) root extract, Olea europaea (Olive) leaf extract, Pinus pinaster (Maritime pine) bark extract, Punica granatum (Pomegranate) extract, Rosmarinus officinalis (Rosemary) leaf extract, Theobroma cacao (Cocoa) extract Vitus vinifra (Grape) seed extract, Tocopheryl acetate, Retinyl palmitate, Methyl gluceth-20, Butyrospermum parkii (Shea butter), Aloe barbadensis leaf juice, Polyquaternium-7, Eucalyptus globulus leaf extract, Mentha viridis (Spearmint) leaf oil, Tocopherol, Hydroxyethylcellulose, Tetrasodium EDTA</p><p><strong>Description:</strong> Packed with all the natural ingredients your skin could need to remain healthy and vital, this thick, rich shave cream will help deliver one of the smoothest shaves you'll experience in a while.</p><p><strong>Directions: </strong>A little goes a long way. Apply until you have a nice thick lather, then proceed with your shave.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Barber &amp; Retail</s:tag>
+    <s:tag>p2c-12.00</s:tag>
+    <s:tag>p6c-12.00</s:tag>
+    <s:tag>Shave Creams for Barbers</s:tag>
+    <s:tag>Shave Creams for Retail</s:tag>
+    <s:tag>Shave Creams Soaps &amp; Gels</s:tag>
+    <s:tag>Shaving Soaps &amp; Creams</s:tag>
+    <s:variant>
+      <id>https://www.permabrands.ca/products/10551884035</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku>CSC-094860</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.permabrands.ca/products/10551884419</id>
+    <published>2021-08-11T22:49:17-04:00</published>
+    <updated>2021-08-11T22:49:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.permabrands.ca/products/crown-shaving-hippie-killer-styling-pomade-4oz"/>
+    <title>Crown Shaving Hippie Killer Styling Pomade 4oz</title>
+    <s:type>Pomade &amp; Hair Products</s:type>
+    <s:vendor>Crown Shaving</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1196/2904/products/lifestylepomade.jpg?v=1611247881"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Crown Shaving<br>
+        <strong>Type: </strong>Pomade &amp; Hair Products<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Ingredients:</strong> Aqua, Cetearth-20, Sorbitol, PEG-7 Glyceryl Cocoate, PEG-40 Hydrogenated Caster Oil, Glycerin, Dimethicone Copolyol, Caprylyl Glycol &amp; Caprylhydroxamic Acid &amp; Glycerin, Parfum(fragrance), Benzyl Alcohol, Bee Propolis Extract, Hydrolized Wheat Protein &amp; Triticum Vulgare (Wheat) Starch</p><p><strong>Description: </strong>A serious pomade for men<strong> </strong>who are serious about getting the hold they expect when styling their hair. All it takes is a tiny dab of this pomade to last you from morning to night (or the other way around, depending on how you spend your days). If the wind messes things up, it only takes a few drops of water to set things right again.</p><p>*No hippies were harmed in the production of this pomade.</p><p><strong>Directions:</strong> Apply a dime-sized amount of the pomade into your palm, run a tiny amount of water over that palm, then sweep through your hair, and apply evenly with a comb.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Barber &amp; Retail</s:tag>
+    <s:tag>New-Pro</s:tag>
+    <s:tag>p2c-12.00</s:tag>
+    <s:tag>p6c-12.00</s:tag>
+    <s:tag>Pomade &amp; Hair Products</s:tag>
+    <s:tag>Pomade &amp; Hair Products for Barbers</s:tag>
+    <s:tag>Pomade &amp; Hair Products for Retail</s:tag>
+    <s:variant>
+      <id>https://www.permabrands.ca/products/10551884419</id>
+      <title>1 Unit</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku>CSC-094891</s:sku>
+      <s:grams>240</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.permabrands.ca/products/10551884739</id>
+    <published>2021-08-11T22:48:11-04:00</published>
+    <updated>2021-08-11T22:48:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.permabrands.ca/products/crown-shaving-roll-on-cologne-10ml-roller"/>
+    <title>Crown Shaving Roll-On Cologne - 10ml Roller</title>
+    <s:type>Colognes</s:type>
+    <s:vendor>Crown Shaving</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1196/2904/products/DINO009.jpg?v=1611247604"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Crown Shaving<br>
+        <strong>Type: </strong>Colognes<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Ingredients: </strong>Denatured alcohol, purified water (aqua), parfum, polysorbate 20, Hamamelis virginiana (witch hazel) distillate, Glycerin, Azadirachta (Neem) oil, pimento racemosa (bay rum) essential oil, bergamia (bergamot) essential oil, pimpinella anisum (anise seed) essential oil</p><p><strong>Description: </strong>Created for the man who likes to leave the house with a masculine scent, this cologne features notes of tobacco, leather, anise and bay rum.</p><p><strong>Directions:</strong> Apply a small dab to your preferred area.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Barber &amp; Retail</s:tag>
+    <s:tag>Colognes &amp; Fragrances</s:tag>
+    <s:tag>Colognes for Barbers</s:tag>
+    <s:tag>Colognes for Retail</s:tag>
+    <s:tag>p2c-10.00</s:tag>
+    <s:tag>p6c-10.00</s:tag>
+    <s:variant>
+      <id>https://www.permabrands.ca/products/10551884739</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku>CSC-949543</s:sku>
+      <s:grams>30</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.permabrands.ca/products/10551884803</id>
+    <published>2021-08-11T22:47:47-04:00</published>
+    <updated>2021-08-11T22:47:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.permabrands.ca/products/crown-shaving-beard-wash-8-ounce-bottle"/>
+    <title>Crown Shaving Beard Wash - 8 Ounce Bottle</title>
+    <s:type>Beard Care</s:type>
+    <s:vendor>Crown Shaving</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1196/2904/products/035127949567.jpg?v=1527141199"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Crown Shaving<br>
+        <strong>Type: </strong>Beard Care<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Ingredients: </strong>Water (Aqua), Cocamidopropyl Betaine, Sodium Lauroyl Methyl Isethionate, Disodium Cocoamphodiacetate, Tetrasodium Glutamate Diacete, Lauryl Methyl Gluceth-10 Hydroxypropyldimonium Chloride, Dicaprylyl Ether, Decyl Glucoside, Glyceryl Oleate, Panthenol, Aloe Baradensis Leaf Juice, Lavandula Angustifolia (Lavender) Oil, Melaleuca Alternifolia (Tea Tree) Leaf Oil, Mentha Piperita (Peppermint) Oil, glycerin, Olea Europaea (Olive) Leaf Extract, Theobroma Cacao (Cocoa) Extract, Pinus Pinaster Bark/bud Extract, Punica Granatum Fruit Extract, Hedychium Coronarium root Extract, Glycyrrhiza Glabra (Licorice) Root Extract, Rosamarinus Officinalis (Rosemary) Leaf Extract, Sodium Benzoate, Citric Acid, Guar Hydroxypropyltrimonium Chloride Acid</p><p><strong>Description:</strong></p><p>Beards can make a great compliment to your personal style, but he maintenance of the man mane can sometimes be a little demanding. The Crown Shaving beard wash was designed with a mission: to make sure no man ever considers shaving off his beard out of frustration.</p><p>What you can expect: the deepest, most refreshing wash - and your skin will thank you for the nutrient-rich formulation.</p><p><strong>Directions:</strong></p><p>Massage into your beard while showering and rinse thoroughly.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Barber &amp; Retail</s:tag>
+    <s:tag>Beard &amp; Mustache Care</s:tag>
+    <s:tag>Beard Care for Barbers</s:tag>
+    <s:tag>Beard Care for Retail</s:tag>
+    <s:tag>p2c-12.00</s:tag>
+    <s:tag>p6c-12.00</s:tag>
+    <s:variant>
+      <id>https://www.permabrands.ca/products/10551884803</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku>CSC-949567</s:sku>
+      <s:grams>280</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.permabrands.ca/products/10551883075</id>
+    <published>2021-08-11T22:47:44-04:00</published>
+    <updated>2021-08-11T22:47:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.permabrands.ca/products/crown-shaving-supreme-glide-pre-shave-formula"/>
+    <title>Crown Shaving Supreme Glide Pre-Shave Formula</title>
+    <s:type>Shave Creams</s:type>
+    <s:vendor>Crown Shaving</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1196/2904/products/654367_094808.jpg?v=1527141204"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Crown Shaving<br>
+        <strong>Type: </strong>Shave Creams<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Ingredients: </strong>Aloe barbadensis (Organic Aloe) Juice, Limanthes alba (Meadowfoam) Seem, Vaccinium myrtillus (Organic Bilberry) Extract, Saccharum officianarum (Organic Sugar Cane) Extract, Acer saccharinum (Organic Sugar Maple) Extract, Citrus auranium dulcis (Organic Orange) Fruit Extract, Citrus medica limonum (Organic Lemon) Extract, Vaccinium macrocarpon (Organic Cranberry) Extract. Essential Oils Phenoxyethanol, Hamamelis virginiana (Witch hazel) Kosher Vegetable Glycerin, Carbomer, TEA. Tetrasodiym EDTA, Citric Acid</p><p><strong>Description:</strong> </p><p>Finally, a pre-shave formula that doesn't leave your skin feeling oily. Packed with rich botanical extracts, Crown Shaving's pre-shave formula was conceived with the idea of adding even more skin-friendly elements to your morning ritual.</p><p><strong>Directions:</strong></p><p>Apply to moist skin a few minutes prior to shaving. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Barber &amp; Retail</s:tag>
+    <s:tag>p2c-15.00</s:tag>
+    <s:tag>p6c-15.00</s:tag>
+    <s:tag>Shave Creams for Barbers</s:tag>
+    <s:tag>Shave Creams for Retail</s:tag>
+    <s:tag>Shave Creams Soaps &amp; Gels</s:tag>
+    <s:tag>Shaving Soaps &amp; Creams</s:tag>
+    <s:variant>
+      <id>https://www.permabrands.ca/products/10551883075</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku>CSC-094808</s:sku>
+      <s:grams>280</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.permabrands.ca/products/10551883651</id>
+    <published>2021-08-11T22:40:41-04:00</published>
+    <updated>2021-08-11T22:40:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.permabrands.ca/products/crown-shaving-co-shave-cream-8-ounce-jar"/>
+    <title>Crown Shaving Co. Shave Cream - 8 Ounce Jar</title>
+    <s:type>Shave Creams</s:type>
+    <s:vendor>Crown Shaving</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1196/2904/products/654367094846.jpg?v=1527141200"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Crown Shaving<br>
+        <strong>Type: </strong>Shave Creams<br>
+        <strong>Price: </strong>
+            17.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Ingredients: </strong>Aqua, Myristic acid, Stearic acid, Glycerin, Potassium hydroxide, Camellia sinensis (White tea) leaf extract, Glycyrrhiza glabra (Licorice) root extract, Hedychium coronarium (White ginger) root extract, Olea europaea (Olive) leaf extract, Pinus pinaster (Maritime pine) bark extract, Punica granatum (Pomegranate) extract, Rosmarinus officinalis (Rosemary) leaf extract, Theobroma cacao (Cocoa) extract Vitus vinifra (Grape) seed extract, Tocopheryl acetate, Retinyl palmitate, Methyl gluceth-20, Butyrospermum parkii (Shea butter), Aloe barbadensis leaf juice, Polyquaternium-7, Eucalyptus globulus leaf extract, Mentha viridis (Spearmint) leaf oil, Tocopherol, Hydroxyethylcellulose, Tetrasodium EDTA</p><p><strong>Description:</strong> Packed with all the natural ingredients your skin could need to remain healthy and vital, this thick, rich shave cream will help deliver one of the smoothest shaves you'll experience in a while.</p><p><strong>Directions: </strong>A little goes a long way. Apply until you have a nice thick lather, then proceed with your shave.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Barber &amp; Retail</s:tag>
+    <s:tag>p2c-17.00</s:tag>
+    <s:tag>p6c-17.00</s:tag>
+    <s:tag>Shave Creams for Barbers</s:tag>
+    <s:tag>Shave Creams for Retail</s:tag>
+    <s:tag>Shave Creams Soaps &amp; Gels</s:tag>
+    <s:tag>Shaving Soaps &amp; Creams</s:tag>
+    <s:variant>
+      <id>https://www.permabrands.ca/products/10551883651</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.00</s:price>
+      <s:sku>CSC-094846</s:sku>
+      <s:grams>270</s:grams>
+    </s:variant>
+  </entry>
+</feed>

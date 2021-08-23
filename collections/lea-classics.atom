@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.permabrands.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.permabrands.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.permabrands.ca/collections/lea-classics.atom"/>
+  <title>Perma Brands Canada</title>
+  <updated>2021-08-11T23:36:28-04:00</updated>
+  <author>
+    <name>Perma Brands Canada</name>
+  </author>
+  <entry>
+    <id>https://www.permabrands.ca/products/4601279873097</id>
+    <published>2021-08-11T23:36:28-04:00</published>
+    <updated>2021-08-11T23:36:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.permabrands.ca/products/lea-classic-brocha-de-afeitar"/>
+    <title>Lea Classic 100% Horse Hair Brush By Vie-Long</title>
+    <s:type>Shaving Brushes</s:type>
+    <s:vendor>LEA Classic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1196/2904/products/shaving-brush-lea-classic_1.jpg?v=1611574411"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEA Classic<br>
+        <strong>Type: </strong>Shaving Brushes<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">The LEA CLASSIC shaving brush by Vie-long has been created to offer the best traditional shave. Carefully hand made by Vie-long manufacturer is made of 100% natural horse hair and its ergonomic handle with amphora shape allows a comfortable and soft shave.<br data-mce-fragment="1"><br data-mce-fragment="1">
+<ul>
+<li>100% natural Hair Horse</li>
+<li>Measures: Overall lenght-102 mm, Handle Lenght-50 mm, Hair Lenght-52 mm, Knot-21mm</li>
+<li>Ergonomic Handle: Confort and secure</li>
+<li>Hand made and exclusive model by Vie Long for LEA CLASSIC</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pharma</s:tag>
+    <s:tag>Pharmacy</s:tag>
+    <s:tag>Shaving Brushes</s:tag>
+    <s:variant>
+      <id>https://www.permabrands.ca/products/4601279873097</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>LEA-003625</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.permabrands.ca/products/9077254019</id>
+    <published>2021-08-11T23:09:53-04:00</published>
+    <updated>2021-08-11T23:09:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.permabrands.ca/products/lea-classic-shaving-soap-refill-100g-3-5oz"/>
+    <title>LEA Classic Shaving Soap Refill (100g/3.5oz)</title>
+    <s:type>Shave Soaps</s:type>
+    <s:vendor>LEA Classic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1196/2904/products/lea-31067_1_1024x1024_756e41b9-92c0-4337-ba6d-74a4355d037a.jpg?v=1527137027"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEA Classic<br>
+        <strong>Type: </strong>Shave Soaps<br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>LEA Classic has a rich heritage for supreme shaving products. The LEA Classic Shaving Soap is no exception as it has been made with nourishing ingredients to meet all skin care needs.</p>
+<p>Crafted with glycerin, lanolin, bisabolol, allantoin, and menthol, the skin will be refreshed and softened for a cool wet shave. Can be refilled in either a rustic wooden bowl or a metallic tub for an environmental touch. Most of all, it can be repackaged to perfection as a gift set and sold with a brush. (100 g/3.5 oz).</p>
+<p>Made in Spain.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>black-3pc-shaving-set-with-a-faux-ebony-purebadger-shaving-brush-black-shave-bowl-and-lea-classic-shaving-soap-puck-product-bundle-option</s:tag>
+    <s:tag>black-3pc-shaving-set-with-a-faux-ebony-purebadger-shaving-brush-black-shave-mug-and-lea-classic-shaving-soap-puck-product-bundle-option</s:tag>
+    <s:tag>black-3pc-shaving-set-with-a-faux-ebony-silvertip-shaving-brush-black-shave-bowl-and-lea-classic-shaving-soap-puck-product-bundle-option</s:tag>
+    <s:tag>black-3pc-shaving-set-with-a-faux-ebony-silvertip-shaving-brush-black-shave-mug-and-lea-classic-shaving-soap-puck-product-bundle-option</s:tag>
+    <s:tag>black-4pc-set-with-a-faux-ebony-pure-badger-shaving-brush-and-a-lea-classic-shaving-soap-puck-product-bundle-option</s:tag>
+    <s:tag>black-4pc-set-with-a-faux-ebony-silvertip-shaving-brush-and-a-lea-classic-shaving-soap-puck-product-bundle-option</s:tag>
+    <s:tag>brown-4pc-set-with-a-faux-ebony-silvertip-shaving-brush-and-a-lea-classic-shaving-soap-puck-product-bundle-option</s:tag>
+    <s:tag>brown-4pc-set-with-a-faux-horn-pure-badger-shaving-brush-and-a-lea-classic-shaving-soap-puck-product-bundle-option</s:tag>
+    <s:tag>cream-3pc-shaving-set-with-a-faux-ebony-purebadger-shaving-brush-cream-shave-bowl-and-lea-classic-shaving-soap-puck-product-bundle-option</s:tag>
+    <s:tag>cream-3pc-shaving-set-with-a-faux-ebony-purebadger-shaving-brush-cream-shave-mug-and-lea-classic-shaving-soap-puck-product-bundle-option</s:tag>
+    <s:tag>cream-3pc-shaving-set-with-a-faux-ivory-silvertip-shaving-brush-fusion-razor-stand-with-a-cream-shave-mug-and-lea-classic-shaving-soap-puck-product-bundle-option</s:tag>
+    <s:tag>cream-4pc-set-with-a-faux-ebony-silvertip-shaving-brush-and-a-lea-classic-shaving-soap-puck</s:tag>
+    <s:tag>cream-4pc-set-with-a-faux-ebony-silvertip-shaving-brush-and-a-lea-classic-shaving-soap-puck-product-bundle-option</s:tag>
+    <s:tag>cream-4pc-set-with-a-faux-horn-pure-badger-shaving-brush-and-a-lea-classic-shaving-soap-puck-product-bundle-option</s:tag>
+    <s:tag>LEA Classic</s:tag>
+    <s:tag>p2c-7.84</s:tag>
+    <s:tag>p6c-7.52</s:tag>
+    <s:tag>Pharma</s:tag>
+    <s:tag>Pharmacy</s:tag>
+    <s:tag>pure-badger-guaranteed-sale-bundle-product-bundle-option</s:tag>
+    <s:tag>set304-product-bundle-option-1</s:tag>
+    <s:tag>set306-product-bundle-option-1</s:tag>
+    <s:tag>set308-product-bundle-option-1</s:tag>
+    <s:tag>Shave Brushes Mugs &amp; Hardware</s:tag>
+    <s:tag>Shave Creams Soaps &amp; Gels</s:tag>
+    <s:tag>Shaving Soaps &amp; Aftershave</s:tag>
+    <s:tag>Shaving Soaps &amp; Aftershaves</s:tag>
+    <s:tag>Shaving Soaps &amp; Creams</s:tag>
+    <s:tag>tgbundle-product-bundle-option-1</s:tag>
+    <s:tag>Top Seller</s:tag>
+    <s:variant>
+      <id>https://www.permabrands.ca/products/9077254019</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.00</s:price>
+      <s:sku>LEA-31067</s:sku>
+      <s:grams>114</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.permabrands.ca/products/9077254083</id>
+    <published>2021-08-11T23:08:10-04:00</published>
+    <updated>2021-08-11T23:08:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.permabrands.ca/products/lea-classic-shaving-soap-in-wooden-bowl-100g-3-5oz"/>
+    <title>LEA Classic Shaving Soap in Wooden Bowl (100g/3.5oz)</title>
+    <s:type>Shave Soaps</s:type>
+    <s:vendor>LEA Classic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1196/2904/products/lea-31066_1.jpg?v=1527137026"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEA Classic<br>
+        <strong>Type: </strong>Shave Soaps<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>LEA Classic is simply known for its supreme craftsmanship. Placed in a wooden bowl for durability, you know the LEA Classic Shaving Soap is made with the best ingredients.</p>
+<p>Crafted with glycerin to moisturize skin, the soap also contains lanolin, bisabolol, allantoin, and menthol to produce a refreshing finish. Infused with the classic scent of sandalwood for an elegant touch, absolute sophistication can be achieved. Ideal in a rustic gift set with shaving brushes and razors alike. (100 g/3.5 oz).</p>
+<p>Made in Spain.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brown-3pc-shaving-set-with-a-faux-horn-pure-badger-shaving-brush-and-a-lea-classic-shaving-soap-in-wooden-bowl-product-bundle-option</s:tag>
+    <s:tag>brown-3pc-shaving-set-with-a-faux-horn-silvertip-shaving-brush-and-a-lea-classic-shaving-soap-in-wooden-bowl-product-bundle-option</s:tag>
+    <s:tag>LEA Classic</s:tag>
+    <s:tag>p2c-19.60</s:tag>
+    <s:tag>p6c-18.80</s:tag>
+    <s:tag>Pharma</s:tag>
+    <s:tag>Pharmacy</s:tag>
+    <s:tag>pure-badger-guaranteed-sale-bundle-product-bundle-option</s:tag>
+    <s:tag>set312-product-bundle-option-1</s:tag>
+    <s:tag>Shave Brushes Mugs &amp; Hardware</s:tag>
+    <s:tag>Shave Creams Soaps &amp; Gels</s:tag>
+    <s:tag>Shave Mugs &amp; Bowls</s:tag>
+    <s:tag>Shaving Soaps &amp; Aftershaves</s:tag>
+    <s:tag>Shaving Soaps &amp; Creams</s:tag>
+    <s:tag>tgbundle-product-bundle-option-1</s:tag>
+    <s:tag>Top Seller</s:tag>
+    <s:tag>top-gifting-bundle-product-bundle-option</s:tag>
+    <s:tag>Trending Products</s:tag>
+    <s:variant>
+      <id>https://www.permabrands.ca/products/9077254083</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku>LEA-31066</s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.permabrands.ca/products/9077254339</id>
+    <published>2021-08-11T23:06:10-04:00</published>
+    <updated>2021-08-11T23:06:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.permabrands.ca/products/lea-classic-shaving-cream-100g-3-5oz"/>
+    <title>LEA Classic Shaving Cream (100g/3.5oz)</title>
+    <s:type>Shave Creams</s:type>
+    <s:vendor>LEA Classic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1196/2904/products/LEA-31064.jpg?v=1527137025"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEA Classic<br>
+        <strong>Type: </strong>Shave Creams<br>
+        <strong>Price: </strong>
+            7.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>LEA Classics is Spain's most revered brand for men's shaving creams and soaps. Having dominated the global market, it knows about the various needs that men need when it comes to grooming.</p>
+<p>The LEA Classics Shaving Cream is no exception. Crafted with ingredients for sensitive skin, it contains moisturizing glycerin and calming properties of lanolin, bisabolol, allantoin, and menthol. It will prevent razor burns and cuts to create a good shave. Can be packaged with gift sets or sold with brushes.(100 g/3.5 oz)</p>
+<p>Made in Spain.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>black-3pc-shaving-set-with-a-faux-ebony-purebadger-shaving-brush-lea-classic-shaving-cream-in-a-tube-product-bundle-option-1</s:tag>
+    <s:tag>black-3pc-shaving-set-with-a-faux-ebony-silvertip-shaving-brush-lea-classic-shaving-cream-in-a-tube-product-bundle-option</s:tag>
+    <s:tag>bundle-product</s:tag>
+    <s:tag>LEA Classic</s:tag>
+    <s:tag>p2c-7.11</s:tag>
+    <s:tag>p6c-6.82</s:tag>
+    <s:tag>Pharma</s:tag>
+    <s:tag>Pharmacy</s:tag>
+    <s:tag>pure-badger-guaranteed-sale-bundle-product-bundle-option</s:tag>
+    <s:tag>set302-product-bundle-option-1</s:tag>
+    <s:tag>Shave Creams Soaps &amp; Gels</s:tag>
+    <s:tag>Shaving Soaps &amp; Aftershaves</s:tag>
+    <s:tag>Shaving Soaps &amp; Creams</s:tag>
+    <s:tag>tgbundle-product-bundle-option-1</s:tag>
+    <s:tag>Top Seller</s:tag>
+    <s:tag>top-gifting-bundle-product-bundle-option</s:tag>
+    <s:variant>
+      <id>https://www.permabrands.ca/products/9077254339</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.25</s:price>
+      <s:sku>LEA-31064</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.permabrands.ca/products/9077253955</id>
+    <published>2021-08-11T23:05:18-04:00</published>
+    <updated>2021-08-11T23:05:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.permabrands.ca/products/lea-classic-after-shave-lotion-100ml-3-5oz"/>
+    <title>LEA Classic After Shave Lotion (100ml/3.5oz)</title>
+    <s:type>Aftershaves</s:type>
+    <s:vendor>LEA Classic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1196/2904/products/lea-31068_2_1024x1024_4f352138-7ba8-4097-a76d-120aca285e9e.jpg?v=1527137025"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEA Classic<br>
+        <strong>Type: </strong>Aftershaves<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The LEA Classic After Shave Lotion is crafted with moisturizing ingredients to calm skin and to prevent irritation.</p>
+<p>Infused with sensuous and energizing sandalwood to create a truly masculine scent, it is also fortified with calming bisabolol derived from the chamomile flower and nourishing glycerin to soothe skin after a mean shave. Can be packaged with gift sets or sold with shaving creams and brushes to meet diverse needs.(100 ml/3.5 oz).</p>
+<p>Made in Spain.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Aftershaves &amp; Styptics</s:tag>
+    <s:tag>LEA Classic</s:tag>
+    <s:tag>p2c-14.70</s:tag>
+    <s:tag>p6c-14.10</s:tag>
+    <s:tag>Pharma</s:tag>
+    <s:tag>Pharmacy</s:tag>
+    <s:tag>Shaving Soaps &amp; Aftershaves</s:tag>
+    <s:tag>tgbundle-product-bundle-option-1</s:tag>
+    <s:tag>top-gifting-bundle-product-bundle-option</s:tag>
+    <s:tag>Trending Products</s:tag>
+    <s:variant>
+      <id>https://www.permabrands.ca/products/9077253955</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku>LEA-31068</s:sku>
+      <s:grams>296</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.permabrands.ca/products/9077254211</id>
+    <published>2021-08-11T23:03:10-04:00</published>
+    <updated>2021-08-11T23:03:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.permabrands.ca/products/lea-classic-shaving-cream-in-metallic-tub-150g-5-29oz"/>
+    <title>LEA Classic Shaving Cream in Metallic Tub (150g/5.29oz)</title>
+    <s:type>Shave Creams</s:type>
+    <s:vendor>LEA Classic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1196/2904/products/LEA-31065_1.jpg?v=1527137026"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEA Classic<br>
+        <strong>Type: </strong>Shave Creams<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>LEA Classic is the most traditional shaving line on the globe. Made to meet diverse needs, the LEA Classic Shaving Cream is designed for sensitive skin. Made with glycerin to moisturize the skin, skin will be prepared for a smooth shave.</span></p>
+<p><span>Lanolin, allantoin, bisabolol, and menthol have also been added to calm the skin to prevent razor cuts and dryness. The metallic tub will look striking on any stand or display.</span>(150 g/5.29 oz).</p>
+<p>Made in Spain.<span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>black-3pc-shaving-set-with-a-faux-ebony-purebadger-shaving-brush-and-a-lea-classic-shaving-cream-in-metallic-tub-product-bundle-option</s:tag>
+    <s:tag>black-3pcs-set-with-shaving-soap-in-metal-tube-product-bundle-option</s:tag>
+    <s:tag>LEA Classic</s:tag>
+    <s:tag>Men&apos;s Hair Care</s:tag>
+    <s:tag>p2c-8.82</s:tag>
+    <s:tag>p6c-8.46</s:tag>
+    <s:tag>Pharma</s:tag>
+    <s:tag>Pharmacy</s:tag>
+    <s:tag>pure-badger-guaranteed-sale-bundle-product-bundle-option</s:tag>
+    <s:tag>set300-product-bundle-option-1</s:tag>
+    <s:tag>Shave Creams Soaps &amp; Gels</s:tag>
+    <s:tag>Shaving Soaps &amp; Aftershaves</s:tag>
+    <s:tag>Shaving Soaps &amp; Creams</s:tag>
+    <s:tag>tgbundle-product-bundle-option-1</s:tag>
+    <s:tag>Top Seller</s:tag>
+    <s:tag>top-gifting-bundle-product-bundle-option</s:tag>
+    <s:variant>
+      <id>https://www.permabrands.ca/products/9077254211</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku>LEA-31065</s:sku>
+      <s:grams>165</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.permabrands.ca/products/10955833091</id>
+    <published>2021-08-11T22:58:19-04:00</published>
+    <updated>2021-08-11T22:58:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.permabrands.ca/products/lea-aftershave-balm"/>
+    <title>LEA Aftershave Balm (100ml/3.5oz.)</title>
+    <s:type>Aftershaves</s:type>
+    <s:vendor>LEA Classic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1196/2904/products/LEA-resize.jpg?v=1527137024"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LEA Classic<br>
+        <strong>Type: </strong>Aftershaves<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The LEA </span><em>After Shave Balm</em><span> formulated with nourishing ingredients, including aloe vera and vitamin E, the balm protects skin and cleanses pores. It is for Sensitive Skin will soothe skin and help relieve irritation caused by shaving. The addition of menthol provides a light cooling sensation after application and is suitable for those with sensitive skin.  </span></p>
+<p><span>Made in Spain.</span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Aftershaves &amp; Styptics</s:tag>
+    <s:tag>Aftershaves for Retail</s:tag>
+    <s:tag>LEA Classic</s:tag>
+    <s:tag>p2c-0.00</s:tag>
+    <s:tag>p6c-0.00</s:tag>
+    <s:tag>Pharma</s:tag>
+    <s:tag>Pharmacy</s:tag>
+    <s:tag>Shaving Soaps &amp; Aftershaves</s:tag>
+    <s:tag>Trending Products</s:tag>
+    <s:variant>
+      <id>https://www.permabrands.ca/products/10955833091</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku>LEA-004141</s:sku>
+      <s:grams>252</s:grams>
+    </s:variant>
+  </entry>
+</feed>

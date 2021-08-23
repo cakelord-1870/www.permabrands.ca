@@ -1,0 +1,1187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.permabrands.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.permabrands.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.permabrands.ca/collections/dapper-dan.atom"/>
+  <title>Perma Brands Canada</title>
+  <updated>2021-08-11T23:45:24-04:00</updated>
+  <author>
+    <name>Perma Brands Canada</name>
+  </author>
+  <entry>
+    <id>https://www.permabrands.ca/products/6571532091465</id>
+    <published>2021-08-11T23:45:24-04:00</published>
+    <updated>2021-08-11T23:45:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.permabrands.ca/products/dapper-dan-matt-creme"/>
+    <title>Dapper Dan Matt Creme</title>
+    <s:type>Pomade &amp; Hair Products</s:type>
+    <s:vendor>Dapper Dan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1196/2904/products/MatteCreamWhiteBackground_900x_628226ce-64bc-45a2-829b-7c710a7e3a6b.png?v=1620929948"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dapper Dan<br>
+        <strong>Type: </strong>Pomade &amp; Hair Products<br>
+        <strong>Price: </strong>
+            12.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-mce-fragment="1">Dapper Dan Matte Crème is a light hold styling cream that offers all-day long matte texture and hold.</div>
+<div data-mce-fragment="1">
+<br data-mce-fragment="1">Combining a clean and convenient airless pump dispenser with a non-sticky application, this styling product will enhance your morning style routine whilst you enjoy the fresh and masculine fragrance.</div>
+<style></style>
+<style></style></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dapper Dan</s:tag>
+    <s:variant>
+      <id>https://www.permabrands.ca/products/6571532091465</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.50</s:price>
+      <s:sku>DD-CR01</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.permabrands.ca/products/4591112224841</id>
+    <published>2021-08-11T23:37:41-04:00</published>
+    <updated>2021-08-11T23:37:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.permabrands.ca/products/dapper-dan-hair-body-shampoo-300ml"/>
+    <title>Dapper Dan Hair &amp; Body Shampoo 300ml</title>
+    <s:type>Shampoos &amp; Conditioners</s:type>
+    <s:vendor>Dapper Dan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1196/2904/products/Small_Shampoo_1_700x_b5816cac-4877-4cea-9ba4-f1903bb9b374.jpg?v=1606843036"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dapper Dan<br>
+        <strong>Type: </strong>Shampoos &amp; Conditioners<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p style="text-align: center;" data-mce-fragment="1">Dapper Dan Hair &amp; Body Shampoo cleanses the hair and skin gently, whilst offering a luxury feel and classic scent.</p>
+<div style="text-align: center;" data-mce-fragment="1">Can be used daily, contains Vitamin B5 to strengthen and protect the hair.</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dapper Dan</s:tag>
+    <s:variant>
+      <id>https://www.permabrands.ca/products/4591112224841</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku>DD-SH02</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.permabrands.ca/products/4591112192073</id>
+    <published>2021-08-11T23:37:38-04:00</published>
+    <updated>2021-08-11T23:37:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.permabrands.ca/products/dapper-dan-hair-body-shampoo-1l"/>
+    <title>Dapper Dan Hair &amp; Body Shampoo 1L</title>
+    <s:type>Shampoos &amp; Conditioners</s:type>
+    <s:vendor>Dapper Dan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1196/2904/products/Hair_Body_Shampoo_1L_700x_8f6ae3ad-3d95-4eea-9f49-3cac2ef8f85a.jpg?v=1606843035"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dapper Dan<br>
+        <strong>Type: </strong>Shampoos &amp; Conditioners<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p style="text-align: center;">Dapper Dan Hair &amp; Body Shampoo cleanses the hair and skin gently, whilst offering a luxury feel and classic scent.</p>
+<div style="text-align: center;">Can be used daily, contains Vitamin B5 to strengthen and protect the hair.</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dapper Dan</s:tag>
+    <s:variant>
+      <id>https://www.permabrands.ca/products/4591112192073</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku>DD-SH01</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.permabrands.ca/products/4591112159305</id>
+    <published>2021-08-11T23:37:35-04:00</published>
+    <updated>2021-08-11T23:37:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.permabrands.ca/products/dapper-dan-beard-oil-30ml"/>
+    <title>Dapper Dan Beard Oil 30ml</title>
+    <s:type>Beard Oil</s:type>
+    <s:vendor>Dapper Dan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1196/2904/products/Beard_Oil_30ml_2020_700x_193d61b6-adfb-488f-8368-dea8b7561fca.png?v=1606843034"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dapper Dan<br>
+        <strong>Type: </strong>Beard Oil<br>
+        <strong>Price: </strong>
+            14.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div style="text-align: center;" data-mce-fragment="1">Dapper Dan Beard Oil is a luxury blend of essential oils that softens and nourishes the beard and skin.</div>
+<div style="text-align: center;" data-mce-fragment="1"></div>
+<div style="text-align: center;" data-mce-fragment="1">Simply use a few drops a day to maximise the potential of your facial foliage!</div>
+<div style="text-align: center;" data-mce-fragment="1"></div>
+<div style="text-align: center;" data-mce-fragment="1">Classic Vanilla and Tonka Bean Fragrance.</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dapper Dan</s:tag>
+    <s:variant>
+      <id>https://www.permabrands.ca/products/4591112159305</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku>DD-BO30</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.permabrands.ca/products/4591112126537</id>
+    <published>2021-08-11T23:37:32-04:00</published>
+    <updated>2021-08-11T23:37:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.permabrands.ca/products/dapper-dan-wooden-box"/>
+    <title>Dapper Dan Wooden Box</title>
+    <s:type></s:type>
+    <s:vendor>Dapper Dan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1196/2904/products/WoodenBox.jpg?v=1607436158"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dapper Dan<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            45.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">*This product is the Box only, tins sold separately*
+<style></style></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dapper Dan</s:tag>
+    <s:variant>
+      <id>https://www.permabrands.ca/products/4591112126537</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>DD-WB02</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.permabrands.ca/products/4591112093769</id>
+    <published>2021-08-11T23:37:27-04:00</published>
+    <updated>2021-08-11T23:37:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.permabrands.ca/products/dapper-dan-wash-bag"/>
+    <title>Dapper Dan Wash Bag</title>
+    <s:type>Dopp Bag</s:type>
+    <s:vendor>Dapper Dan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1196/2904/products/Wash_Bag_Front_Side_700x_2b17aa1d-b964-4949-9c06-c311b5f1a064.jpg?v=1606843032"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dapper Dan<br>
+        <strong>Type: </strong>Dopp Bag<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Dapper Dan Premium Wash Bag</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">The Dapper Dan Premium Wash Bag is ideal for storing your favourite Dapper Dan products. With an extra storage compartment on the back (plus a secret pocket inside) this strong, versatile and stylish Wash Bag is a superb gift idea for all.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dapper Dan</s:tag>
+    <s:variant>
+      <id>https://www.permabrands.ca/products/4591112093769</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>DD-WA01</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.permabrands.ca/products/4591112061001</id>
+    <published>2021-08-11T23:37:24-04:00</published>
+    <updated>2021-08-11T23:37:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.permabrands.ca/products/dapper-dan-style-essentials-gift-pack-matt-paste"/>
+    <title>Dapper Dan Style Essentials Gift Pack - Matt Paste</title>
+    <s:type>Gift Sets &amp; Kits</s:type>
+    <s:vendor>Dapper Dan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1196/2904/products/Style_Essentials_MP_1_700x_0ab7610d-f824-47d9-9233-d232a4d236c1.jpg?v=1606843031"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dapper Dan<br>
+        <strong>Type: </strong>Gift Sets &amp; Kits<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product-description rte" data-mce-fragment="1" itemprop="description">
+<p data-mce-fragment="1"><span data-mce-fragment="1">Combining our finest </span><span class="il" data-mce-fragment="1">styling</span><span data-mce-fragment="1"> products with a signature, handcrafted comb, "</span><span class="il" data-mce-fragment="1">Style</span><span data-mce-fragment="1"> </span><span class="il" data-mce-fragment="1">Essentials</span><span data-mce-fragment="1">" is the perfect </span><span class="il" data-mce-fragment="1">gift</span><span data-mce-fragment="1"> for that dapper guy in your life.</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span style="color: #000000;">The <span class="il" data-mce-fragment="1">set</span> comprises of 1 x <a href="https://dapperdanbrand.com/products/dapperdanbrand.com/products/matt-paste" title="Dapper Dan Matt Paste" style="color: #000000;" data-mce-fragment="1" data-mce-href="https://dapperdanbrand.com/products/dapperdanbrand.com/products/matt-paste" target="_blank">Matt Paste 100ml</a>, 1 x <a href="https://dapperdanbrand.com/products/dapperdanbrand.com/products/sea-salt-spray" title="Dapper Dan Sea Salt Spray" style="color: #000000;" data-mce-fragment="1" data-mce-href="https://dapperdanbrand.com/products/dapperdanbrand.com/products/sea-salt-spray" target="_blank">Sea Salt Spray 200ml</a> and 1 x <a href="https://dapperdanbrand.com/products/dapperdanbrand.com/products/hand-made-styling-comb" title="Dapper Dan Styling Comb" style="color: #000000;" data-mce-fragment="1" data-mce-href="https://dapperdanbrand.com/products/dapperdanbrand.com/products/hand-made-styling-comb" target="_blank">Hand Made <span class="il" data-mce-fragment="1">Styling</span> Comb</a>.</span></p>
+</div>
+<div id="tabs-container" class="product-tabs" data-mce-fragment="1"><br data-mce-fragment="1"></div>
+<div class="featured-product-social-wrapper" data-mce-fragment="1">
+<div data-permalink="https://dapperdanbrand.com/products/style-essentials-gift-set" data-mce-fragment="1">
+<a class="social-circle facebook" href="https://www.facebook.com/sharer.php?u=https://dapperdanbrand.com/products/style-essentials-gift-set" title="Dapper Dan" data-mce-fragment="1" data-mce-href="https://www.facebook.com/sharer.php?u=https://dapperdanbrand.com/products/style-essentials-gift-set" target="_blank"><i class="custom-icon-facebook" data-mce-fragment="1"></i></a><span data-mce-fragment="1"> </span><a class="social-circle twitter" href="https://twitter.com/share?text=Style%20Essentials%20Gift%20Set&amp;url=https://dapperdanbrand.com/products/style-essentials-gift-set&amp;media=//cdn.shopify.com/s/files/1/0588/5357/products/Style_Essentials_DP_1_1024x1024.jpg?v=1604729864" title="Dapper Dan" data-mce-fragment="1" data-mce-href="https://twitter.com/share?text=Style%20Essentials%20Gift%20Set&amp;url=https://dapperdanbrand.com/products/style-essentials-gift-set&amp;media=//cdn.shopify.com/s/files/1/0588/5357/products/Style_Essentials_DP_1_1024x1024.jpg?v=1604729864" target="_blank"></a>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dapper Dan</s:tag>
+    <s:variant>
+      <id>https://www.permabrands.ca/products/4591112061001</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>DD-SEMP01</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.permabrands.ca/products/4591112028233</id>
+    <published>2021-08-11T23:37:21-04:00</published>
+    <updated>2021-08-11T23:37:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.permabrands.ca/products/dapper-dan-style-essentials-gift-pack-deluxe-pomade"/>
+    <title>Dapper Dan Style Essentials Gift Pack - Deluxe Pomade</title>
+    <s:type>Gift Sets &amp; Kits</s:type>
+    <s:vendor>Dapper Dan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1196/2904/products/Style_Essentials_DP_1_700x_127a25f5-c0fb-4ccd-a918-2ab24f173f1d.jpg?v=1606843029"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dapper Dan<br>
+        <strong>Type: </strong>Gift Sets &amp; Kits<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span style="color: #000000;">Combining our finest <span class="il" data-mce-fragment="1">styling</span> products with a signature, handcrafted comb, "<span class="il" data-mce-fragment="1">Style</span> <span class="il" data-mce-fragment="1">Essentials</span>" is the perfect <span class="il" data-mce-fragment="1">gift</span> for that dapper guy in your life.</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span style="color: #000000;" data-mce-fragment="1">The <span class="il" data-mce-fragment="1">set</span> comprises of 1 x <a href="https://dapperdanbrand.com/products/dapperdanbrand.com/products/deluxe-pomade" title="Dapper Dan Deluxe Pomade" style="color: #000000;" data-mce-fragment="1" data-mce-href="https://dapperdanbrand.com/products/dapperdanbrand.com/products/deluxe-pomade" target="_blank">Deluxe Pomade100ml</a>, 1 x <a href="https://dapperdanbrand.com/products/dapperdanbrand.com/products/sea-salt-spray" title="Dapper Dan Sea Salt Spray" style="color: #000000;" data-mce-fragment="1" data-mce-href="https://dapperdanbrand.com/products/dapperdanbrand.com/products/sea-salt-spray" target="_blank">Sea Salt Spray 200ml</a> and 1 x <a href="https://dapperdanbrand.com/products/dapperdanbrand.com/products/hand-made-styling-comb" title="Dapper Dan Styling Comb" style="color: #000000;" data-mce-fragment="1" data-mce-href="https://dapperdanbrand.com/products/dapperdanbrand.com/products/hand-made-styling-comb" target="_blank">Hand Made <span class="il" data-mce-fragment="1">Styling</span> Comb</a>.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dapper Dan</s:tag>
+    <s:variant>
+      <id>https://www.permabrands.ca/products/4591112028233</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>DD-SEDP01</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.permabrands.ca/products/4591111995465</id>
+    <published>2021-08-11T23:37:18-04:00</published>
+    <updated>2021-08-11T23:37:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.permabrands.ca/products/dapper-dan-ultra-matte-clay-50ml"/>
+    <title>Dapper Dan Ultra Matte Clay 50ml</title>
+    <s:type>Pomade &amp; Hair Products</s:type>
+    <s:vendor>Dapper Dan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1196/2904/products/UltraMatteClay50ml_700x_a601e638-392f-4485-a23f-77e8243c619e.jpg?v=1606843027"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dapper Dan<br>
+        <strong>Type: </strong>Pomade &amp; Hair Products<br>
+        <strong>Price: </strong>
+            7.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">This super hold clay does exactly what it says on the tin, offering immediate grip and hold combined with a long lasting, "ULTRA MATTE" finish. The fragrance is sweet and subtle, with notes of vanilla and raspberries.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dapper Dan</s:tag>
+    <s:variant>
+      <id>https://www.permabrands.ca/products/4591111995465</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.50</s:price>
+      <s:sku>DD-UM02</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.permabrands.ca/products/4591111962697</id>
+    <published>2021-08-11T23:37:15-04:00</published>
+    <updated>2021-08-11T23:37:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.permabrands.ca/products/dapper-dan-matt-paste-50ml"/>
+    <title>Dapper Dan Matt Paste 50ml</title>
+    <s:type>Pomade &amp; Hair Products</s:type>
+    <s:vendor>Dapper Dan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1196/2904/products/MattPaste50ml_1_700x_789a03b3-cfb2-40c4-add1-f567fbafb8fb.jpg?v=1606843026"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dapper Dan<br>
+        <strong>Type: </strong>Pomade &amp; Hair Products<br>
+        <strong>Price: </strong>
+            7.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div style="text-align: center;" data-mce-fragment="1">
+<strong data-mce-fragment="1">Dapper Dan Matt Paste</strong><span data-mce-fragment="1"> </span>is our flagship product and you will not find a better or more versatile matt styler.</div>
+<div style="text-align: center;" data-mce-fragment="1">It really is that good; messy styles, partings, quiffs, this product will do it all!<br>
+</div>
+<div style="text-align: center;" data-mce-fragment="1"> </div>
+<div style="text-align: center;" data-mce-fragment="1">Strong yet flexible hold with a smooth and easy application. Washes out easily. Try it and you will not be disappointed.</div>
+<div style="text-align: center;" data-mce-fragment="1"><br></div>
+<div style="text-align: center;" data-mce-fragment="1"><strong data-mce-fragment="1">Fragrance: Vintage cologne</strong></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dapper Dan</s:tag>
+    <s:variant>
+      <id>https://www.permabrands.ca/products/4591111962697</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.50</s:price>
+      <s:sku>DD-MP02</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.permabrands.ca/products/4591111929929</id>
+    <published>2021-08-11T23:37:11-04:00</published>
+    <updated>2021-08-11T23:37:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.permabrands.ca/products/dapper-dan-deluxe-pomade-50ml"/>
+    <title>Dapper Dan Deluxe Pomade 50ml</title>
+    <s:type>Pomade &amp; Hair Products</s:type>
+    <s:vendor>Dapper Dan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1196/2904/products/DeluxePomade50ml_2_700x_b4898b33-3dae-4367-8a26-e976128b275a.jpg?v=1606843025"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dapper Dan<br>
+        <strong>Type: </strong>Pomade &amp; Hair Products<br>
+        <strong>Price: </strong>
+            7.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-mce-fragment="1">The perfect flexible pomade for those who appreciate a professional slick look with no greasiness or flakiness.</div>
+<br data-mce-fragment="1">
+<div data-mce-fragment="1">Water based, it offers the hold and shine of some other more waxy and greasy pomades but will wash out of your hair instantly.</div>
+<br data-mce-fragment="1">
+<div data-mce-fragment="1">Deluxe Pomade is versatile and can be adapted to suit your chosen style. Use a small amount on dry hair for a natural shine or simply use more pomade for that authentic 1930's look. </div>
+<br data-mce-fragment="1">
+<div data-mce-fragment="1">This product will set your style in place all day but unlike many other water based pomades it will not harden too much. Deluxe Pomade can be re-combed at any point although we do recommend a wet comb be used to restyle with more ease.</div>
+<div data-mce-fragment="1">
+<ul>
+<li><strong data-mce-fragment="1">Water Based</strong></li>
+<li><strong data-mce-fragment="1">Washes out easily</strong></li>
+<li><strong data-mce-fragment="1">Fragrance: Citrus and Vanilla</strong></li>
+</ul>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dapper Dan</s:tag>
+    <s:variant>
+      <id>https://www.permabrands.ca/products/4591111929929</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.50</s:price>
+      <s:sku>DD-DP02</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.permabrands.ca/products/4591111897161</id>
+    <published>2021-08-11T23:37:08-04:00</published>
+    <updated>2021-08-11T23:37:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.permabrands.ca/products/dapper-dan-grooming-tonic-250ml"/>
+    <title>Dapper Dan Grooming Tonic 250ml</title>
+    <s:type>Pomade &amp; Hair Products</s:type>
+    <s:vendor>Dapper Dan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1196/2904/products/Grooming_Tonic_700x_4316db0a-b638-4164-90f2-f8b3b00016e6.png?v=1606843024"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dapper Dan<br>
+        <strong>Type: </strong>Pomade &amp; Hair Products<br>
+        <strong>Price: </strong>
+            12.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div style="text-align: center;" data-mce-fragment="1">Dapper Dan Grooming Tonic contains Argan Oil and Witch Hazel to condition the hair whilst adding volume and texture. Perfect for all hair types, simply add a few drops onto your hands then apply evenly through damp hair. Leave to dry for loose texture or blow-dry for natural volume and hold.</div>
+<div style="text-align: center;" data-mce-fragment="1"><br data-mce-fragment="1"></div>
+<div style="text-align: center;" data-mce-fragment="1">Grooming Tonic works hand-in-hand with our<span data-mce-fragment="1"> </span><a href="https://dapperdanbrand.com/products/deluxe-pomade" title="Deluxe Pomade" data-mce-fragment="1" data-mce-href="https://dapperdanbrand.com/products/deluxe-pomade">Deluxe Pomade</a><span data-mce-fragment="1"> </span>or<span data-mce-fragment="1"> </span><a href="https://dapperdanbrand.com/products/heavy-hold-pomade" title="Heavy Hold Pomade" data-mce-fragment="1" data-mce-href="https://dapperdanbrand.com/products/heavy-hold-pomade">Heavy Hold Pomade</a>!</div>
+<div style="text-align: center;" data-mce-fragment="1"><br data-mce-fragment="1"></div>
+<div style="text-align: center;" data-mce-fragment="1">Fragrance: Vanilla and Tonka Bean.</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dapper Dan</s:tag>
+    <s:variant>
+      <id>https://www.permabrands.ca/products/4591111897161</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.50</s:price>
+      <s:sku>DD-GT01</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.permabrands.ca/products/4618788700233</id>
+    <published>2021-08-11T23:33:51-04:00</published>
+    <updated>2021-08-11T23:33:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.permabrands.ca/products/dapper-dan-aftershave-balm-in-a-tube-100ml"/>
+    <title>Dapper Dan Aftershave Balm in a tube 100ml</title>
+    <s:type>Aftershaves</s:type>
+    <s:vendor>Dapper Dan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1196/2904/products/dapper-dan-after-shave-balm-100ml.jpg?v=1612887736"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dapper Dan<br>
+        <strong>Type: </strong>Aftershaves<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Dapper Dan Barbershop Classic Aftershave Balm has been developed by professionals to offer superior performance when used in barbershops or at home.</p>
+<p>Dapper Dan Aftershave Balm contains Aloe Vera, Allantoin and Chamomile to reduce irritation caused by shaving.</p>
+<p>It soothes and moisturizes the skin post-shave, and works equally well as a daily moisturizer. </p>
+<p>Fragrance: Eucalyptus and Menthol</p>
+<ul>
+<li>Alcohol-free</li>
+<li>Parabens-free</li>
+</ul>
+<p><i>Cruelty-free.</i></p>
+<p>Made in England</p>
+<p> </p>
+<p><img alt="Not tested on animals cruelty free" src="https://cdn.shopify.com/s/files/1/1313/6261/files/Untitled_design_thumb.png?v=1560630776"><span> </span><img alt="recyclable eco-friendly environment friendly" src="https://cdn.shopify.com/s/files/1/1313/6261/files/Untitled_design_1_thumb.png?v=1560631132"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Aftershave Balm</s:tag>
+    <s:tag>aftershaves</s:tag>
+    <s:tag>Aftershaves &amp; Styptics</s:tag>
+    <s:tag>Aftershaves for Barbers</s:tag>
+    <s:tag>Aftershaves for Retail</s:tag>
+    <s:tag>Dapper Dan</s:tag>
+    <s:tag>fvideo-DDHairProductsvideo</s:tag>
+    <s:tag>rvideo-top102019</s:tag>
+    <s:tag>Shaving Soaps &amp; Aftershave</s:tag>
+    <s:tag>Shaving Soaps &amp; Aftershaves</s:tag>
+    <s:variant>
+      <id>https://www.permabrands.ca/products/4618788700233</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku>DD-021487</s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.permabrands.ca/products/6576525082697</id>
+    <published>2021-08-11T23:30:31-04:00</published>
+    <updated>2021-08-11T23:30:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.permabrands.ca/products/dapper-dan-shave-cream-in-a-tube-100ml"/>
+    <title>Dapper Dan Shave Cream in a tube 100ml</title>
+    <s:type></s:type>
+    <s:vendor>Dapper Dan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1196/2904/products/71nkw5Bf6GL._SL1500.jpg?v=1622732924"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dapper Dan<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Dapper Dan Barbershop Classic Shave Cream can be used with or without a shaving brush to create a rich lather for shaving. Developed by professionals, this rich cream contains Aloe Vera, Allantoin to moisturize the skin and reduce irritation. A no added alcohol and paraben-free formulation, gently fragranced with classic Sandalwood. Presented in 100ml stand up tube. For best results, follow with Dapper Dan Barbershop Classic Aftershave Balm.</span><br></p>
+<p>Fragrance: <span data-mce-fragment="1">Sandalwood</span></p>
+<ul>
+<li>Alcohol-free</li>
+<li>Parabens-free</li>
+</ul>
+<p><i>Cruelty-free.</i></p>
+<p>Made in England</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dapper Dan</s:tag>
+    <s:variant>
+      <id>https://www.permabrands.ca/products/6576525082697</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku>DD-021494</s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.permabrands.ca/products/4386202157129</id>
+    <published>2021-08-11T23:27:30-04:00</published>
+    <updated>2021-08-11T23:27:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.permabrands.ca/products/dapper-dan-beard-balm-50ml-1-69-oz-tin"/>
+    <title>Dapper Dan Beard Balm - 50ml / 1.69 Oz Tin</title>
+    <s:type>Beard Balm</s:type>
+    <s:vendor>Dapper Dan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1196/2904/products/Beard_Balm_Open_medium_7b947a58-b639-4c67-86c3-46fce2b7a24f.png?v=1580747945"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dapper Dan<br>
+        <strong>Type: </strong>Beard Balm<br>
+        <strong>Price: </strong>
+            12.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Dapper Dan Beard Balm is the latest addition to the beard grooming range of products. An expert blend of essential oils and waxes to help shape, style and nourish your moustache &amp; beard. </span></p>
+<p><span>Directions for use: Apply a small amount to the palm of your hands and spread evenly...</span></p>
+<style></style></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Barber &amp; Retail</s:tag>
+    <s:tag>Beard &amp; Mustache Care</s:tag>
+    <s:tag>Dapper Dan</s:tag>
+    <s:tag>Top Seller</s:tag>
+    <s:variant>
+      <id>https://www.permabrands.ca/products/4386202157129</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.50</s:price>
+      <s:sku>DD-BB01</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.permabrands.ca/products/2164106100809</id>
+    <published>2021-08-11T23:26:06-04:00</published>
+    <updated>2021-08-11T23:26:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.permabrands.ca/products/dapper-dan-ultra-matte-texture-dust"/>
+    <title>Dapper Dan Ultra Matte Texture Dust  (20G)</title>
+    <s:type>Pomade &amp; Hair Products</s:type>
+    <s:vendor>Dapper Dan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1196/2904/products/Ultra_Matte_Texture_Dust_small_900x_763b3ffb-f25b-42a2-934e-4bddf2b6d9cc.jpg?v=1567007160"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dapper Dan<br>
+        <strong>Type: </strong>Pomade &amp; Hair Products<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<h1><strong>DESCRIPTION &amp; FEATURES</strong></h1>
+<p><span>Dapper Dan Texture Dust is a dry hair styling powder creating an instant volume,  naturally looking dry texture and a firm, long-lasting. Its water-based formula makes its application and washing out an easy process. </span></p>
+<p> </p>
+<h2><strong>DIRECTIONS OF USE:</strong></h2>
+<p>Apply a small amount into palms, spread evenly through dry or damp hair. Style as required. </p>
+<h2><strong>INGREDIENTS:</strong></h2>
+<p>Aqua, Silica Silylate, Sodium Chloride, Hydrated Silica, Parfum, DMDM Hydantoin, Linalool, Lomonene, Butylphenyl Methylpropional, Benzyl Salicylate, Hexyl Cinnamal.</p>
+<p><i>Cruelty-free.</i></p>
+<p>Made in England</p>
+<p> </p>
+<p><img alt="Not tested on animals cruelty free" src="https://cdn.shopify.com/s/files/1/1313/6261/files/Untitled_design_thumb.png?v=1560630776"><span> </span> <img src="https://cdn.shopify.com/s/files/1/1313/6261/files/Untitled_design_1_thumb.png?v=1560631132" alt="recyclable eco-friendly environment friendly"></p>
+</div>
+<div>
+<div></div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dapper Dan</s:tag>
+    <s:tag>fvideo-DDHairProductsvideo</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>New Items</s:tag>
+    <s:tag>Pomade &amp; Hair Products</s:tag>
+    <s:tag>rvideo-top102019</s:tag>
+    <s:variant>
+      <id>https://www.permabrands.ca/products/2164106100809</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku>DD-470958</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.permabrands.ca/products/2164099317833</id>
+    <published>2021-08-11T23:26:03-04:00</published>
+    <updated>2021-08-11T23:26:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.permabrands.ca/products/dapper-dan-ultra-matte-super-hold-clay-100ml-3-38oz"/>
+    <title>Dapper Dan Ultra Matte Super Hold Clay (100ml/3.38oz)</title>
+    <s:type>Pomade &amp; Hair Products</s:type>
+    <s:vendor>Dapper Dan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1196/2904/products/Ultra_Matte_small_900x_b1b912d7-b290-44ab-ac81-66f76c906a7e.jpg?v=1611675655"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dapper Dan<br>
+        <strong>Type: </strong>Pomade &amp; Hair Products<br>
+        <strong>Price: </strong>
+            12.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1><strong>DESCRIPTION &amp; FEATURES</strong></h1>
+<p>Dapper Dan Super Hold Clay is the perfect hair styling product to keep hair in place all day long. It adds tons of body due to the presence of Kaolin without weighing the hair down.</p>
+<p><span>Dapper Dan Super Hold Clay leaves the hair with an ultra-matte finish and a sweet scent due to vanilla and raspberry notes used.</span></p>
+<p> </p>
+<h2><strong>DIRECTIONS OF USE:</strong></h2>
+<p>Apply a small amount into palms, spread evenly through dry or damp hair. Style as required. </p>
+<h2><strong>KEY INGREDIENTS:</strong></h2>
+<ul>
+<li>Kaolin</li>
+<li>Beeswax</li>
+</ul>
+<h2><strong>INGREDIENTS:</strong></h2>
+<p>Kaolin, Aqua (Water), Cera Alba (Beeswax), Petrolatum, VP/VA Copolymer, Lanolin, Cetearyl Alcohol, PVP, PEG-7 Glyceryl Cocoate, Parfum (Fragrance), Phenoxyethanol, Benzyl Alcohol, Ethylhexyglycerin, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Squalane, Polysorbate 60, Cotronellol, Geraniol, Limonene, Linalool</p>
+<p><i>Cruelty-free.</i></p>
+<p>Made in England</p>
+<p> </p>
+<p><img alt="Not tested on animals cruelty free" src="https://cdn.shopify.com/s/files/1/1313/6261/files/Untitled_design_thumb.png?v=1560630776"><span> </span><img alt="recyclable eco-friendly environment friendly" src="https://cdn.shopify.com/s/files/1/1313/6261/files/Untitled_design_1_thumb.png?v=1560631132"></p>
+<p> </p>
+<div></div>
+<style></style></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dapper Dan</s:tag>
+    <s:tag>fvideo-DDHairProductsvideo</s:tag>
+    <s:tag>New Items</s:tag>
+    <s:tag>Pomade &amp; Hair Products</s:tag>
+    <s:tag>rvideo-top102019</s:tag>
+    <s:variant>
+      <id>https://www.permabrands.ca/products/2164099317833</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.50</s:price>
+      <s:sku>DD-047283</s:sku>
+      <s:grams>114</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.permabrands.ca/products/1427776602185</id>
+    <published>2021-08-11T23:21:47-04:00</published>
+    <updated>2021-08-11T23:21:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.permabrands.ca/products/dapper-dan-sea-salt-spray-200ml"/>
+    <title>Dapper Dan Sea Salt Hair Spray (200ml)</title>
+    <s:type>Pomade &amp; Hair Products</s:type>
+    <s:vendor>Dapper Dan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1196/2904/products/Image2021-07-1311_07_38.49.jpg?v=1626189491"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dapper Dan<br>
+        <strong>Type: </strong>Pomade &amp; Hair Products<br>
+        <strong>Price: </strong>
+            10.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Dapper Dan Sea Salt Spray works on its own or together with your favourite Dapper Dan Styling product.</p>
+<p><strong>Directions of Use:</strong></p>
+<p>Simply spray onto damp hair and leave to dry for a natural matte texture. Alternatively, the Dapper Dan Sea Salt Spray can be blow-dried into the hair to create fantastic thickness, volume and hold.</p>
+<p>Fragrance: Classic Sandalwood</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dapper Dan</s:tag>
+    <s:tag>fvideo-DDHairProductsvideo</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Retail Product</s:tag>
+    <s:tag>rvideo-top102019</s:tag>
+    <s:variant>
+      <id>https://www.permabrands.ca/products/1427776602185</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.50</s:price>
+      <s:sku>DD-143878</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.permabrands.ca/products/10596661123</id>
+    <published>2021-08-11T23:21:00-04:00</published>
+    <updated>2021-08-11T23:21:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.permabrands.ca/products/dapperdan1"/>
+    <title>Dapper Dan Hair Pomade Retail Display</title>
+    <s:type>Pomade &amp; Hair Products</s:type>
+    <s:vendor>Dapper Dan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1196/2904/products/DapperDan4ChannelSet.jpg?v=1567004221"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dapper Dan<br>
+        <strong>Type: </strong>Pomade &amp; Hair Products<br>
+        <strong>Price: </strong>
+            300.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Dapper Dan's Four Channel Display Unit is a must-have for businesses that carry products for the English manufacturer's signature line. </div>
+<div> </div>
+<div>The Display Channel houses up to four rows of Dapper Dan pomades, clays, or matts. It also is capable of holding beard oils, an excellent option for those seeking to add variety to their catalog.</div>
+<div></div>
+<div>  </div>
+<div>The vintage tin is designed specifically by Dapper Dan to complement their products and present them in a manner that's both appealing and organized, leading to additional revenue for your business. </div>
+<div>  </div>
+<div>Dapper Dan's best-selling products come from Sheffield, England.</div>
+<div></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bundle-item</s:tag>
+    <s:tag>Dapper Dan</s:tag>
+    <s:tag>fvideo-DDHairProductsvideo</s:tag>
+    <s:tag>rvideo-top102019</s:tag>
+    <s:variant>
+      <id>https://www.permabrands.ca/products/10596661123</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">300.40</s:price>
+      <s:sku>DD-008503</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.permabrands.ca/products/10596655107</id>
+    <published>2021-08-11T23:20:21-04:00</published>
+    <updated>2021-08-11T23:20:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.permabrands.ca/products/dapper-dan-vegetable-soap"/>
+    <title>Dapper Dan Vegetable Soap - 190 Grams</title>
+    <s:type>Men&apos;s Bodycare</s:type>
+    <s:vendor>Dapper Dan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1196/2904/products/DAPPER_Dan__4058_copy.jpg?v=1527141308"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dapper Dan<br>
+        <strong>Type: </strong>Men&#39;s Bodycare<br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div>
+<span></span>Lathering skin with the right soap is a pure luxury, which is why Dapper Dan has taken their expertise in making hair products and channeled it towards making this remarkable organic soap. </div>
+<div>  </div>
+<div>The soothing <span>lemongrass and limes</span><span> fragrance</span> draws inspiration from classic gentlemen's products without carrying an overbearing scent. It also features vintage packaging that bears the rustic charm that gentlemen crave without compromising authentic quality. </div>
+</div>
+<div>   </div>
+<div>(190g) </div>
+<div>   </div>
+<div>Proudly made in England.</div>
+<div>
+<div></div>
+</div>
+<div></div>
+<div style="background-color: #f5f6f5;"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dapper Dan</s:tag>
+    <s:tag>Men&apos;s Skincare</s:tag>
+    <s:tag>New-Featured</s:tag>
+    <s:tag>p2c-8.00</s:tag>
+    <s:tag>p6c-8.00</s:tag>
+    <s:variant>
+      <id>https://www.permabrands.ca/products/10596655107</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.00</s:price>
+      <s:sku>DD-735349</s:sku>
+      <s:grams>190</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.permabrands.ca/products/9077235651</id>
+    <published>2021-08-11T23:12:30-04:00</published>
+    <updated>2021-08-11T23:12:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.permabrands.ca/products/dapper-dan-matt-paste-100ml-3-38oz"/>
+    <title>Dapper Dan Matt Paste (100ml/3.38oz)</title>
+    <s:type>Pomade &amp; Hair Products</s:type>
+    <s:vendor>Dapper Dan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1196/2904/products/dapperdanmattpaste_002_e7a780d7-b4e2-4aea-87d9-11bfa1e20dcb.jpg?v=1527141302"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dapper Dan<br>
+        <strong>Type: </strong>Pomade &amp; Hair Products<br>
+        <strong>Price: </strong>
+            12.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>For a strong hold without the shine, this Dapper Dan Matt Paste pomade ensures hair is sleek and solid. With the elegant scent of vintage cologne, this all-around polished pomade classic styles embedded with modern affect. Easy to apply, this product is made in the UK with distinction.</p>
+<p><i>Cruelty-free.</i></p>
+<p>Made in England</p>
+<p> </p>
+<p><img alt="Not tested on animals cruelty free" src="https://cdn.shopify.com/s/files/1/1313/6261/files/Untitled_design_thumb.png?v=1560630776"><span> </span><img alt="recyclable eco-friendly environment friendly" src="https://cdn.shopify.com/s/files/1/1313/6261/files/Untitled_design_1_thumb.png?v=1560631132"></p>
+<p><span> </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dapper Dan</s:tag>
+    <s:tag>dapperbundle-product-bundle-option-6</s:tag>
+    <s:tag>dapperdan1-product-bundle-option-6</s:tag>
+    <s:tag>fvideo-DDHairProductsvideo</s:tag>
+    <s:tag>Men&apos;s Hair Care</s:tag>
+    <s:tag>p2c-12.50</s:tag>
+    <s:tag>p6c-12.50</s:tag>
+    <s:tag>Pharmacy</s:tag>
+    <s:tag>Pomade &amp; Hair Products</s:tag>
+    <s:tag>rvideo-top102019</s:tag>
+    <s:tag>tgbundle-product-bundle-option-1</s:tag>
+    <s:tag>Tobacconist</s:tag>
+    <s:tag>Top Seller</s:tag>
+    <s:tag>top-gifting-bundle-product-bundle-option</s:tag>
+    <s:variant>
+      <id>https://www.permabrands.ca/products/9077235651</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.50</s:price>
+      <s:sku>DD-MP01</s:sku>
+      <s:grams>114</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.permabrands.ca/products/9077236035</id>
+    <published>2021-08-11T23:11:26-04:00</published>
+    <updated>2021-08-11T23:11:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.permabrands.ca/products/dapper-dan-deluxe-pomade-100ml-3-38oz"/>
+    <title>Dapper Dan Deluxe Pomade (100ml/3.38oz)</title>
+    <s:type>Pomade &amp; Hair Products</s:type>
+    <s:vendor>Dapper Dan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1196/2904/products/DD-DP01.png?v=1533743916"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dapper Dan<br>
+        <strong>Type: </strong>Pomade &amp; Hair Products<br>
+        <strong>Price: </strong>
+            12.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Dapper Dan Deluxe Pomade an exquisite pomade suitable for men who want a sleek and refined look without the greasiness from other solutions.</p>
+<p>Creates a stronghold and shine without hardening the hair. A succulent whiff of vanilla<span> and honey scents make this a pomade of quality and essence.</span></p>
+<p><span>Made in the UK for gentlemen who appreciate barbershop classics.</span></p>
+<p><i>Cruelty-free.</i></p>
+<p>Made in England</p>
+<p> </p>
+<p><img alt="Not tested on animals cruelty free" src="https://cdn.shopify.com/s/files/1/1313/6261/files/Untitled_design_thumb.png?v=1560630776"><span> </span><img alt="recyclable eco-friendly environment friendly" src="https://cdn.shopify.com/s/files/1/1313/6261/files/Untitled_design_1_thumb.png?v=1560631132"></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dapper Dan</s:tag>
+    <s:tag>dapperbundle-product-bundle-option-6</s:tag>
+    <s:tag>dapperdan1-product-bundle-option-6</s:tag>
+    <s:tag>fvideo-DDHairProductsvideo</s:tag>
+    <s:tag>Men&apos;s Hair Care</s:tag>
+    <s:tag>p2c-12.50</s:tag>
+    <s:tag>p6c-12.50</s:tag>
+    <s:tag>Pharmacy</s:tag>
+    <s:tag>Pomade &amp; Hair Products</s:tag>
+    <s:tag>rvideo-top102019</s:tag>
+    <s:tag>tgbundle-product-bundle-option-1</s:tag>
+    <s:tag>Tobacconist</s:tag>
+    <s:tag>Top Seller</s:tag>
+    <s:tag>top-gifting-bundle-product-bundle-option</s:tag>
+    <s:variant>
+      <id>https://www.permabrands.ca/products/9077236035</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.50</s:price>
+      <s:sku>DD-DP01</s:sku>
+      <s:grams>114</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.permabrands.ca/products/9077235779</id>
+    <published>2021-08-11T23:11:17-04:00</published>
+    <updated>2021-08-11T23:11:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.permabrands.ca/products/dapper-dan-matt-clay-100ml-3-38oz"/>
+    <title>Dapper Dan Matt Clay (100ml/3.38oz)</title>
+    <s:type>Pomade &amp; Hair Products</s:type>
+    <s:vendor>Dapper Dan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1196/2904/products/dapperdanmattclay_001_f7416751-0ff8-49ea-9528-f007515e448a.jpg?v=1527141302"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dapper Dan<br>
+        <strong>Type: </strong>Pomade &amp; Hair Products<br>
+        <strong>Price: </strong>
+            12.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Sculpted with a flexible texture, this <strong>Dapper Dan Matt Clay Pomade</strong> is a solid substance that is firm to the touch to create a suave hold. With the smooth scent of vanilla, it hints at the matte look that is easily sleek and sophisticated. </span></p>
+<p><span>Easy to use and wash out, this made in the UK product is all about smoothness and charm.</span></p>
+<p><i>Cruelty-free.</i></p>
+<p>Made in England</p>
+<p> </p>
+<p><img alt="Not tested on animals cruelty free" src="https://cdn.shopify.com/s/files/1/1313/6261/files/Untitled_design_thumb.png?v=1560630776"><span> </span><img alt="recyclable eco-friendly environment friendly" src="https://cdn.shopify.com/s/files/1/1313/6261/files/Untitled_design_1_thumb.png?v=1560631132"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dapper Dan</s:tag>
+    <s:tag>dapperbundle-product-bundle-option-6</s:tag>
+    <s:tag>dapperdan1-product-bundle-option-6</s:tag>
+    <s:tag>fvideo-DDHairProductsvideo</s:tag>
+    <s:tag>Men&apos;s Hair Care</s:tag>
+    <s:tag>p2c-12.50</s:tag>
+    <s:tag>p6c-12.50</s:tag>
+    <s:tag>Pharmacy</s:tag>
+    <s:tag>Pomade &amp; Hair Products</s:tag>
+    <s:tag>rvideo-top102019</s:tag>
+    <s:tag>tgbundle-product-bundle-option-1</s:tag>
+    <s:tag>Tobacconist</s:tag>
+    <s:tag>Top Seller</s:tag>
+    <s:tag>top-gifting-bundle-product-bundle-option</s:tag>
+    <s:variant>
+      <id>https://www.permabrands.ca/products/9077235779</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.50</s:price>
+      <s:sku>DD-MC01</s:sku>
+      <s:grams>114</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.permabrands.ca/products/10596648451</id>
+    <published>2021-08-11T23:08:51-04:00</published>
+    <updated>2021-08-11T23:08:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.permabrands.ca/products/dapper-dan-heavy-hold-pomade"/>
+    <title>Dapper Dan Heavy Hold Pomade (100ml/3.38oz)</title>
+    <s:type>Pomade &amp; Hair Products</s:type>
+    <s:vendor>Dapper Dan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1196/2904/products/Heavy_Hold_1_Small.jpg?v=1527141269"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dapper Dan<br>
+        <strong>Type: </strong>Pomade &amp; Hair Products<br>
+        <strong>Price: </strong>
+            12.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<p><span style="font-weight: 400;">Dapper Dan's famous line of pomades includes this relentless </span><span style="font-weight: 400;">Heavy Hold edition, a must-have for men with the most unagreeable hair.  </span></p>
+<p><span style="font-weight: 400;">The pomade is a petroleum-free and oil-based mixture that provides a remarkably firm hold designed to keep hair in its sculpted form throughout the day while maintaining a vibrant shine. </span></p>
+<p><span style="font-weight: 400;">Despite being oil-based, Dapper Dan Heavy Hold Pomade is water-based, making it easy to wash out the first time and doesn’t leave any greasy residues! </span></p>
+<p><span style="font-weight: 400;">Dapper Dan products make an excellent addition to retail counters and bear the vintage charm for gentlemen with a soft spot for an era bygone.</span></p>
+<p><i>Cruelty-free.</i></p>
+<p>Made in England</p>
+<p> </p>
+<p><img alt="Not tested on animals cruelty free" src="https://cdn.shopify.com/s/files/1/1313/6261/files/Untitled_design_thumb.png?v=1560630776"><span> </span><img alt="recyclable eco-friendly environment friendly" src="https://cdn.shopify.com/s/files/1/1313/6261/files/Untitled_design_1_thumb.png?v=1560631132"></p>
+</div>
+<div></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dapper Dan</s:tag>
+    <s:tag>dapperdan1-product-bundle-option-6</s:tag>
+    <s:tag>fvideo-DDHairProductsvideo</s:tag>
+    <s:tag>New-Featured</s:tag>
+    <s:tag>p2c-12.50</s:tag>
+    <s:tag>p6c-12.50</s:tag>
+    <s:tag>Pomade &amp; Hair Products</s:tag>
+    <s:tag>rvideo-top102019</s:tag>
+    <s:variant>
+      <id>https://www.permabrands.ca/products/10596648451</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.50</s:price>
+      <s:sku>DD-735387</s:sku>
+      <s:grams>114</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.permabrands.ca/products/10636717059</id>
+    <published>2021-08-11T23:01:37-04:00</published>
+    <updated>2021-08-11T23:01:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.permabrands.ca/products/dapper-dan-sawcut-styling-comb"/>
+    <title>Dapper Dan Sawcut Styling Comb</title>
+    <s:type>Pocket Combs</s:type>
+    <s:vendor>Dapper Dan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1196/2904/products/Comb_On_white_small.jpg?v=1527141306"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dapper Dan<br>
+        <strong>Type: </strong>Pocket Combs<br>
+        <strong>Price: </strong>
+            7.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Dapper Dan's pomades, matt pastes, and clays have created millions of perfect hairstyles, which is why Dapper Dan brings forth a finely crafted, vintage-inspired Sawcut Styling Comb.</div>
+<div> </div>
+<div>This comb is designed specifically to move comfortably across scalps while moving easily through hair. It carries thicker teeth to form hair, and thinner teeth to provide precise results when necessary. </div>
+<div> </div>
+<div>(170mm x 30mm)  </div>
+<div>   </div>
+<div>
+<p><i>Cruelty-free.</i></p>
+<p>Made in England</p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dapper Dan</s:tag>
+    <s:tag>fvideo-DDHairProductsvideo</s:tag>
+    <s:tag>fvideo-top102019</s:tag>
+    <s:tag>Hair Combs &amp; Brushes</s:tag>
+    <s:tag>New-Featured</s:tag>
+    <s:tag>p1-9.00</s:tag>
+    <s:tag>p2-9.00</s:tag>
+    <s:tag>p2c-9.00</s:tag>
+    <s:tag>p6c-9.00</s:tag>
+    <s:variant>
+      <id>https://www.permabrands.ca/products/10636717059</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.50</s:price>
+      <s:sku>DD-735356</s:sku>
+      <s:grams>30</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,459 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.permabrands.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.permabrands.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.permabrands.ca/collections/bluebeards-original.atom"/>
+  <title>Perma Brands Canada</title>
+  <updated>2021-08-11T23:09:27-04:00</updated>
+  <author>
+    <name>Perma Brands Canada</name>
+  </author>
+  <entry>
+    <id>https://www.permabrands.ca/products/9077264771</id>
+    <published>2021-08-11T23:09:27-04:00</published>
+    <updated>2021-08-11T23:09:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.permabrands.ca/products/bluebeards-original-beard-saver-118-3ml-4oz"/>
+    <title>Bluebeards Original Beard Saver (118.3ml/4oz)</title>
+    <s:type>Beard Care</s:type>
+    <s:vendor>Bluebeards Original</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1196/2904/products/BBO-BB01_1024x1024_4bb7859a-177f-4709-8b20-7eea78531268.jpg?v=1527140144"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bluebeards Original<br>
+        <strong>Type: </strong>Beard Care<br>
+        <strong>Price: </strong>
+            17.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Bluebeards Original Beard Saver is a conditioner for those who want clean and polished beards. The beard saver's anti-itch formulation moisturizes beards and the skin underneath to produce lustrous facial hair. Made with aloe vera to soothe skin and lime essential oils to dissolve trapped bacteria to produce a dynamic beard. Simply dab a small amount from root to tip to achieve a luscious and full look. (118ml/4oz).</p>
+<p>A product of the USA. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beard &amp; Mustache Care</s:tag>
+    <s:tag>Bluebeards Original</s:tag>
+    <s:tag>bundle-beard-care-product-bundle-option</s:tag>
+    <s:tag>p2c-17.50</s:tag>
+    <s:tag>p6c-17.50</s:tag>
+    <s:tag>tgbundle-product-bundle-option-1</s:tag>
+    <s:tag>Tobacconist</s:tag>
+    <s:tag>Top Seller</s:tag>
+    <s:tag>top-gifting-bundle-product-bundle-option</s:tag>
+    <s:variant>
+      <id>https://www.permabrands.ca/products/9077264771</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.50</s:price>
+      <s:sku>BBO-BB01</s:sku>
+      <s:grams>137</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.permabrands.ca/products/9077238083</id>
+    <published>2021-08-11T23:08:16-04:00</published>
+    <updated>2021-08-11T23:08:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.permabrands.ca/products/bluebeards-original-fresh-mint-beard-saver-118-3ml-4oz"/>
+    <title>Bluebeards Original Fresh Mint Beard Saver (118.3ml/4oz)</title>
+    <s:type>Beard Care</s:type>
+    <s:vendor>Bluebeards Original</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1196/2904/products/BBO-BB03_1_1024x1024_047c42bc-48f2-4f74-b70e-cc8b3f1e3780.jpg?v=1527140146"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bluebeards Original<br>
+        <strong>Type: </strong>Beard Care<br>
+        <strong>Price: </strong>
+            17.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Leave-in conditioners aren't just for your hair. The Bluebeards Original Fresh Mint Beard Saver does more than clean and nourishes your beard. Made with aloe vera and other conditioning agents, it is also formulated with antibacterial ingredients to maintain your beard's appearance. Naturally conditioning, Bluebeards knows burly beards inside and out. (118.3ml/4oz).</p>
+<p>Product of the USA.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beard &amp; Mustache Care</s:tag>
+    <s:tag>Bluebeards Original</s:tag>
+    <s:tag>bundle-beard-care-product-bundle-option</s:tag>
+    <s:tag>p2c-17.50</s:tag>
+    <s:tag>p6c-17.50</s:tag>
+    <s:tag>tgbundle-product-bundle-option-1</s:tag>
+    <s:tag>Top Seller</s:tag>
+    <s:variant>
+      <id>https://www.permabrands.ca/products/9077238083</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.50</s:price>
+      <s:sku>BBO-BB03</s:sku>
+      <s:grams>137</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.permabrands.ca/products/9077257283</id>
+    <published>2021-08-11T23:08:07-04:00</published>
+    <updated>2021-08-11T23:08:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.permabrands.ca/products/bluebeards-original-unscented-beard-wash-236ml-8oz"/>
+    <title>Bluebeards Original Unscented Beard Wash (236ml/8oz)</title>
+    <s:type>Beard Care</s:type>
+    <s:vendor>Bluebeards Original</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1196/2904/products/BBO-BB08_2.jpg?v=1527140149"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bluebeards Original<br>
+        <strong>Type: </strong>Beard Care<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Bluebeards Original Unscented Beard Wash is a great addition for those with sensitive skin. Crafted without strong scents or fragrances, this beard wash refreshes the skin underneath and moisturizes facial hair when cleaning. Made with a gentle formula of aloe vera and lime essential oils, skin is soothed after your daily wash.100% paraben free (236ml/8oz).</p>
+<p>Product of the USA.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beard &amp; Mustache Care</s:tag>
+    <s:tag>Bluebeards Original</s:tag>
+    <s:tag>bundle-beard-care-product-bundle-option</s:tag>
+    <s:tag>p2c-16.00</s:tag>
+    <s:tag>p6c-16.00</s:tag>
+    <s:tag>tgbundle-product-bundle-option-1</s:tag>
+    <s:variant>
+      <id>https://www.permabrands.ca/products/9077257283</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku>BBO-BB08</s:sku>
+      <s:grams>273</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.permabrands.ca/products/9077258051</id>
+    <published>2021-08-11T23:08:04-04:00</published>
+    <updated>2021-08-11T23:08:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.permabrands.ca/products/bluebeards-original-fresh-mint-conditioner-251ml-8-5oz"/>
+    <title>Bluebeards Original Fresh Mint Conditioner (251ml/8.5oz)</title>
+    <s:type>Beard Conditioner</s:type>
+    <s:vendor>Bluebeards Original</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1196/2904/products/BBO-BB07.jpg?v=1567104685"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bluebeards Original<br>
+        <strong>Type: </strong>Beard Conditioner<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Bluebeards Original Fresh Mint Conditioner is a wash-out conditioner that is perfect for your daily shower and grooming rituals. Formulated with real peppermint oil, this conditioner keeps skin and hair moisturized so that your beard is always sleek and shiny. Helps minimize ingrown hairs, itch, and flakes so that you don't experience discomfort. 100% paraben-free. (251ml/8.5oz).</p>
+<p>Product of the USA.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beard &amp; Mustache Care</s:tag>
+    <s:tag>Bluebeards Original</s:tag>
+    <s:tag>bundle-beard-care-product-bundle-option</s:tag>
+    <s:tag>p2c-16.00</s:tag>
+    <s:tag>p6c-16.00</s:tag>
+    <s:tag>tgbundle-product-bundle-option-1</s:tag>
+    <s:variant>
+      <id>https://www.permabrands.ca/products/9077258051</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku>BBO-BB07</s:sku>
+      <s:grams>273</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.permabrands.ca/products/9077244163</id>
+    <published>2021-08-11T23:05:48-04:00</published>
+    <updated>2021-08-11T23:05:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.permabrands.ca/products/bluebeards-original-beard-brush"/>
+    <title>Bluebeards Original Beard Brush</title>
+    <s:type>Beard Brushes</s:type>
+    <s:vendor>Bluebeards Original</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1196/2904/products/BBO-BBRUSH1_aeef0f8a-a203-4213-bcd2-ee5b31fe3378.jpg?v=1527140144"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bluebeards Original<br>
+        <strong>Type: </strong>Beard Brushes<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> </p>
+<p>Bristle Type: Boar</p>
+<p><span style="font-weight: 400;">Handle: Standard (<span>5.5 inches x 2.9 inches x 1.9 inches)</span></span></p>
+<p><span style="font-weight: 400;">Hair Type: Facial Hair</span></p>
+<p><span style="font-weight: 400;">The Bluebeards Original Classic Beard Brush ensures your beard looks striking and virile throughout the day. Made with natural boar bristles, this brush untangles the knots in your facial hair while being gentle on the skin underneath. From root to tip, these bristles distribute sebum evenly throughout so that your beard's natural oils remain. Constructed with a beautiful Beechwood design, it's a classic tool that will keep your beard shiny and smooth.</span></p>
+<p>Product of USA.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beard &amp; Mustache Care</s:tag>
+    <s:tag>Bluebeards Original</s:tag>
+    <s:tag>Boar Bristle Brush</s:tag>
+    <s:tag>bundle-beard-care-product-bundle-option</s:tag>
+    <s:tag>p2c-15.00</s:tag>
+    <s:tag>p6c-15.00</s:tag>
+    <s:tag>tgbundle-product-bundle-option-1</s:tag>
+    <s:tag>Tobacconist</s:tag>
+    <s:tag>Top Seller</s:tag>
+    <s:tag>top-gifting-bundle-product-bundle-option</s:tag>
+    <s:variant>
+      <id>https://www.permabrands.ca/products/9077244163</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku>BBO-BBRUSH1</s:sku>
+      <s:grams>105</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.permabrands.ca/products/9077257155</id>
+    <published>2021-08-11T23:05:40-04:00</published>
+    <updated>2021-08-11T23:05:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.permabrands.ca/products/bluebeards-original-unscented-beard-saver-118ml-4oz"/>
+    <title>Bluebeards Original Unscented Beard Saver (118ml/4oz)</title>
+    <s:type>Beard Care</s:type>
+    <s:vendor>Bluebeards Original</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1196/2904/products/BBO-BB09_1024x1024_e793c209-4986-41cb-92d5-58a1ea992a4d.jpg?v=1527140148"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bluebeards Original<br>
+        <strong>Type: </strong>Beard Care<br>
+        <strong>Price: </strong>
+            17.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Burly beards have come back in style and they require special attention. The Bluebeards Original Unscented Beard Saver is ideal for those with sensitive skin and noses. Unscented and made without fragrances, this beard saver conditions and softens facial hair without any forceful scents. Contains aloe vera and lime essential oils to soothe skin underneath the hairs.100% paraben-free. (118ml/4oz).</p>
+<p>Product of the USA.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beard &amp; Mustache Care</s:tag>
+    <s:tag>Bluebeards Original</s:tag>
+    <s:tag>bundle-beard-care-product-bundle-option</s:tag>
+    <s:tag>p2c-17.50</s:tag>
+    <s:tag>p6c-17.50</s:tag>
+    <s:tag>tgbundle-product-bundle-option-1</s:tag>
+    <s:tag>Top Seller</s:tag>
+    <s:variant>
+      <id>https://www.permabrands.ca/products/9077257155</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.50</s:price>
+      <s:sku>BBO-BB09</s:sku>
+      <s:grams>137</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.permabrands.ca/products/9077264707</id>
+    <published>2021-08-11T23:04:23-04:00</published>
+    <updated>2021-08-11T23:04:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.permabrands.ca/products/bluebeards-original-beard-wash-118-3ml-4oz"/>
+    <title>Bluebeards Original Beard Wash (118.3ml/4oz)</title>
+    <s:type>Beard Care</s:type>
+    <s:vendor>Bluebeards Original</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1196/2904/products/BBO-BB02_44167c7a-8def-4871-942d-1a371afcaa4a.jpg?v=1567104634"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bluebeards Original<br>
+        <strong>Type: </strong>Beard Care<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Bluebeards Original Beard Wash is ideal for those with sensitive skin. Formulated to tame the toughest of facial hair, it also moisturizes the skin underneath to leave a gentle and nourishing touch. Helps achieve the perfect shine for your everyday beard. (118.3ml/4oz).</p>
+<p>Product of the USA.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beard &amp; Mustache Care</s:tag>
+    <s:tag>Bluebeards Original</s:tag>
+    <s:tag>bundle-beard-care-product-bundle-option</s:tag>
+    <s:tag>p2c-10.00</s:tag>
+    <s:tag>p6c-10.00</s:tag>
+    <s:tag>tgbundle-product-bundle-option-1</s:tag>
+    <s:tag>Tobacconist</s:tag>
+    <s:tag>Top Seller</s:tag>
+    <s:variant>
+      <id>https://www.permabrands.ca/products/9077264707</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku>BBO-BB02</s:sku>
+      <s:grams>137</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.permabrands.ca/products/9077262211</id>
+    <published>2021-08-11T23:03:58-04:00</published>
+    <updated>2021-08-11T23:03:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.permabrands.ca/products/bluebeards-original-beard-wash-extra-conditioning-250ml-8-5oz"/>
+    <title>Bluebeards Original Beard Wash Extra Conditioning (250ml/8.5oz)</title>
+    <s:type>Beard Care</s:type>
+    <s:vendor>Bluebeards Original</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1196/2904/products/BBO-BB05.jpg?v=1527140145"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bluebeards Original<br>
+        <strong>Type: </strong>Beard Care<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Bluebeards Original Beard Wash Extra Conditioner goes beyond your traditional shampoos and facial soaps. Designed with aloe vera and conditioning agents to hydrate the skin beneath the beard, just squeeze a small amount and apply to beard every day in the shower. The product will create a natural shine and lustrer for a dynamic look. (250ml/8.5oz).</p>
+<p>Product of the USA.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beard &amp; Mustache Care</s:tag>
+    <s:tag>Bluebeards Original</s:tag>
+    <s:tag>bundle-beard-care-product-bundle-option</s:tag>
+    <s:tag>p2c-16.00</s:tag>
+    <s:tag>p6c-16.00</s:tag>
+    <s:tag>tgbundle-product-bundle-option-1</s:tag>
+    <s:tag>Top Seller</s:tag>
+    <s:variant>
+      <id>https://www.permabrands.ca/products/9077262211</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku>BBO-BB05</s:sku>
+      <s:grams>273</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.permabrands.ca/products/9077258115</id>
+    <published>2021-08-11T23:01:31-04:00</published>
+    <updated>2021-08-11T23:01:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.permabrands.ca/products/bluebeards-original-fresh-mint-beard-wash-251ml-8-5oz"/>
+    <title>Bluebeards Original Fresh Mint Beard Wash (251ml/8.5oz)</title>
+    <s:type>Beard Care</s:type>
+    <s:vendor>Bluebeards Original</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1196/2904/products/BBO-BB06.jpg?v=1527140147"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bluebeards Original<br>
+        <strong>Type: </strong>Beard Care<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Bluebeards Original Fresh Mint Beard Wash is formulated with pure peppermint oil and menthol to add shine to your lavish beard. As a product that promotes hair growth, the beard wash contains natural conditioning properties that nourish your beard and softens hair. Infused with amino acids, it will lock moisture into your beard to achieve a healthy glow. (251ml/8.5oz).</p>
+<p>Product of the USA.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beard &amp; Mustache Care</s:tag>
+    <s:tag>Bluebeards Original</s:tag>
+    <s:tag>bundle-beard-care-product-bundle-option</s:tag>
+    <s:tag>p2c-16.00</s:tag>
+    <s:tag>p6c-16.00</s:tag>
+    <s:tag>tgbundle-product-bundle-option-1</s:tag>
+    <s:variant>
+      <id>https://www.permabrands.ca/products/9077258115</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku>BBO-BB06</s:sku>
+      <s:grams>273</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.permabrands.ca/products/9077264643</id>
+    <published>2021-08-11T23:00:48-04:00</published>
+    <updated>2021-08-11T23:00:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.permabrands.ca/products/bluebeards-original-wonder-beard-intensive-repair-118ml-4oz"/>
+    <title>Bluebeards Original Wonder Beard Intensive Repair (118ml/4oz)</title>
+    <s:type>Beard Care</s:type>
+    <s:vendor>Bluebeards Original</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1196/2904/products/BBO-BB04_a63daaa3-f859-4365-8cb5-4d6472cd1e7b.jpg?v=1527140150"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bluebeards Original<br>
+        <strong>Type: </strong>Beard Care<br>
+        <strong>Price: </strong>
+            14.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Burly beards require extra conditioning at times. The Bluebeards Original Wonder Beard Intensive Repair is formulated to restore damaged facial hair within minutes of being applied. Simply use twice a week for lustrous and healthy facial hair. Made with amino acids and meadowfoam seed oil to lock in moisture for soft facial hair.(118ml/4oz).</p>
+<p>Product of the USA.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beard &amp; Mustache Care</s:tag>
+    <s:tag>Bluebeards Original</s:tag>
+    <s:tag>bundle-beard-care-product-bundle-option</s:tag>
+    <s:tag>p2c-14.50</s:tag>
+    <s:tag>p6c-14.50</s:tag>
+    <s:tag>Shaving Soaps &amp; Aftershave</s:tag>
+    <s:tag>tgbundle-product-bundle-option-1</s:tag>
+    <s:tag>Top Seller</s:tag>
+    <s:variant>
+      <id>https://www.permabrands.ca/products/9077264643</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.50</s:price>
+      <s:sku>BBO-BB04</s:sku>
+      <s:grams>137</s:grams>
+    </s:variant>
+  </entry>
+</feed>

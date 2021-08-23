@@ -1,0 +1,1043 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.permabrands.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.permabrands.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.permabrands.ca/collections/captain-fawcetts.atom"/>
+  <title>Perma Brands Canada</title>
+  <updated>2021-08-11T23:46:55-04:00</updated>
+  <author>
+    <name>Perma Brands Canada</name>
+  </author>
+  <entry>
+    <id>https://www.permabrands.ca/products/1429587492937</id>
+    <published>2021-08-11T23:46:55-04:00</published>
+    <updated>2021-08-11T23:46:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.permabrands.ca/products/mwaxbundle"/>
+    <title>Captain Fawcett&apos;s Moustache Wax Bundle</title>
+    <s:type>Mustache Wax</s:type>
+    <s:vendor>Captain Fawcett&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1196/2904/products/CPF-WAX-DISPLAY_copy.png?v=1533742991"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Captain Fawcett&#39;s<br>
+        <strong>Type: </strong>Mustache Wax<br>
+        <strong>Price: </strong>
+            344.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>This retail display includes: </strong><br>4 x Lavender Moustache Wax,<br>4 x Sandalwood Moustache Wax,<br>4 x Ylang Ylang Scents Moustache Wax,<br>4 x Moustache Wax Expedition Strength,<br>4 x Barberism Moustache Wax,<br>4 x Rufus Hound's Triumphant Moustache Wax and<br>4 x Big Peat Islay Malt Whisky Moustache Wax.</p>
+<p>The display comes with a reversible header. </p>
+<p>With header: 20” x 18’’ x 19” (LxWxH), Without header: 20” x 18’’ x 4” (LxWxH)</p>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bundle-item</s:tag>
+    <s:tag>bundle-product</s:tag>
+    <s:tag>fvideo-CaptainFawcettCollectionvideo</s:tag>
+    <s:tag>New</s:tag>
+    <s:variant>
+      <id>https://www.permabrands.ca/products/1429587492937</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">344.00</s:price>
+      <s:sku>CPF-WAX-DISPLAY</s:sku>
+      <s:grams>1136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.permabrands.ca/products/6591314165833</id>
+    <published>2021-08-11T23:46:52-04:00</published>
+    <updated>2021-08-11T23:46:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.permabrands.ca/products/captain-fawcetts-hair-tonic"/>
+    <title>Captain Fawcett&apos;s Hair Tonic</title>
+    <s:type>Hair Products</s:type>
+    <s:vendor>Captain Fawcett&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1196/2904/products/www.captainfawcett.com-2559.jpg?v=1628517394"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Captain Fawcett&#39;s<br>
+        <strong>Type: </strong>Hair Products<br>
+        <strong>Price: </strong>
+            17.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A refreshing blend infused with woody aromatics evoking the warm, spiced air of the West Indies. A masculine fragrance created by steeping bay leaves in rum, as did sailors of old. It has the instantly recognisable uplifting scent of traditional barbershops around the globe.<br><span data-mce-fragment="1"></span></p>
+<p><span data-mce-fragment="1">250ml/8.45fl.oz</span></p>
+<p><strong>Instructions for use: </strong><br>Take time to massage tonic with palms and fingertips, stimulating the scalp and invigorating the follicles. May be left overnight to revitalise and restore the sheen of health to tired hair. Comb for a slick style and set a confident course for the day ahead.</p>
+<p><br>For external use only.<span> </span>Avoid contact with eyes. If irritation occurs flush with clean water.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hair Tonic</s:tag>
+    <s:tag>Hair Tonic for Barbers</s:tag>
+    <s:tag>Hair Tonic for Retail</s:tag>
+    <s:variant>
+      <id>https://www.permabrands.ca/products/6591314165833</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.50</s:price>
+      <s:sku>CPF-441819</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.permabrands.ca/products/6591314133065</id>
+    <published>2021-08-11T23:46:47-04:00</published>
+    <updated>2021-08-11T23:46:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.permabrands.ca/products/captain-fawcetts-ricki-halls-booze-baccy-moisturiser"/>
+    <title>Captain Fawcett&apos;s Ricki Hall&apos;s Booze &amp; Baccy Moisturiser</title>
+    <s:type>Men&apos;s Bodycare</s:type>
+    <s:vendor>Captain Fawcett&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1196/2904/products/CFFaceMoisturiser-2573.jpg?v=1628517392"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Captain Fawcett&#39;s<br>
+        <strong>Type: </strong>Men&#39;s Bodycare<br>
+        <strong>Price: </strong>
+            42.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="Default" data-mce-fragment="1"><i data-mce-fragment="1"><span lang="EN-US" data-mce-fragment="1">For the modern dandy and man about town.</span></i><i data-mce-fragment="1"><span data-mce-fragment="1"></span></i></p>
+<p class="Default" data-mce-fragment="1"><span lang="EN-US" data-mce-fragment="1">Captain Fawcett is delighted to present a luxurious bespoke moisturising cream subtly scented with<span> </span></span><i data-mce-fragment="1"><span lang="DA" data-mce-fragment="1">Ricki Hall</span></i><span dir="RTL" data-mce-fragment="1"></span><span dir="RTL" data-mce-fragment="1"></span><i data-mce-fragment="1"><span dir="RTL" lang="AR-SA" data-mce-fragment="1"><span dir="RTL" data-mce-fragment="1"></span><span dir="RTL" data-mce-fragment="1"></span>’</span></i><i data-mce-fragment="1"><span lang="EN-US" data-mce-fragment="1">s 'Booze &amp; Baccy' Signature Series<span> </span></span></i><span lang="EN-US" data-mce-fragment="1">swagger. Infused with vitamin extracts<span> </span></span><i data-mce-fragment="1"><span data-mce-fragment="1">&amp; </span></i><span lang="EN-US" data-mce-fragment="1">plant based nutrients to help eliminate toxins<span> </span></span><i data-mce-fragment="1"><span data-mce-fragment="1">&amp; </span></i><span lang="EN-US" data-mce-fragment="1">keep complexions clear<span> </span></span><i data-mce-fragment="1"><span data-mce-fragment="1">&amp; </span></i><span lang="EN-US" data-mce-fragment="1">healthy. Easily absorbed with no oily residue, the moisture retaining ingredients leave skin smooth as silk. Goes handsomely with all '</span><i data-mce-fragment="1"><span lang="NL" data-mce-fragment="1">Booze</span></i><i data-mce-fragment="1"><span lang="EN-US" data-mce-fragment="1"><span> </span>&amp; Baccy' </span></i><span lang="EN-US" data-mce-fragment="1">essentials.</span><span lang="EN-US" data-mce-fragment="1"><span> </span></span><span lang="EN-US" data-mce-fragment="1">The scent of a man who makes his mark.</span><span data-mce-fragment="1"></span></p>
+<p class="Default" data-mce-fragment="1"><span lang="EN-US" data-mce-fragment="1">Moisturising twice a day supports the skin’s natural barrier and does wonders to ward off fine lines, wrinkles and dullness, thereby keeping a fellow</span><span dir="RTL" data-mce-fragment="1"></span><span dir="RTL" data-mce-fragment="1"></span><span dir="RTL" lang="AR-SA" data-mce-fragment="1"><span dir="RTL" data-mce-fragment="1"></span><span dir="RTL" data-mce-fragment="1"></span>’</span><span lang="EN-US" data-mce-fragment="1">s handsome visage in top-notch<span> </span></span><span lang="FR" data-mce-fragment="1">condition.</span><span data-mce-fragment="1"></span></p>
+<p class="Default" data-mce-fragment="1"><span lang="EN-US" data-mce-fragment="1">Grab a small amount - don</span><span dir="RTL" data-mce-fragment="1"></span><span dir="RTL" data-mce-fragment="1"></span><span dir="RTL" lang="AR-SA" data-mce-fragment="1"><span dir="RTL" data-mce-fragment="1"></span><span dir="RTL" data-mce-fragment="1"></span>’</span><span lang="EN-US" data-mce-fragment="1">t overdo it - take it easy. Stroke into face<span> </span></span><i data-mce-fragment="1"><span data-mce-fragment="1">&amp; </span></i><span lang="EN-US" data-mce-fragment="1">neck in the morning<span> </span></span><i data-mce-fragment="1"><span data-mce-fragment="1">&amp; </span></i><span lang="EN-US" data-mce-fragment="1">at night, then go about your business. Suitable for all skin types.<span> </span><i data-mce-fragment="1">Bosh!</i></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Men&apos;s Bodycare for Barbers</s:tag>
+    <s:tag>Men&apos;s Bodycare for Retail</s:tag>
+    <s:tag>Men&apos;s Skincare</s:tag>
+    <s:tag>Men&apos;s Skincare for Barbers</s:tag>
+    <s:tag>Men&apos;s Skincare for Retail</s:tag>
+    <s:variant>
+      <id>https://www.permabrands.ca/products/6591314133065</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">42.50</s:price>
+      <s:sku>CPF-441802</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.permabrands.ca/products/6591314100297</id>
+    <published>2021-08-11T23:46:43-04:00</published>
+    <updated>2021-08-11T23:46:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.permabrands.ca/products/copy-of-captain-fawcetts-sea-salt-hair-spray"/>
+    <title>Captain Fawcett&apos;s Expedition Reserve Moisturiser</title>
+    <s:type>Men&apos;s Bodycare</s:type>
+    <s:vendor>Captain Fawcett&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1196/2904/products/CFFaceMoisturiser-2597.jpg?v=1628517388"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Captain Fawcett&#39;s<br>
+        <strong>Type: </strong>Men&#39;s Bodycare<br>
+        <strong>Price: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="Default" data-mce-fragment="1"><i data-mce-fragment="1"><span lang="EN-US" data-mce-fragment="1">For the gentleman who appreciates the finest of pleasures.</span></i><i data-mce-fragment="1"><span data-mce-fragment="1"></span></i></p>
+<p class="Default" data-mce-fragment="1"><span data-mce-fragment="1">Captain Fawcett</span><span dir="RTL" data-mce-fragment="1"></span><span dir="RTL" data-mce-fragment="1"></span><span dir="RTL" lang="AR-SA" data-mce-fragment="1"><span dir="RTL" data-mce-fragment="1"></span><span dir="RTL" data-mce-fragment="1"></span>’</span><span data-mce-fragment="1">s '<i data-mce-fragment="1">Expedition Reserve' Moisturiser </i></span><span lang="EN-US" data-mce-fragment="1">is an elegant salve, richly formulated with a fresh subtle scent to leave skin feeling silky smooth. Infused with vitamin extracts<span> </span></span><i data-mce-fragment="1"><span data-mce-fragment="1">&amp; </span></i><span lang="EN-US" data-mce-fragment="1">plant based nutrients to help eliminate toxins, keeping</span><span lang="FR" data-mce-fragment="1"><span> </span>a chap</span><span dir="RTL" data-mce-fragment="1"></span><span dir="RTL" data-mce-fragment="1"></span><span dir="RTL" lang="AR-SA" data-mce-fragment="1"><span dir="RTL" data-mce-fragment="1"></span><span dir="RTL" data-mce-fragment="1"></span>’</span><span lang="EN-US" data-mce-fragment="1">s complexion clear<span> </span></span><i data-mce-fragment="1"><span data-mce-fragment="1">&amp; </span></i><span lang="EN-US" data-mce-fragment="1">in tip top health. Perfect for layering with companion '<i data-mce-fragment="1">Expedition Reserve' </i>essentials in readiness for adventure.</span><span data-mce-fragment="1"></span></p>
+<p class="Default" data-mce-fragment="1"><span lang="EN-US" data-mce-fragment="1">Whether manning the research stations of Antarctica or sitting through yet another ruddy Zoom in one’s parlour, a decent hydrating cream deflects environmental irritants. And what’s more, it’s never too late to start chaps!</span><span data-mce-fragment="1"></span></p>
+<p class="Default" data-mce-fragment="1"><span lang="EN-US" data-mce-fragment="1">For superb hydration, dispense a small dab of this most efficacious cream<span> </span></span><i data-mce-fragment="1"><span data-mce-fragment="1">&amp; </span></i><span lang="EN-US" data-mce-fragment="1">smooth into face<span> </span></span><i data-mce-fragment="1"><span data-mce-fragment="1">&amp; </span></i><span lang="EN-US" data-mce-fragment="1">neck each morning and/or at night. Allow to be fully absorbed as a little goes a splendidly long way. Suitable for all skin types.<span> </span><i data-mce-fragment="1">Tally ho!</i></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Men&apos;s Bodycare for Barbers</s:tag>
+    <s:tag>Men&apos;s Bodycare for Retail</s:tag>
+    <s:tag>Men&apos;s Skincare</s:tag>
+    <s:tag>Men&apos;s Skincare for Barbers</s:tag>
+    <s:tag>Men&apos;s Skincare for Retail</s:tag>
+    <s:variant>
+      <id>https://www.permabrands.ca/products/6591314100297</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>CPF-441796</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.permabrands.ca/products/6591314067529</id>
+    <published>2021-08-11T23:46:40-04:00</published>
+    <updated>2021-08-11T23:46:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.permabrands.ca/products/captain-fawcetts-sea-salt-hair-spray"/>
+    <title>Captain Fawcett&apos;s Sea Salt Hair Spray</title>
+    <s:type>Hair Products</s:type>
+    <s:vendor>Captain Fawcett&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1196/2904/products/www.captainfawcett.com-2564.jpg?v=1628517383"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Captain Fawcett&#39;s<br>
+        <strong>Type: </strong>Hair Products<br>
+        <strong>Price: </strong>
+            17.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Captain Fawcett’s Sea Salt Spray lifts landlocked follicles like a flurry of wild wind. Plant extracts and sea minerals condition and nourish while rich emollients fix moisture, adding natural texture with a matte finish. Created with salt from one of the world’s oldest suppliers with an exhilarating coastal fragrance for gentlemen adventurers, men of the road, pirates, navigators, sailors, surfers, buccaneers, beachcombers, wily rovers and mermen from Margate to Madagascar.</p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">250ml/8.45fl.oz</span><br data-mce-fragment="1"><br data-mce-fragment="1"><strong data-mce-fragment="1">Instructions for use:</strong><br data-mce-fragment="1">Use on damp hair, work in by hand or comb through and leave to dry naturally as one might at the beach. Thicker hair may well require a little more, finer hair a little less so experiment as you wish. Excellent for longer and mid-length hair and to add ruffled texture to short styles. For increased volume, spray may be applied directly to roots - start sparingly and add as required.</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">For external use only.</strong><span data-mce-fragment="1"> </span>Avoid contact with eyes. If irritation occurs flush with clean water.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Barber Pro</s:tag>
+    <s:variant>
+      <id>https://www.permabrands.ca/products/6591314067529</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.50</s:price>
+      <s:sku>CPF-441574</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.permabrands.ca/products/6579467026505</id>
+    <published>2021-08-11T23:46:37-04:00</published>
+    <updated>2021-08-11T23:46:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.permabrands.ca/products/captain-fawcetts-beard-oil-beard-comb-gift-setmillion-dollar"/>
+    <title>Captain Fawcett&apos;s Beard Oil &amp; Beard Comb Gift Set(Million Dollar)</title>
+    <s:type>Gift Sets &amp; Kits</s:type>
+    <s:vendor>Captain Fawcett&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1196/2904/products/18_43e01365-02e7-41ef-bd70-b3e92060b236.jpg?v=1623547198"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Captain Fawcett&#39;s<br>
+        <strong>Type: </strong>Gift Sets &amp; Kits<br>
+        <strong>Price: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gift Sets &amp; Kits for Retail</s:tag>
+    <s:tag>Gift Shops</s:tag>
+    <s:tag>Great Gifts For Men</s:tag>
+    <s:tag>Grooming Gift Sets &amp; Kits</s:tag>
+    <s:variant>
+      <id>https://www.permabrands.ca/products/6579467026505</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">50.00</s:price>
+      <s:sku>CPF-442113</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.permabrands.ca/products/6579466993737</id>
+    <published>2021-08-11T23:46:34-04:00</published>
+    <updated>2021-08-11T23:46:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.permabrands.ca/products/captain-fawcetts-beard-oil-beard-comb-gift-setwhiskey"/>
+    <title>Captain Fawcett&apos;s Beard Oil &amp; Beard Comb Gift Set(Whiskey)</title>
+    <s:type>Gift Sets &amp; Kits</s:type>
+    <s:vendor>Captain Fawcett&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1196/2904/products/17_d05f8b8b-e90d-4f0e-b248-c7d95e08ac6c.jpg?v=1623547195"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Captain Fawcett&#39;s<br>
+        <strong>Type: </strong>Gift Sets &amp; Kits<br>
+        <strong>Price: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gift Sets &amp; Kits for Retail</s:tag>
+    <s:tag>Gift Shops</s:tag>
+    <s:tag>Great Gifts For Men</s:tag>
+    <s:tag>Grooming Gift Sets &amp; Kits</s:tag>
+    <s:variant>
+      <id>https://www.permabrands.ca/products/6579466993737</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">50.00</s:price>
+      <s:sku>CPF-442144</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.permabrands.ca/products/6579466960969</id>
+    <published>2021-08-11T23:46:31-04:00</published>
+    <updated>2021-08-11T23:46:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.permabrands.ca/products/captain-fawcetts-beard-oil-beard-comb-gift-setbooze-baccy"/>
+    <title>Captain Fawcett&apos;s Beard Oil &amp; Beard Comb Gift Set(Booze &amp; Baccy)</title>
+    <s:type>Gift Sets &amp; Kits</s:type>
+    <s:vendor>Captain Fawcett&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1196/2904/products/16_45f64df5-db88-4e60-bc6c-0ba2041fcdc8.jpg?v=1623547191"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Captain Fawcett&#39;s<br>
+        <strong>Type: </strong>Gift Sets &amp; Kits<br>
+        <strong>Price: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gift Sets &amp; Kits for Retail</s:tag>
+    <s:tag>Gift Shops</s:tag>
+    <s:tag>Great Gifts For Men</s:tag>
+    <s:tag>Grooming Gift Sets &amp; Kits</s:tag>
+    <s:variant>
+      <id>https://www.permabrands.ca/products/6579466960969</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">50.00</s:price>
+      <s:sku>CPF-442137</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.permabrands.ca/products/6579466928201</id>
+    <published>2021-08-11T23:46:28-04:00</published>
+    <updated>2021-08-11T23:46:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.permabrands.ca/products/captain-fawcetts-beard-oil-beard-comb-gift-settriumphant"/>
+    <title>Captain Fawcett&apos;s Beard Oil &amp; Beard Comb Gift Set(Triumphant)</title>
+    <s:type>Gift Sets &amp; Kits</s:type>
+    <s:vendor>Captain Fawcett&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1196/2904/products/15_968eb000-2362-4390-8935-c9302c963746.jpg?v=1623547189"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Captain Fawcett&#39;s<br>
+        <strong>Type: </strong>Gift Sets &amp; Kits<br>
+        <strong>Price: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gift Sets &amp; Kits for Retail</s:tag>
+    <s:tag>Gift Shops</s:tag>
+    <s:tag>Great Gifts For Men</s:tag>
+    <s:tag>Grooming Gift Sets &amp; Kits</s:tag>
+    <s:variant>
+      <id>https://www.permabrands.ca/products/6579466928201</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">50.00</s:price>
+      <s:sku>CPF-442090</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.permabrands.ca/products/6579466895433</id>
+    <published>2021-08-11T23:46:25-04:00</published>
+    <updated>2021-08-11T23:46:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.permabrands.ca/products/captain-fawcetts-beard-oil-beard-comb-gift-setbarberism"/>
+    <title>Captain Fawcett&apos;s Beard Oil &amp; Beard Comb Gift Set(Barberism)</title>
+    <s:type>Gift Sets &amp; Kits</s:type>
+    <s:vendor>Captain Fawcett&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1196/2904/products/14_8e18499d-1173-4de9-ba10-59011a3eaac5.jpg?v=1623547186"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Captain Fawcett&#39;s<br>
+        <strong>Type: </strong>Gift Sets &amp; Kits<br>
+        <strong>Price: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gift Sets &amp; Kits for Retail</s:tag>
+    <s:tag>Gift Shops</s:tag>
+    <s:tag>Great Gifts For Men</s:tag>
+    <s:tag>Grooming Gift Sets &amp; Kits</s:tag>
+    <s:variant>
+      <id>https://www.permabrands.ca/products/6579466895433</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">50.00</s:price>
+      <s:sku>CPF-442106</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.permabrands.ca/products/6579466862665</id>
+    <published>2021-08-11T23:46:22-04:00</published>
+    <updated>2021-08-11T23:46:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.permabrands.ca/products/captain-fawcetts-beard-oil-beard-comb-gift-setmaharajah"/>
+    <title>Captain Fawcett&apos;s Beard Oil &amp; Beard Comb Gift Set(Maharajah)</title>
+    <s:type>Gift Sets &amp; Kits</s:type>
+    <s:vendor>Captain Fawcett&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1196/2904/products/13_d128f6a6-3033-43f8-98e3-308ebe7f6d17.jpg?v=1623547182"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Captain Fawcett&#39;s<br>
+        <strong>Type: </strong>Gift Sets &amp; Kits<br>
+        <strong>Price: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gift Sets &amp; Kits for Retail</s:tag>
+    <s:tag>Gift Shops</s:tag>
+    <s:tag>Great Gifts For Men</s:tag>
+    <s:tag>Grooming Gift Sets &amp; Kits</s:tag>
+    <s:variant>
+      <id>https://www.permabrands.ca/products/6579466862665</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">50.00</s:price>
+      <s:sku>CPF-442083</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.permabrands.ca/products/6579466829897</id>
+    <published>2021-08-11T23:46:18-04:00</published>
+    <updated>2021-08-11T23:46:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.permabrands.ca/products/captain-fawcetts-wax-moustache-comb-gift-setmalt-whiskey"/>
+    <title>Captain Fawcett&apos;s Wax &amp; Moustache Comb Gift Set(Malt Whiskey)</title>
+    <s:type>Gift Sets &amp; Kits</s:type>
+    <s:vendor>Captain Fawcett&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1196/2904/products/WaxGIftSetall_a0fb35a3-7a6e-46e0-b069-5ad7b61cd984.jpg?v=1623547178"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Captain Fawcett&#39;s<br>
+        <strong>Type: </strong>Gift Sets &amp; Kits<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gift Sets &amp; Kits for Retail</s:tag>
+    <s:tag>Gift Shops</s:tag>
+    <s:tag>Great Gifts For Men</s:tag>
+    <s:tag>Grooming Gift Sets &amp; Kits</s:tag>
+    <s:variant>
+      <id>https://www.permabrands.ca/products/6579466829897</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku>CPF-442045</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.permabrands.ca/products/6579466797129</id>
+    <published>2021-08-11T23:46:15-04:00</published>
+    <updated>2021-08-11T23:46:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.permabrands.ca/products/captain-fawcetts-wax-moustache-comb-gift-setbig-peat"/>
+    <title>Captain Fawcett&apos;s Wax &amp; Moustache Comb Gift Set(Big Peat)</title>
+    <s:type>Gift Sets &amp; Kits</s:type>
+    <s:vendor>Captain Fawcett&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1196/2904/products/WaxGIftSetall_19f0053f-d0a1-44e0-980a-857c9bfb59bd.jpg?v=1623547173"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Captain Fawcett&#39;s<br>
+        <strong>Type: </strong>Gift Sets &amp; Kits<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gift Sets &amp; Kits for Retail</s:tag>
+    <s:tag>Gift Shops</s:tag>
+    <s:tag>Great Gifts For Men</s:tag>
+    <s:tag>Grooming Gift Sets &amp; Kits</s:tag>
+    <s:variant>
+      <id>https://www.permabrands.ca/products/6579466797129</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku>CPF-442014</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.permabrands.ca/products/6579466764361</id>
+    <published>2021-08-11T23:46:12-04:00</published>
+    <updated>2021-08-11T23:46:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.permabrands.ca/products/captain-fawcetts-wax-moustache-comb-gift-setprivate-stock"/>
+    <title>Captain Fawcett&apos;s Wax &amp; Moustache Comb Gift Set(Private Stock)</title>
+    <s:type>Gift Sets &amp; Kits</s:type>
+    <s:vendor>Captain Fawcett&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1196/2904/products/WaxGIftSetall_e545e928-7208-44a3-892a-c6f6a2c1bfed.jpg?v=1623547167"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Captain Fawcett&#39;s<br>
+        <strong>Type: </strong>Gift Sets &amp; Kits<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gift Sets &amp; Kits for Retail</s:tag>
+    <s:tag>Gift Shops</s:tag>
+    <s:tag>Great Gifts For Men</s:tag>
+    <s:tag>Grooming Gift Sets &amp; Kits</s:tag>
+    <s:variant>
+      <id>https://www.permabrands.ca/products/6579466764361</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku>CPF-441963</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.permabrands.ca/products/6579466731593</id>
+    <published>2021-08-11T23:46:09-04:00</published>
+    <updated>2021-08-11T23:46:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.permabrands.ca/products/captain-fawcetts-wax-moustache-comb-gift-setbooze-baccy"/>
+    <title>Captain Fawcett&apos;s Wax &amp; Moustache Comb Gift Set(Booze &amp; Baccy)</title>
+    <s:type>Gift Sets &amp; Kits</s:type>
+    <s:vendor>Captain Fawcett&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1196/2904/products/WaxGIftSetall_a28dd411-110f-4791-b7ac-852ac093be9a.jpg?v=1623547164"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Captain Fawcett&#39;s<br>
+        <strong>Type: </strong>Gift Sets &amp; Kits<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gift Sets &amp; Kits for Retail</s:tag>
+    <s:tag>Gift Shops</s:tag>
+    <s:tag>Great Gifts For Men</s:tag>
+    <s:tag>Grooming Gift Sets &amp; Kits</s:tag>
+    <s:variant>
+      <id>https://www.permabrands.ca/products/6579466731593</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku>CPF-441987</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.permabrands.ca/products/6579466698825</id>
+    <published>2021-08-11T23:46:06-04:00</published>
+    <updated>2021-08-11T23:46:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.permabrands.ca/products/captain-fawcetts-wax-moustache-comb-gift-setthe-chap"/>
+    <title>Captain Fawcett&apos;s Wax &amp; Moustache Comb Gift Set(The Chap)</title>
+    <s:type>Gift Sets &amp; Kits</s:type>
+    <s:vendor>Captain Fawcett&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1196/2904/products/WaxGIftSetall_2ed6f267-0370-44b1-ad4d-fea461f3d726.jpg?v=1623547160"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Captain Fawcett&#39;s<br>
+        <strong>Type: </strong>Gift Sets &amp; Kits<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gift Sets &amp; Kits for Retail</s:tag>
+    <s:tag>Gift Shops</s:tag>
+    <s:tag>Great Gifts For Men</s:tag>
+    <s:tag>Grooming Gift Sets &amp; Kits</s:tag>
+    <s:variant>
+      <id>https://www.permabrands.ca/products/6579466698825</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku>CPF-442038</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.permabrands.ca/products/6579466666057</id>
+    <published>2021-08-11T23:46:03-04:00</published>
+    <updated>2021-08-11T23:46:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.permabrands.ca/products/captain-fawcetts-wax-moustache-comb-gift-settriumphant"/>
+    <title>Captain Fawcett&apos;s Wax &amp; Moustache Comb Gift Set(Triumphant)</title>
+    <s:type>Gift Sets &amp; Kits</s:type>
+    <s:vendor>Captain Fawcett&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1196/2904/products/WaxGIftSetall_d2fd3ce8-d6f9-4fc4-af58-f23f8ccfb525.jpg?v=1623547157"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Captain Fawcett&#39;s<br>
+        <strong>Type: </strong>Gift Sets &amp; Kits<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gift Sets &amp; Kits for Retail</s:tag>
+    <s:tag>Gift Shops</s:tag>
+    <s:tag>Great Gifts For Men</s:tag>
+    <s:tag>Grooming Gift Sets &amp; Kits</s:tag>
+    <s:variant>
+      <id>https://www.permabrands.ca/products/6579466666057</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku>CPF-441994</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.permabrands.ca/products/6579466633289</id>
+    <published>2021-08-11T23:46:00-04:00</published>
+    <updated>2021-08-11T23:46:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.permabrands.ca/products/captain-fawcetts-wax-moustache-comb-gift-setbarberism"/>
+    <title>Captain Fawcett&apos;s Wax &amp; Moustache Comb Gift Set(Barberism)</title>
+    <s:type>Gift Sets &amp; Kits</s:type>
+    <s:vendor>Captain Fawcett&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1196/2904/products/WaxGIftSetall_9951f8fd-7bae-4ff7-9860-af0a11959edc.jpg?v=1623547153"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Captain Fawcett&#39;s<br>
+        <strong>Type: </strong>Gift Sets &amp; Kits<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gift Sets &amp; Kits for Retail</s:tag>
+    <s:tag>Gift Shops</s:tag>
+    <s:tag>Great Gifts For Men</s:tag>
+    <s:tag>Grooming Gift Sets &amp; Kits</s:tag>
+    <s:variant>
+      <id>https://www.permabrands.ca/products/6579466633289</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku>CPF-441956</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.permabrands.ca/products/6579466600521</id>
+    <published>2021-08-11T23:45:57-04:00</published>
+    <updated>2021-08-11T23:45:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.permabrands.ca/products/captain-fawcetts-wax-moustache-comb-gift-setmaharajah"/>
+    <title>Captain Fawcett&apos;s Wax &amp; Moustache Comb Gift Set(Maharajah)</title>
+    <s:type>Gift Sets &amp; Kits</s:type>
+    <s:vendor>Captain Fawcett&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1196/2904/products/WaxGIftSetall_f7d61c07-b13c-498c-96ef-ac9a7da4cd92.jpg?v=1623547149"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Captain Fawcett&#39;s<br>
+        <strong>Type: </strong>Gift Sets &amp; Kits<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gift Sets &amp; Kits for Retail</s:tag>
+    <s:tag>Gift Shops</s:tag>
+    <s:tag>Great Gifts For Men</s:tag>
+    <s:tag>Grooming Gift Sets &amp; Kits</s:tag>
+    <s:variant>
+      <id>https://www.permabrands.ca/products/6579466600521</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku>CPF-441970</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.permabrands.ca/products/6579466567753</id>
+    <published>2021-08-11T23:45:53-04:00</published>
+    <updated>2021-08-11T23:45:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.permabrands.ca/products/captain-fawcetts-wax-moustache-comb-gift-setexpedition-strength"/>
+    <title>Captain Fawcett&apos;s Wax &amp; Moustache Comb Gift Set(Expedition Strength)</title>
+    <s:type>Gift Sets &amp; Kits</s:type>
+    <s:vendor>Captain Fawcett&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1196/2904/products/WaxGIftSetall_e51efb8d-0f75-4e47-bf0c-900855284717.jpg?v=1623547144"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Captain Fawcett&#39;s<br>
+        <strong>Type: </strong>Gift Sets &amp; Kits<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gift Sets &amp; Kits for Retail</s:tag>
+    <s:tag>Gift Shops</s:tag>
+    <s:tag>Great Gifts For Men</s:tag>
+    <s:tag>Grooming Gift Sets &amp; Kits</s:tag>
+    <s:variant>
+      <id>https://www.permabrands.ca/products/6579466567753</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku>CPF-440263</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.permabrands.ca/products/6579466534985</id>
+    <published>2021-08-11T23:45:50-04:00</published>
+    <updated>2021-08-11T23:45:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.permabrands.ca/products/captain-fawcetts-wax-moustache-comb-gift-setylang-ylandg"/>
+    <title>Captain Fawcett&apos;s Wax &amp; Moustache Comb Gift Set(Ylang Ylandg)</title>
+    <s:type>Gift Sets &amp; Kits</s:type>
+    <s:vendor>Captain Fawcett&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1196/2904/products/WaxGIftSetall_2e3c37e0-464b-43d1-a3ca-eb83aca3c7cc.jpg?v=1623547140"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Captain Fawcett&#39;s<br>
+        <strong>Type: </strong>Gift Sets &amp; Kits<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gift Sets &amp; Kits for Retail</s:tag>
+    <s:tag>Gift Shops</s:tag>
+    <s:tag>Great Gifts For Men</s:tag>
+    <s:tag>Grooming Gift Sets &amp; Kits</s:tag>
+    <s:variant>
+      <id>https://www.permabrands.ca/products/6579466534985</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku>CPF-440256</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.permabrands.ca/products/6579466502217</id>
+    <published>2021-08-11T23:45:47-04:00</published>
+    <updated>2021-08-11T23:45:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.permabrands.ca/products/captain-fawcetts-wax-moustache-comb-gift-setsandalwood"/>
+    <title>Captain Fawcett&apos;s Wax &amp; Moustache Comb Gift Set(Sandalwood)</title>
+    <s:type>Gift Sets &amp; Kits</s:type>
+    <s:vendor>Captain Fawcett&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1196/2904/products/WaxGIftSetall_15121c33-1b43-4bd3-91e6-f8eba0447c47.jpg?v=1623547137"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Captain Fawcett&#39;s<br>
+        <strong>Type: </strong>Gift Sets &amp; Kits<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gift Sets &amp; Kits for Retail</s:tag>
+    <s:tag>Gift Shops</s:tag>
+    <s:tag>Great Gifts For Men</s:tag>
+    <s:tag>Grooming Gift Sets &amp; Kits</s:tag>
+    <s:variant>
+      <id>https://www.permabrands.ca/products/6579466502217</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku>CPF-440249</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.permabrands.ca/products/6580616396873</id>
+    <published>2021-08-11T23:45:44-04:00</published>
+    <updated>2021-08-11T23:45:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.permabrands.ca/products/captain-fawcetts-maharajah-beard-oil-50ml"/>
+    <title>Captain Fawcett&apos;s Maharajah Beard Oil 50ml</title>
+    <s:type>Beard Care</s:type>
+    <s:vendor>Captain Fawcett&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1196/2904/products/www.captainfawcett.com_maharajah_50mlBO_LowRes-1818_1ed66585-e695-46fe-8d75-625fad486114.jpg?v=1624044862"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Captain Fawcett&#39;s<br>
+        <strong>Type: </strong>Beard Care<br>
+        <strong>Price: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Captain Fawcett’s collaboration with <strong><em>The Jodhpur Company</em></strong> has resulted in a most outstanding new Signature Series:<span> </span><em><strong>Ma</strong><strong>harajah! </strong></em></p>
+<p>Redolent of balmy air perfumed by aromatic smoke and a crush of bright petals conjuring the heat of enchanted Indian nights, the Captain’s master blender has woven heady rose with peppery spice, rich musk, cedar &amp; leather studded with dazzling citrus top notes; a majestic evocation of ancient power refined into a most elegant fragrance that entirely befits the modern gentleman.</p>
+<p>All Hail the Hirsute</p>
+<p><em>Instructions:</em><span> Dispense a few drops into the palm of your hand &amp; rub together. Smooth the oil thoroughly into your beard &amp; gently comb through for a royal finish.</span></p>
+<p>50ml ℮ 1.7 fl.oz</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Captain Fawcett</s:tag>
+    <s:tag>Captain Fawcett&apos;s</s:tag>
+    <s:variant>
+      <id>https://www.permabrands.ca/products/6580616396873</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>CPF-441482</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.permabrands.ca/products/6559458558025</id>
+    <published>2021-08-11T23:44:33-04:00</published>
+    <updated>2021-08-11T23:44:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.permabrands.ca/products/captain-fawcetts-triumphant-eau-de-parfum-by-rufus-hound-50ml"/>
+    <title>Captain Fawcett&apos;s Triumphant Eau De Parfum by Rufus Hound 50ml</title>
+    <s:type>Liquid Colognes</s:type>
+    <s:vendor>Captain Fawcett&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1196/2904/products/T1.jpg?v=1616188899"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Captain Fawcett&#39;s<br>
+        <strong>Type: </strong>Liquid Colognes<br>
+        <strong>Price: </strong>
+            75.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p1">Captain Fawcett’s<span> </span><em>Triumphant</em><span> </span>collaboration with actor, comedian<span> </span><em>&amp;</em><span> </span>all-round good egg<span> </span><em>Rufus Hound</em><span> </span>has resulted in a rather splendid Eau De Parfum. A delightful fragrance somewhat reminiscent of the balmy days of Spring; olfactory rural stimuli reaped whilst riding his beloved motorcycle thru England’s green &amp; pleasant countryside.</p>
+<p class="p2">A heady perfume boasting top notes of<span> </span><em>Bergamot, Lime &amp; Ylang</em>, mid notes of<span> </span><em>Blackcurrant, Clove &amp; Galbanum</em><span> </span>supported by the earthier base notes of<span> </span><em>Sandalwood, Ambergris &amp; Musk</em>.</p>
+<p class="p2"><span>In truth, this is simply a delightful alchemic concoction and as such, I would wager this to be one of Fawcett’s finest... <em>Huzzah!</em></span></p>
+<p>50ml 1.7floz</p>
+<p><strong>IMPORTANT MESSAGE FOR ALL CHUMS BASED OUTSIDE THE UK</strong><br>Unfortunately ‘Eau De Parfum’ is categorised by International Postal and Courier services as being hazardous material and is subject to ‘Dangerous Goods’ legislation and shipping requirements. We, therefore, find ourselves unable to ship this item outside the UK via the normal postal service. As such you may need to source this fragrance from either your in-country distributor or local Captain Fawcett bricks and mortar outlet.<span> </span><br></p>
+<p>However, where there is a will there is invariably a way, and as such, dependant on destination territory, there may be the option to send your order via a courier, albeit at an extra cost. Please email info@captainfawcett.com for further details.<span> </span></p>
+<p class="p2"><strong><i>A few words from Rufus...</i></strong></p>
+<p dir="ltr"><span>When I was 19, I took a full-time job. No-one took me seriously, for I was a boy. So I grew a beautiful blonde bouche bristler, and - now, undeniably, a man - never looked back.</span></p>
+<p class="p2">Every member of the fuzzy faced fraternity has had some similar anti-epilatory epiphany, but taming a fella’s firework of follicular fuss has, more often than not, been more luck than judgement.</p>
+<p class="p2">It was whilst I was sporting a particularly lush ‘English handlebar’ that I first encountered the Captain and his melange of magical moustache managers. The array of oils, waxes and parfums were never far from my washbag or my whiskers.</p>
+<p class="p2">With the success of the Rikki Hall signature series (Booze and Baccy - an absolute delight), The Captain wondered if I too might be tempted to craft a similarly specifically scented stache soother to our bearded brethren. He asked, in short, what my favourite smell was.</p>
+<p class="p2">My answer was immediate.</p>
+<p class="p2"><span>I ride a Triumph motorcycle in an open face helmet. On those glorious and, yes sadly, rare days of our national summer, to be on a British bike, riding through the twisty, turny B roads of the British countryside is an exceptional treat. Yes, there’s the speed, the control, the thrum (oh, the thrum!) but riding in an open face helmet also gives you a panorama, the breeze and the smell. Whizzing through little villages on a bike designed to do just that is </span><span>heavenly</span><span>. The combination of sunshine, flowers and williwaw arrives olfactorily but manifests spiritually. If there was one smell, I wish there more of in the world, that's it.</span></p>
+<p class="p2"><em>“Yes,”</em><span> </span>said The Captain<span> </span><em>“I think we should be able to do that.”</em>... So we did.</p>
+<p class="p2"><span>The smell was first offered in a moustache wax, but proved so popular that we have buckled to the demands of the shaved and made an eau de parfum. I have been wearing it for the last few months and have never been purloined by so many admiring sniffers - male </span><span>and </span><span>female! - desperate to know of what I smelt and where they too could purchase it.</span></p>
+<p class="p2">Truth be told, in a world where Justin Beiber and Nikki Minaj put out<span> </span><em>‘Celebrity Fragrances’</em>, this feels as insane to me as it does to you; but look around. The world is going mad. If we’re all going to go mad with it, we can at least do so smelling incredible. Smelling indefatigable. Smelling<span> </span><em>Triumphant.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Captain Fawcett</s:tag>
+    <s:tag>Colognes &amp; Fragrances</s:tag>
+    <s:tag>fvideo-CaptainFawcettCollectionvideo</s:tag>
+    <s:tag>rvideo-top102019</s:tag>
+    <s:tag>Shaving Soaps &amp; Aftershaves</s:tag>
+    <s:variant>
+      <id>https://www.permabrands.ca/products/6559458558025</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">75.00</s:price>
+      <s:sku>CPF-441437</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.permabrands.ca/products/6537374793801</id>
+    <published>2021-08-11T23:39:08-04:00</published>
+    <updated>2021-08-11T23:39:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.permabrands.ca/products/captain-fawcetts-alessandro-manfredini-eau-de-parfum-50-ml"/>
+    <title>Captain Fawcett&apos;s Alessandro Manfredini Eau De Parfum 50 ml</title>
+    <s:type>Colognes</s:type>
+    <s:vendor>Captain Fawcett&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1196/2904/products/AlessandroMandrediniParfumpackaging2.jpg?v=1614875742"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Captain Fawcett&#39;s<br>
+        <strong>Type: </strong>Colognes<br>
+        <strong>Price: </strong>
+            75.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Captain Fawcett’s collaboration with<span data-mce-fragment="1"> </span><strong data-mce-fragment="1">Alessandro Manfredini</strong><span data-mce-fragment="1"> </span>has created an Eau de Parfum rich with memory. A most seductive Signature Series scent evocative of Italy’s capricious seasons. Woody spiced top notes of<span data-mce-fragment="1"> </span><em data-mce-fragment="1">rosemary &amp; star anise</em><span data-mce-fragment="1"> </span>combine with mid notes of fresh green<span data-mce-fragment="1"> </span><em data-mce-fragment="1">cyclamen</em><span data-mce-fragment="1"> </span>on a bed of mineral<span data-mce-fragment="1"> </span><em data-mce-fragment="1">ambergris</em>, calming<span data-mce-fragment="1"> </span><em data-mce-fragment="1">cedarwood</em><span data-mce-fragment="1"> </span>&amp; sun toasted<span data-mce-fragment="1"> </span><em data-mce-fragment="1">tonka</em>. In truth, a simply magnificent alchemic fragrance has been created for your delectation.</p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">When the Captain made the acquaintance of Alessandro Manfredini he recognized a kindred spirit. Signor Manfredini is a gentleman of ageless elegance and style, a sculptor, and a graphic artist of the most distinctive silver-bearded appearance. Yet Alessandro is also a survivor, a man who fought to rebuild his spirit when an earthquake destroyed his dreams. The iridescent beetle, beloved from childhood, became his talisman. The Captain became his friend.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Evviva!</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">50ml 1.7floz</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Colognes &amp; Fragrances</s:tag>
+    <s:tag>Colognes for Barbers</s:tag>
+    <s:tag>Colognes for Retail</s:tag>
+    <s:variant>
+      <id>https://www.permabrands.ca/products/6537374793801</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">75.00</s:price>
+      <s:sku>CPF-441659</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

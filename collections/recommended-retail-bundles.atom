@@ -1,0 +1,681 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.permabrands.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.permabrands.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.permabrands.ca/collections/recommended-retail-bundles.atom"/>
+  <title>Perma Brands Canada</title>
+  <updated>2021-08-11T23:46:55-04:00</updated>
+  <author>
+    <name>Perma Brands Canada</name>
+  </author>
+  <entry>
+    <id>https://www.permabrands.ca/products/1429587492937</id>
+    <published>2021-08-11T23:46:55-04:00</published>
+    <updated>2021-08-11T23:46:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.permabrands.ca/products/mwaxbundle"/>
+    <title>Captain Fawcett&apos;s Moustache Wax Bundle</title>
+    <s:type>Mustache Wax</s:type>
+    <s:vendor>Captain Fawcett&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1196/2904/products/CPF-WAX-DISPLAY_copy.png?v=1533742991"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Captain Fawcett&#39;s<br>
+        <strong>Type: </strong>Mustache Wax<br>
+        <strong>Price: </strong>
+            344.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>This retail display includes: </strong><br>4 x Lavender Moustache Wax,<br>4 x Sandalwood Moustache Wax,<br>4 x Ylang Ylang Scents Moustache Wax,<br>4 x Moustache Wax Expedition Strength,<br>4 x Barberism Moustache Wax,<br>4 x Rufus Hound's Triumphant Moustache Wax and<br>4 x Big Peat Islay Malt Whisky Moustache Wax.</p>
+<p>The display comes with a reversible header. </p>
+<p>With header: 20” x 18’’ x 19” (LxWxH), Without header: 20” x 18’’ x 4” (LxWxH)</p>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bundle-item</s:tag>
+    <s:tag>bundle-product</s:tag>
+    <s:tag>fvideo-CaptainFawcettCollectionvideo</s:tag>
+    <s:tag>New</s:tag>
+    <s:variant>
+      <id>https://www.permabrands.ca/products/1429587492937</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">344.00</s:price>
+      <s:sku>CPF-WAX-DISPLAY</s:sku>
+      <s:grams>1136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.permabrands.ca/products/10783636355</id>
+    <published>2021-08-11T23:24:58-04:00</published>
+    <updated>2021-08-11T23:24:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.permabrands.ca/products/rockwell-razors-alum-sticks-24-pack-bowl"/>
+    <title>Rockwell Razors Alum Sticks 24-Pack Retail Bowl</title>
+    <s:type>Alums &amp; Styptics</s:type>
+    <s:vendor>Rockwell Razors</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1196/2904/products/RockwellAlumDisplay_001-min.jpg?v=1527137798"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rockwell Razors<br>
+        <strong>Type: </strong>Alums &amp; Styptics<br>
+        <strong>Price: </strong>
+            60.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li><span>Nicks and cuts happen to the best of us. Rockwell Alum Matches use natural ingredients to quickly and easily stop the bleeding.</span></li>
+<li><span>Just rip one Rockwell Alum Match out of the pack, wet the tip, and apply to the affected area.</span></li>
+<li><span>Rockwell Alum Matches are disposable after each use so you don’t leave a bloody, “reusable” alum stick on your countertop, collecting bacteria.</span></li>
+<li><span>Rockwell Alum Matches are excellent for reducing irritation or redness after a shave.</span></li>
+</ul>
+<p><span>24 pack of Rockwell Razors Alum Sticks in a retail bowl display.</span></p>
+<p>Soothe skin irritation and cuts with Rockwell Razor's Alum Sticks. Even the most expert of hands with a blade can cause scratches to your muzzle, particularly when you are in a rush.</p>
+<p>Simply wet a Rockwell Alum Stick and dab it gently on the cut or irritated skin to seal and soothe irritation. Convenient for nicks and cuts one can experience along the way. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>fvideo-AlumStypticVideo</s:tag>
+    <s:tag>p2c-60.00</s:tag>
+    <s:tag>p6c-60.00</s:tag>
+    <s:tag>Pharmacy</s:tag>
+    <s:tag>Rockwell Razors</s:tag>
+    <s:tag>rvideo-How2UseSafetyRazorvideo</s:tag>
+    <s:tag>rvideo-RRShavingBladesandAccessories</s:tag>
+    <s:tag>rvideo-top102019</s:tag>
+    <s:variant>
+      <id>https://www.permabrands.ca/products/10783636355</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">60.00</s:price>
+      <s:sku>RR-ALUMBOWL</s:sku>
+      <s:grams>220</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.permabrands.ca/products/10907967875</id>
+    <published>2021-08-11T23:24:55-04:00</published>
+    <updated>2021-08-11T23:24:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.permabrands.ca/products/bdisplay"/>
+    <title>Rockwell Beard Collection Display Bundle</title>
+    <s:type>Retail Display</s:type>
+    <s:vendor>Rockwell Razors</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1196/2904/products/Rockwell_Beard_Display_001-min.jpg?v=1566915032"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rockwell Razors<br>
+        <strong>Type: </strong>Retail Display<br>
+        <strong>Price: </strong>
+            145.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This retail display includes 4 Rockwell Beard Oils, 4 Beard Brushes, 4 Beard Conditioners, and 4 Beard &amp; Body Bar. Comes with Navy/white header.  </p>
+<p>With header: 10” x 8’’ x 14” (LxWxH)<br>Without header: 8” x 8’’ x 14” (LxWxH)</p>
+<p><em>Features:</em></p>
+<p><strong>Beard Oil</strong></p>
+<p>Based on our years of experience improving men’s facial hair, we formulated this Beard Oil to add shine and softness to even the coarsest of beards to keep your skin itch-free.</p>
+<p>This is the ultimate beard oil solution for those with anything from an early-stage beard to a mature and coarse beard, as well as those with sensitive skin or skin that easily gets dry.</p>
+<p>Our all-natural jojoba and argan oils will moisturize and add shine to your beard, while our green tea (camellia) and grape seed oils moisturize your skin to provide the protection from dry skin and itchiness that you need to look and feel great!</p>
+<p>With notes of leather, neroli, anise, and cedar, our Rockwell Barbershop Fragrance will take you back in time to a classic American barbershop. We guarantee you’ll love the scent.</p>
+<p><strong>Beard Brush</strong></p>
+<p>Natural boar bristles and a premium bamboo handle look &amp; feel fantastic.</p>
+<p>Distributes beard oils, balms and conditioners evenly through your facial hair while removing dirt, keeping your facial hair and skin healthy.</p>
+<p>A perfect birthday present or gift for Valentine’s Day, Christmas, New Grads, Father’s Day and more.</p>
+<p>Anti-static natural boar bristles guarantee a tangle-free beard.</p>
+<p><strong>Beard Conditioner</strong></p>
+<p>Based on our years of experience improving men’s facial hair, we formulated this Beard Conditioner to add shine and softness to even the coarsest of beards to keep your skin itch-free.</p>
+<p>This is the ultimate beard balm solution for those with serious beards who want to avoid beard dandruff, dryness. The Rockwell Beard Conditioner will keep your beard and moustache looking healthy and ready for light styling.</p>
+<p>Our all-natural jojoba and argan oils will moisturize and add shine to your beard, while our glycerin and hemp seed oil moisturizes your whiskers to keep them looking healthy through the entire day.</p>
+<p>With notes of leather, neroli, anise, and cedar, our Rockwell Barbershop Fragrance will take you back in time to a classic American barbershop. We guarantee you’ll love the scent.</p>
+<p><strong>Beard &amp; Body Bar</strong></p>
+<p>We formulated this bar of soap to exfoliate, cleanse, and nutrify your skin &amp; hair with all-natural, premium ingredients.</p>
+<p>This is the ultimate bar soap for those who want the best natural skincare possible, want to keep things simple in the shower. The natural coffee exfoliant and premium oils will exfoliate and moisturize all skin and beard types.</p>
+<p>Our all-natural jojoba and coconut oils will moisturize your beard and skin, while our activated charcoal acts as a natural antibacterial to get you properly clean for all-day freshness.</p>
+<p>With notes of leather, neroli, anise, and cedar, our Rockwell Barbershop Fragrance will take you back in time to a classic American barbershop. We guarantee you’ll love the scent.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bundle-item</s:tag>
+    <s:tag>fvideo-top102019</s:tag>
+    <s:tag>p2c-106.00</s:tag>
+    <s:tag>p6c-106.00</s:tag>
+    <s:tag>Pharmacy</s:tag>
+    <s:tag>Retail Product</s:tag>
+    <s:tag>Trending Products</s:tag>
+    <s:variant>
+      <id>https://www.permabrands.ca/products/10907967875</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">145.99</s:price>
+      <s:sku>RR-BDISPLAY</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.permabrands.ca/products/10907975683</id>
+    <published>2021-08-11T23:24:52-04:00</published>
+    <updated>2021-08-11T23:24:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.permabrands.ca/products/rdisplay"/>
+    <title>Rockwell Razors Shave Hardware Display Bundle</title>
+    <s:type>Retail Displays</s:type>
+    <s:vendor>Rockwell Razors</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1196/2904/products/Rockwell_Shave_Hardware_Display_002-min.jpg?v=1527137817"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rockwell Razors<br>
+        <strong>Type: </strong>Retail Displays<br>
+        <strong>Price: </strong>
+            221.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>This retail display includes 4 Rockwell 6C Razors, 6 20-Pack Double Edge Blades, and 6 Rockwell R1 razors. The display comes with a reversible navy/white header.</span></p>
+<p>With header: 10” x 8’’ x 14” (LxWxH)<br>Without header: 8” x 8’’ x 14” (LxWxH)</p>
+<p><em>Features:</em></p>
+<p><strong>The Rockwell 6C Razor</strong></p>
+<style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style>
+<p>Rockwell’s innovative design eliminates shaving irritation and ingrown hairs FOR A CLOSE, COMFORTABLE SHAVE EVERY TIME.</p>
+<p>NO MORE NICKS OR CUTS - The Rockwell 6C features Rockwell’s FULLY ADJUSTABLE SHAVING SYSTEM, so each and every skin type and facial hair length can get great shaves with NO RISK OF NICKS OR CUTS.</p>
+<p>Package contains 1 Rockwell 6C Razor in White Chrome, with 5 Rockwell Razors brand premium Swedish Stainless Steel Razor Blades.</p>
+<p>This Rockwell 6C is cast from premium high-end chromed alloy with a striking White Chrome finish.</p>
+<ul></ul>
+<style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style><style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style><style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style>
+<p><strong>20-Pack Double Edge Blades</strong></p>
+<p>Rockwell Razors Safety Razor Blades are made of premium rust-proof Swedish stainless steel, and specially treated to retain exceptional sharpness</p>
+<p>Each blade lasts 5 to 8 shaves.</p>
+<p>Each blade is double-wrapped in recyclable paper packaging for safety and easy disposal.</p>
+<p>Provides an excellent shave when used with all double-edge safety razors, including Rockwell Razors branded razors.</p>
+<ul></ul>
+<style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style><style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style><style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style>
+<p><strong>The Rockwell R1 Razor</strong></p>
+<p>This premium quality razor features high-end components and an advanced butterfly head for a super easy and intuitive double-edge shaving experience.</p>
+<p>The Rockwell Razors R1 eliminates ingrown hairs, shaving acne, and irritation while providing incredibly smooth shaves.</p>
+<p>Made from carefully selected, superior alloy for a long-lasting, rust-proof shaving tool, and comes with 5 Rockwell Razors brand premium Swedish Stainless Steel Razor Blades.</p>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bundle-item</s:tag>
+    <s:tag>fvideo-top102019</s:tag>
+    <s:tag>p1-100.00</s:tag>
+    <s:tag>p2-100.00</s:tag>
+    <s:tag>p2c-256.00</s:tag>
+    <s:tag>p6c-256.00</s:tag>
+    <s:tag>Pharmacy</s:tag>
+    <s:tag>rvideo-SafetyRazorsKeyBenefits</s:tag>
+    <s:tag>Trending Products</s:tag>
+    <s:variant>
+      <id>https://www.permabrands.ca/products/10907975683</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">221.99</s:price>
+      <s:sku>RR-RDISPLAY</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.permabrands.ca/products/10907978819</id>
+    <published>2021-08-11T23:24:49-04:00</published>
+    <updated>2021-08-11T23:24:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.permabrands.ca/products/sdisplay"/>
+    <title>Rockwell Razors Shave Consumables Display Bundle</title>
+    <s:type>Retail Displays</s:type>
+    <s:vendor>Rockwell Razors</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1196/2904/products/Rockwell_Shave_Softgoods_Display-min.jpg?v=1527137816"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rockwell Razors<br>
+        <strong>Type: </strong>Retail Displays<br>
+        <strong>Price: </strong>
+            160.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This retail display includes 4 Rockwell Pre-Shave Oils, 4<span> </span>Rockwell<span> </span>Shave Creams, 4 Shave Brushes, and 4 Rockwell Aftershave Balms. </p>
+<p>With header: 10” x 8’’ x 14” (LxWxH)<br>Without header: 8” x 8’’ x 14” (LxWxH)</p>
+<p><em>Features:</em></p>
+<p><strong>Pre-Shave Oil</strong></p>
+<style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style>
+<p>Calms and Prevents Irritation and itching using all natural ingredients - preparing you for the smoothest shave possible.</p>
+<style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style>
+<p><span data-sheets-value='{"1":2,"2":"The ultimate pre-shaving solution for those with sensitive skin or thick, coarse facial hair."}' data-sheets-userformat='{"2":15165,"3":{"1":0},"5":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"11":4,"12":0,"14":[null,2,0],"15":"Arial","16":10}'>The ultimate pre-shaving solution for those with sensitive skin or thick, coarse facial hair.</span></p>
+<style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style>
+<p><span data-sheets-value='{"1":2,"2":"The ultimate pre-shaving solution for those with sensitive skin or thick, coarse facial hair."}' data-sheets-userformat='{"2":15165,"3":{"1":0},"5":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"11":4,"12":0,"14":[null,2,0],"15":"Arial","16":10}'>Classic ‘Barbershop Scent’ with notes of Leather, Neroli, Anise, Lilac and Cedar.</span></p>
+<style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style>
+<p><span data-sheets-value='{"1":2,"2":"The ultimate pre-shaving solution for those with sensitive skin or thick, coarse facial hair."}' data-sheets-userformat='{"2":15165,"3":{"1":0},"5":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"11":4,"12":0,"14":[null,2,0],"15":"Arial","16":10}'>Proudly Made in Canada using natural ingredients.</span></p>
+<p><strong>Shave Cream</strong></p>
+<style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style>
+<p>Based on our years of experience improving men’s shaves, we formulated this Shave Cream to build a protective, rich lather that works great with or without a shaving brush.</p>
+<style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style>
+<p><span data-sheets-value='{"1":2,"2":"This is the ultimate shave cream for those with sensitive skin, thick facial hair, or anything in between who are looking to protect their skin from nicks, cuts, tugging, ingrown hairs, or razor bumps."}' data-sheets-userformat='{"2":15165,"3":{"1":0},"5":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"11":4,"12":0,"14":[null,2,0],"15":"Arial","16":10}'>This is the ultimate shave cream for those with sensitive skin, thick facial hair, or anything in between who are looking to protect their skin from nicks, cuts, tugging, ingrown hairs, or razor bumps.</span></p>
+<style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style>
+<p><span data-sheets-value='{"1":2,"2":"This is the ultimate shave cream for those with sensitive skin, thick facial hair, or anything in between who are looking to protect their skin from nicks, cuts, tugging, ingrown hairs, or razor bumps."}' data-sheets-userformat='{"2":15165,"3":{"1":0},"5":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"11":4,"12":0,"14":[null,2,0],"15":"Arial","16":10}'>Our all-natural coconut oil and glycerin will moisturize and prepare your skin and stubble for a painless shave, while our aloe and allantoin will soothe your skin to ensure a smooth shave that just might be the best you’ve ever had.</span></p>
+<style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style>
+<p><span data-sheets-value='{"1":2,"2":"This is the ultimate shave cream for those with sensitive skin, thick facial hair, or anything in between who are looking to protect their skin from nicks, cuts, tugging, ingrown hairs, or razor bumps."}' data-sheets-userformat='{"2":15165,"3":{"1":0},"5":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"11":4,"12":0,"14":[null,2,0],"15":"Arial","16":10}'>With notes of leather, neroli, anise, and cedar, our Rockwell Barbershop Fragrance will take you back in time to a classic American barbershop. We guarantee you’ll love the scent.</span></p>
+<p><strong>Shave Brush</strong></p>
+<style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style>
+<p><span data-sheets-value='{"1":2,"2":"This is the ultimate shave cream for those with sensitive skin, thick facial hair, or anything in between who are looking to protect their skin from nicks, cuts, tugging, ingrown hairs, or razor bumps."}' data-sheets-userformat='{"2":15165,"3":{"1":0},"5":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"11":4,"12":0,"14":[null,2,0],"15":"Arial","16":10}'>Rockwell’s high-end synthetic bristles have excellent water retention to build a great lather, yet dry quickly after use.</span></p>
+<style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style>
+<p><span data-sheets-value='{"1":2,"2":"This is the ultimate shave cream for those with sensitive skin, thick facial hair, or anything in between who are looking to protect their skin from nicks, cuts, tugging, ingrown hairs, or razor bumps."}' data-sheets-userformat='{"2":15165,"3":{"1":0},"5":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"11":4,"12":0,"14":[null,2,0],"15":"Arial","16":10}'>Our black acrylic handle is both durable and hefty.</span></p>
+<style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style>
+<p><span data-sheets-value='{"1":2,"2":"This is the ultimate shave cream for those with sensitive skin, thick facial hair, or anything in between who are looking to protect their skin from nicks, cuts, tugging, ingrown hairs, or razor bumps."}' data-sheets-userformat='{"2":15165,"3":{"1":0},"5":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"11":4,"12":0,"14":[null,2,0],"15":"Arial","16":10}'>Our synthetic bristles don’t harm badgers or other animals, and also do not take on the strong stink of badger bristle brushes and other animal-hair brushes.</span></p>
+<style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style>
+<p><span data-sheets-value='{"1":2,"2":"This is the ultimate shave cream for those with sensitive skin, thick facial hair, or anything in between who are looking to protect their skin from nicks, cuts, tugging, ingrown hairs, or razor bumps."}' data-sheets-userformat='{"2":15165,"3":{"1":0},"5":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"11":4,"12":0,"14":[null,2,0],"15":"Arial","16":10}'>Our unique soft-tipped bristles with a firm backbone allow gentle exfoliation for sensitive skin without compromising bristle structure.</span></p>
+<p><strong>Aftershave Balm</strong></p>
+<style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style>
+<p><span data-sheets-value='{"1":2,"2":"This is the ultimate shave cream for those with sensitive skin, thick facial hair, or anything in between who are looking to protect their skin from nicks, cuts, tugging, ingrown hairs, or razor bumps."}' data-sheets-userformat='{"2":15165,"3":{"1":0},"5":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"11":4,"12":0,"14":[null,2,0],"15":"Arial","16":10}'>Based on our years of experience improving men’s shaves, we formulated this Post-Shave Balm to immediately soothe irritation and relieve razor burn after each shave.</span></p>
+<style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style>
+<p><span data-sheets-value='{"1":2,"2":"This is the ultimate shave cream for those with sensitive skin, thick facial hair, or anything in between who are looking to protect their skin from nicks, cuts, tugging, ingrown hairs, or razor bumps."}' data-sheets-userformat='{"2":15165,"3":{"1":0},"5":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"11":4,"12":0,"14":[null,2,0],"15":"Arial","16":10}'>This is the ultimate aftershave solution for any man looking for fast relief from razor burn or irritation. Our Aftershave Balm leaves your skin hydrated all day without leaving any sticky or chalky residue.</span></p>
+<style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style>
+<p><span data-sheets-value='{"1":2,"2":"This is the ultimate shave cream for those with sensitive skin, thick facial hair, or anything in between who are looking to protect their skin from nicks, cuts, tugging, ingrown hairs, or razor bumps."}' data-sheets-userformat='{"2":15165,"3":{"1":0},"5":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"11":4,"12":0,"14":[null,2,0],"15":"Arial","16":10}'>Our blend of natural oils like jojoba and argan oil, paired with restorative shea butter and mango butter and refreshing witch hazel will leave your skin feeling refreshed, soothed, and healthy.</span></p>
+<style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style>
+<p><span data-sheets-value='{"1":2,"2":"This is the ultimate shave cream for those with sensitive skin, thick facial hair, or anything in between who are looking to protect their skin from nicks, cuts, tugging, ingrown hairs, or razor bumps."}' data-sheets-userformat='{"2":15165,"3":{"1":0},"5":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"11":4,"12":0,"14":[null,2,0],"15":"Arial","16":10}'>With notes of leather, neroli, anise, and cedar, our Rockwell Barbershop Fragrance will take you back in time to a classic American barbershop. We guarantee you’ll love the scent.</span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bundle-item</s:tag>
+    <s:tag>fvideo-Top10video</s:tag>
+    <s:tag>p2c-120.00</s:tag>
+    <s:tag>p6c-120.00</s:tag>
+    <s:tag>Pharmacy</s:tag>
+    <s:tag>rvideo-EcoandZeroWasteProducts</s:tag>
+    <s:tag>rvideo-SafetyRazorsKeyBenefits</s:tag>
+    <s:tag>Trending Products</s:tag>
+    <s:variant>
+      <id>https://www.permabrands.ca/products/10907978819</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">160.00</s:price>
+      <s:sku>RR-SDISPLAY</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.permabrands.ca/products/10901353859</id>
+    <published>2021-08-11T23:24:46-04:00</published>
+    <updated>2021-08-11T23:24:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.permabrands.ca/products/gladstonebundle"/>
+    <title>Mr. Gladstone Solid Cologne Full Retail Display Bundle</title>
+    <s:type>Solid Cologne</s:type>
+    <s:vendor>Mr Gladstone</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1196/2904/products/Gladstone_Case_fff_2-min_grande_grande_02cd3acf-5584-4e5b-89db-76feab4e7f7b.jpg?v=1527137519"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mr Gladstone<br>
+        <strong>Type: </strong>Solid Cologne<br>
+        <strong>Price: </strong>
+            271.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div></div>
+<div>
+<div>Natural, wax-based solid cologne designed to traverse life's thrilling paths with effortless confidence.</div>
+</div>
+<p>Mr. Gladstone Full Display holds:</p>
+<p>6 x Cathay Solid Cologne - Fine Fragrance Reminiscent of 1932 Shanghai</p>
+<p>6 x Trevelin Solid Cologne - Fine Fragrance Reminiscent of 1974 Patagonia</p>
+<p>6 x Vieux Port Solid Cologne - Fine Fragrance Reminiscent of 1961 Saint-Tropez</p>
+<p><strong>Mr. Gladstone Colognes:</strong></p>
+<style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style><style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style>
+<p><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Mr. Gladstone crafts natural, solid wax-based colognes designed to roam, navigate and traverse life's thrilling paths with effortless confidence.&quot;}" data-sheets-userformat='{"2":15165,"3":{"1":0},"5":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"11":4,"12":0,"14":[null,2,0],"15":"Arial","16":10}'>Mr. Gladstone crafts natural, solid wax-based colognes designed to roam, navigate and traverse life's thrilling paths with effortless confidence.</span></p>
+<style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style>
+<p><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Mr. Gladstone crafts natural, solid wax-based colognes designed to roam, navigate and traverse life's thrilling paths with effortless confidence.&quot;}" data-sheets-userformat='{"2":15165,"3":{"1":0},"5":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"11":4,"12":0,"14":[null,2,0],"15":"Arial","16":10}'>Portable, durable and discreet, a mere dab on the pulse points has the endurance and vigor to withstand a long day's journey into night.</span></p>
+<style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style>
+<p><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Mr. Gladstone crafts natural, solid wax-based colognes designed to roam, navigate and traverse life's thrilling paths with effortless confidence.&quot;}" data-sheets-userformat='{"2":15165,"3":{"1":0},"5":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"11":4,"12":0,"14":[null,2,0],"15":"Arial","16":10}'>To apply, lightly slide a finger over cologne and dab onto pulse points such as the wrist, or behind the ears and neck.</span></p>
+<style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style>
+<p><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Mr. Gladstone crafts natural, solid wax-based colognes designed to roam, navigate and traverse life's thrilling paths with effortless confidence.&quot;}" data-sheets-userformat='{"2":15165,"3":{"1":0},"5":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"11":4,"12":0,"14":[null,2,0],"15":"Arial","16":10}'>INGREDIENTS: Shea butter, coconut oil, mango butter, sweet almond oil, emulsifying wax, grape seed oil, and other artificial and natural ingredients.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bundle-item</s:tag>
+    <s:tag>Colognes &amp; Fragrances</s:tag>
+    <s:tag>fvideo-MrGladstoneSolidCologne</s:tag>
+    <s:tag>New-Featured</s:tag>
+    <s:tag>p2c-229.50</s:tag>
+    <s:tag>p6c-229.50</s:tag>
+    <s:tag>rvideo-Top10video</s:tag>
+    <s:tag>Trending Products</s:tag>
+    <s:variant>
+      <id>https://www.permabrands.ca/products/10901353859</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">271.99</s:price>
+      <s:sku>MRG-DIS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.permabrands.ca/products/10596661123</id>
+    <published>2021-08-11T23:21:00-04:00</published>
+    <updated>2021-08-11T23:21:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.permabrands.ca/products/dapperdan1"/>
+    <title>Dapper Dan Hair Pomade Retail Display</title>
+    <s:type>Pomade &amp; Hair Products</s:type>
+    <s:vendor>Dapper Dan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1196/2904/products/DapperDan4ChannelSet.jpg?v=1567004221"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dapper Dan<br>
+        <strong>Type: </strong>Pomade &amp; Hair Products<br>
+        <strong>Price: </strong>
+            300.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Dapper Dan's Four Channel Display Unit is a must-have for businesses that carry products for the English manufacturer's signature line. </div>
+<div> </div>
+<div>The Display Channel houses up to four rows of Dapper Dan pomades, clays, or matts. It also is capable of holding beard oils, an excellent option for those seeking to add variety to their catalog.</div>
+<div></div>
+<div>  </div>
+<div>The vintage tin is designed specifically by Dapper Dan to complement their products and present them in a manner that's both appealing and organized, leading to additional revenue for your business. </div>
+<div>  </div>
+<div>Dapper Dan's best-selling products come from Sheffield, England.</div>
+<div></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bundle-item</s:tag>
+    <s:tag>Dapper Dan</s:tag>
+    <s:tag>fvideo-DDHairProductsvideo</s:tag>
+    <s:tag>rvideo-top102019</s:tag>
+    <s:variant>
+      <id>https://www.permabrands.ca/products/10596661123</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">300.40</s:price>
+      <s:sku>DD-008503</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.permabrands.ca/products/1429620293705</id>
+    <published>2018-08-08T11:05:19-04:00</published>
+    <updated>2018-08-08T11:05:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.permabrands.ca/products/beardoildisplay"/>
+    <title>Captain Fawcett&apos;s Beard Oil Set Bundle</title>
+    <s:type>Beard Oils</s:type>
+    <s:vendor>Captain Fawcett&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1196/2904/products/CPF-BEARDOIL-DISPLAY_copy.png?v=1533742795"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Captain Fawcett&#39;s<br>
+        <strong>Type: </strong>Beard Oils<br>
+        <strong>Price: </strong>
+            262.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This retail display includes:</p>
+<p>5 x The Million Dollar Beard Oil</p>
+<p>5 x Ricki Hall Booze &amp; Baccy Beard Oil</p>
+<p>5 x Barberism Beard Oil 5 x Private Stock Beard Oil.</p>
+<p>Display comes with a reversible header.</p>
+<p>With header: 16.5” x 15’’ x 22.5” (LxWxH) Without header: 16.5” x 15’’ x 10” (LxWxH)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bundle-item</s:tag>
+    <s:tag>bundle-product</s:tag>
+    <s:tag>fvideo-CaptainFawcettCollectionvideo</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>rvideo-top102019</s:tag>
+    <s:variant>
+      <id>https://www.permabrands.ca/products/1429620293705</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">262.50</s:price>
+      <s:sku>CPF-BEARDOIL-DISPLAY</s:sku>
+      <s:grams>1188</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.permabrands.ca/products/1429593915465</id>
+    <published>2018-08-08T10:31:53-04:00</published>
+    <updated>2018-08-08T10:31:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.permabrands.ca/products/bbalmdisplay"/>
+    <title>Captain Fawcett&apos;s Beard Balm Set Bundle</title>
+    <s:type>Beard Balm</s:type>
+    <s:vendor>Captain Fawcett&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1196/2904/products/CPF-BALM-DISPLAY_copy.png?v=1567003753"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Captain Fawcett&#39;s<br>
+        <strong>Type: </strong>Beard Balm<br>
+        <strong>Price: </strong>
+            306.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>This retail display includes </span></p>
+<p>6 x Barberism Beard Balm,</p>
+<p>6 x Private Stock Beard Balm and</p>
+<ul></ul>
+<p>6 x Ricki Hall Booze &amp; Baccy Beard Balm.</p>
+<p>Display comes with a reversible header.         </p>
+<p>With header: 21” x 15.5’’ x 23.5” (LxWxH), Without header: 21” x 15.5’’ x 8” (LxWxH)</p>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bundle-item</s:tag>
+    <s:tag>Captain Fawcett</s:tag>
+    <s:tag>Captain Fawcett&apos;s</s:tag>
+    <s:tag>fvideo-CaptainFawcettCollectionvideo</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>rvideo-top102019</s:tag>
+    <s:variant>
+      <id>https://www.permabrands.ca/products/1429593915465</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">306.00</s:price>
+      <s:sku>CPF-BALM-DISPLAY</s:sku>
+      <s:grams>1640</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.permabrands.ca/products/1428464074825</id>
+    <published>2018-08-07T17:25:18-04:00</published>
+    <updated>2018-08-07T17:25:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.permabrands.ca/products/valuehdisplay"/>
+    <title>Rockwell Razors Rookie Value Bundle Shave Hardware Display</title>
+    <s:type>Retail Displays</s:type>
+    <s:vendor>Rockwell Razors</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1196/2904/products/RR-value-bundle_copy.png?v=1566916168"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rockwell Razors<br>
+        <strong>Type: </strong>Retail Displays<br>
+        <strong>Price: </strong>
+            86.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>This retail display includes 6</span> x Rockwell R1 Razors (WC), 4 x 20-Pack Double Edge Blades and 3 x Razor Bank.</p>
+<p><span>The display comes with a reversible navy/white header.</span></p>
+<p>With header: 10” x 8’’ x 14” (LxWxH)<br>Without header: 8” x 8’’ x 14” (LxWxH)</p>
+<p><em>Features:</em></p>
+<p><strong>The Rockwell R1 Razor</strong></p>
+<p>This premium quality razor features high-end components and an advanced butterfly head for an easy and intuitive double-edge shaving experience.</p>
+<p>The R1 is set to Rockwell's most gentle setting - making it nearly IMPOSSIBLE TO CUT YOURSELF even when shaving sensitive areas!</p>
+<p>The Rockwell Razors R1 eliminates ingrown hairs, shaving acne, and irritation while providing incredibly smooth shaves.</p>
+<p>Made from carefully selected, superior alloy for a long-lasting, rust-proof shaving tool, and comes with 5 Rockwell Razors brand premium Swedish Stainless Steel Razor Blades.</p>
+<p><strong>20-pack Double Edge Blades</strong>﻿</p>
+<p>Rockwell Razors Safety Razor Blades are made of premium rust-proof Swedish stainless steel and specially treated to retain exceptional sharpness.</p>
+<p>Each blade lasts 5 to 8 shaves.</p>
+<p>Each blade is double-wrapped in recyclable paper packaging for safety and easy disposal.</p>
+<p>Provides an excellent shave when used with all double-edge safety razors, including Rockwell Razors branded razors.</p>
+<p><strong>Blade Bank</strong> </p>
+<p>Rather than throwing exposed used blades in the garbage, safely store them in a Rockwell Blade Bank for easy, recyclable disposal.</p>
+<p>Made from recyclable tin, the Rockwell Blade Bank allows you to easily divert waste that otherwise goes to landfill.</p>
+<p>Each Rockwell Blade Bank fits over 50 used razor blades and can be expected to last for over one year before needing to be recycled and replaced.</p>
+<p>The Rockwell Blade Bank fits all types of double-edge razor blades and other barber-grade blades.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bundle-item</s:tag>
+    <s:tag>fvideo-Top10video</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Pharmacy</s:tag>
+    <s:tag>Retail Product</s:tag>
+    <s:tag>rvideo-EcoandZeroWasteProducts</s:tag>
+    <s:tag>rvideo-SafetyRazorsKeyBenefits</s:tag>
+    <s:variant>
+      <id>https://www.permabrands.ca/products/1428464074825</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">86.00</s:price>
+      <s:sku>RR-VALUEHDISPLAY</s:sku>
+      <s:grams>1020</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.permabrands.ca/products/1428431863881</id>
+    <published>2018-08-07T17:08:09-04:00</published>
+    <updated>2018-08-07T17:08:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.permabrands.ca/products/bibgroomdisplay"/>
+    <title>Rockwell Razors Beard Bib and Manicure set Display Bundle</title>
+    <s:type>Retail Displays</s:type>
+    <s:vendor>Rockwell Razors</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1196/2904/products/RR-BEARDBIB-MANICURE_copy.png?v=1566915480"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rockwell Razors<br>
+        <strong>Type: </strong>Retail Displays<br>
+        <strong>Price: </strong>
+            102.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>This retail display includes 4 Rockwell Beard Bib, 6 Manicure Sets. The display comes with a reversible navy/white header.</span></p><p>With header: 10” x 8’’ x 14” (LxWxH)<br>Without header: 8” x 8’’ x 14” (LxWxH)</p><p><em>Features:</em></p><p><strong>Beard Bib</strong>﻿</p><p>Catch your beard and hair trimmings while shaving and trimming.</p><p>No mess and no clogged drains.</p><p>It couldn't be easier to use.</p><p>Wear it like an apron and use the two suction cups to stick the Beard Bib to your mirror.</p><p><strong>Manicure Set</strong></p><p>Made from high-grade stainless steel</p><p>The Rockwell Manicure Set includes all the quality instruments a man could need to keep his fingernails and toenails in order.</p><p>Designed with form and function in mind, this it will keep your nails neat for years.</p><p>Includes Nail Clippers, Toenail Clippers, Tweezers, Nail Scissors, Nail File and Carrying Case</p><p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bundle-item</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Pharmacy</s:tag>
+    <s:tag>Retail Product</s:tag>
+    <s:variant>
+      <id>https://www.permabrands.ca/products/1428431863881</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">102.00</s:price>
+      <s:sku>RR-MDISPLAY</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+</feed>
